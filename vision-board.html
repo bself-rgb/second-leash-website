@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vision Board | Second Leash</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <style>
+        body{
+            margin:0;
+            font-family:Arial,Helvetica,sans-serif;
+            background:#f5f7f5;
+            color:#333;
+        }
+
+        .hero{
+            background:linear-gradient(rgba(0,0,0,.45),rgba(0,0,0,.45)),
+            url("assets/images/future-facility.jpg") center/cover;
+            padding:120px 20px;
+            color:white;
+            text-align:center;
+        }
+
+        .hero h1{
+            font-size:3rem;
+            margin-bottom:15px;
+        }
+
+        .hero p{
+            max-width:800px;
+            margin:auto;
+            font-size:1.2rem;
+        }
+
+        .container{
+            width:90%;
+            max-width:1200px;
+            margin:60px auto;
+        }
+
+        h2{
+            text-align:center;
+            color:#0b6b44;
+            margin-bottom:35px;
+        }
+
+        .vision-grid{
+            display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+            gap:30px;
+        }
+
+        .card{
+            background:white;
+            border-radius:15px;
+            overflow:hidden;
+            box-shadow:0 5px 18px rgba(0,0,0,.12);
+            transition:.3s;
+        }
+
+        .card:hover{
+            transform:translateY(-6px);
+        }
+
+        .card img{
+            width:100%;
+            height:240px;
+            object-fit:cover;
+        }
+
+        .card-content{
+            padding:25px;
+        }
+
+        .card h3{
+            color:#0b6b44;
+            margin-top:0;
+        }
+
+        .quote{
+            background:#0b6b44;
+            color:white;
+            padding:80px 20px;
+            text-align:center;
+            margin-top:80px;
+        }
+
+        .quote h2{
+            color:white;
+            margin-bottom:20px;
+        }
+
+        .quote p{
+            max-width:850px;
+            margin:auto;
+            font-size:1.2rem;
+            line-height:1.8;
+        }
+
+        footer{
+            background:#222;
+            color:#ddd;
+            text-align:center;
+            padding:30px;
+        }
+
+    </style>
+</head>
+
+<body>
+
+<section class="hero">
+    <h1>Our Vision Board</h1>
+
+    <p>
+        Every great mission begins with a vision. These concepts represent the future
+        we are working toward—one where no family has to lose their dog because of a
+        temporary crisis.
+    </p>
+</section>
+
+<div class="container">
+
+<h2>The Future of Second Leash</h2>
+
+<div class="vision-grid">
+
+<div class="card">
+<img src="assets/images/intake-facility.jpg" alt="Emergency Intake Facility">
+
+<div class="card-content">
+<h3>Emergency Intake Facility</h3>
+
+<p>
+A safe, welcoming place where dogs can receive immediate care while we locate
+a foster family. Designed to reduce shelter intake and prevent unnecessary
+owner surrenders.
+</p>
+
+</div>
+</div>
+
+<div class="card">
+<img src="assets/images/private-runs.jpg" alt="Private Outdoor Runs">
+
+<div class="card-content">
+<h3>Private Outdoor Runs</h3>
+
+<p>
+Every dog deserves a peaceful outdoor space with room to exercise, decompress,
+and receive enrichment while waiting to return home.
+</p>
+
+</div>
+</div>
+
+<div class="card">
+<img src="assets/images/reunion.jpg" alt="Family Reunion">
+
+<div class="card-content">
+<h3>Reunification</h3>
+
+<p>
+Our greatest goal will always be bringing families and their dogs back together.
+Every foster placement is one step closer to that reunion.
+</p>
+
+</div>
+</div>
+
+<div class="card">
+<img src="assets/images/community-partners.jpg" alt="Community Partnerships">
+
+<div class="card-content">
+<h3>Community Partnerships</h3>
+
+<p>
+Working alongside treatment centers, hospitals, law enforcement, domestic
+violence programs, and community organizations across Arkansas.
+</p>
+
+</div>
+</div>
+
+<div class="card">
+<img src="assets/images/foster-family.jpg" alt="Foster Families">
+
+<div class="card-content">
+<h3>Statewide Foster Network</h3>
+
+<p>
+A network of compassionate foster homes ready to step in whenever families
+need temporary help.
+</p>
+
+</div>
+</div>
+
+<div class="card">
+<img src="assets/images/education.jpg" alt="Education">
+
+<div class="card-content">
+<h3>Education & Prevention</h3>
+
+<p>
+Providing emergency planning resources, pet preparedness guides, and support
+that helps keep pets with the people who love them.
+</p>
+
+</div>
+</div>
+
+</div>
+
+</div>
+
+<section class="quote">
+
+<h2>Our Dream</h2>
+
+<p>
+
+"To become Arkansas's leading crisis pet foster organization, ensuring that no
+person ever has to choose between getting help and keeping their best friend."
+
+</p>
+
+</section>
+
+<footer>
+
+<p>
+Second Leash • Because hard times shouldn't mean permanent goodbyes.
+</p>
+
+</footer>
+
+</body>
+</html>
