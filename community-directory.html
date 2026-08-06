@@ -1,1 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <title>Arkansas Animal Rescue Directory | Second Leash</title>
+
+  <meta
+    name="description"
+    content="Search Arkansas animal shelters, humane societies, foster-based rescues, and animal welfare organizations."
+  >
+
+  <link rel="stylesheet" href="assets/css/directory.css">
+</head>
+
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="logo-link">
+        <span class="site-name">Second Leash</span>
+      </a>
+
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="resources.html">Resources</a>
+        <a href="community-directory.html" aria-current="page">
+          Community Directory
+        </a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+
+    <section class="directory-hero">
+      <div class="container">
+        <p class="eyebrow">Arkansas Animal Welfare Resources</p>
+
+        <h1>Arkansas Animal Rescue and Shelter Directory</h1>
+
+        <p>
+          Search animal shelters, humane societies, foster-based rescues,
+          and other animal welfare organizations throughout Arkansas.
+        </p>
+      </div>
+    </section>
+
+    <section class="directory-section">
+      <div class="container">
+
+        <div class="notice">
+          <strong>Please contact organizations before traveling.</strong>
+          Intake policies, hours, service areas, and availability may change.
+          Second Leash does not guarantee that an organization can accept an animal.
+        </div>
+
+        <div class="directory-controls"><div class="control-group search-group">
+            <label for="searchInput">Search</label>
+
+            <input
+              type="search"
+              id="searchInput"
+              placeholder="Search by name, city, county, or service"
+            >
+          </div>
+
+          <div class="control-group">
+            <label for="countyFilter">County</label>
+
+            <select id="countyFilter">
+              <option value="">All counties</option>
+            </select>
+          </div>
+
+          <div class="control-group">
+            <label for="typeFilter">Organization type</label>
+
+            <select id="typeFilter">
+              <option value="">All organization types</option>
+            </select>
+          </div>
+
+          <div class="control-group">
+            <label for="animalFilter">Animals served</label>
+
+            <select id="animalFilter">
+              <option value="">All animals</option>
+              <option value="Dogs">Dogs</option>
+              <option value="Cats">Cats</option>
+              <option value="Horses">Horses</option>
+              <option value="Farm Animals">Farm animals</option>
+              <option value="Small Animals">Small animals</option>
+              <option value="Wildlife">Wildlife</option>
+            </select>
+          </div>
+
+          <div class="control-group">
+            <label for="serviceFilter">Service</label>
+
+            <select id="serviceFilter">
+              <option value="">All services</option>
+            </select>
+          </div>
+
+          <button type="button" id="clearFilters" class="clear-button">
+            Clear filters
+          </button>
+
+        </div>
+
+        <div class="directory-summary">
+          <p id="resultCount">Loading organizations...</p>
+        </div>
+
+        <div id="directoryResults" class="directory-grid"></div>
+
+        <div id="emptyMessage" class="empty-message" hidden>
+          <h2>No organizations found</h2>
+
+          <p>
+            Try removing a filter or searching by a nearby city or county.
+          </p>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        © 2026 Second Leash. Information is provided as a community resource.
+      </p>
+    </div>
+  </footer>
+
+  <script src="assets/js/directory.js"></script>
+</body>
+</html>
+
+
+
+          
