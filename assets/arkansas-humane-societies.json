@@ -1,0 +1,495 @@
+[
+  {
+    "id": "humane-society-pulaski-county",
+    "name": "Humane Society of Pulaski County",
+    "type": "Humane Society / Private Shelter",
+    "city": "Little Rock",
+    "county": "Pulaski",
+    "zip": "72210",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Adoption",
+      "Foster Program",
+      "Veterinary Care",
+      "Spay/Neuter",
+      "Volunteer Opportunities"
+    ],
+    "phone": "501-227-6166",
+    "email": "",
+    "website": "https://warmhearts.org/",
+    "facebook": "https://www.facebook.com/HumaneSocietyPulaskiCounty/",
+    "address": "14600 Colonel Glenn Road, Little Rock, AR 72210",
+    "intakePolicy": "Contact the organization before bringing an animal. Space and eligibility may be limited.",
+    "serviceArea": "Central Arkansas",
+    "description": "Private nonprofit humane society providing rescue, rehabilitation, veterinary care, spay/neuter, and adoption for dogs and cats.",
+    "verified": "2026-08-06",
+    "source": "https://warmhearts.org/"
+  },
+  {
+    "id": "northeast-arkansas-humane-society",
+    "name": "Northeast Arkansas Humane Society",
+    "type": "Humane Society / Private Shelter",
+    "city": "Jonesboro",
+    "county": "Craighead",
+    "zip": "72401",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Adoption",
+      "Foster Program",
+      "Owner Surrender",
+      "Volunteer Opportunities"
+    ],
+    "phone": "870-932-5185",
+    "email": "administrator@neahs.org",
+    "website": "https://www.neahs.org/",
+    "facebook": "https://www.facebook.com/HumaneSocietyNEA/",
+    "address": "6111 E. Highland Drive, Jonesboro, AR 72401",
+    "intakePolicy": "Contact the shelter regarding current surrender requirements, fees, and available space.",
+    "serviceArea": "Northeast Arkansas",
+    "description": "Nonprofit animal shelter helping place surrendered and abandoned animals into homes across Northeast Arkansas.",
+    "verified": "2026-08-06",
+    "source": "https://www.neahs.org/contact-us"
+  },
+  {
+    "id": "humane-society-animals-rogers",
+    "name": "Humane Society for Animals, Inc.",
+    "type": "Humane Society / Private Shelter",
+    "city": "Rogers",
+    "county": "Benton",
+    "zip": "72758",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Adoption",
+      "Emergency Transport",
+      "Spay/Neuter Assistance",
+      "Humane Education"
+    ],
+    "phone": "479-636-3703",
+    "email": "",
+    "website": "https://nwahumanesocietyforanimals.org/",
+    "facebook": "https://www.facebook.com/HumaneSocietyForAnimalsInc/",
+    "address": "405 E. Nursery Road, Rogers, AR 72758",
+    "intakePolicy": "Contact the shelter before bringing an animal. Intake availability and county eligibility may apply.",
+    "serviceArea": "Benton County and Northwest Arkansas",
+    "description": "No-kill shelter serving dogs and cats and acting as an emergency transport hub.",
+    "verified": "2026-08-06",
+    "source": "https://nwahumanesocietyforanimals.org/"
+  },
+  {
+    "id": "humane-society-north-central-arkansas",
+    "name": "Humane Society of North Central Arkansas",
+    "type": "Humane Society / Private Shelter",
+    "city": "Mountain Home",
+    "county": "Baxter",
+    "zip": "72653",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Adoption",
+      "Volunteer Opportunities"
+    ],
+    "phone": "870-425-9221",
+    "email": "",
+    "website": "https://humanesocietyofnca.org/",
+    "facebook": "https://www.facebook.com/p/Humane-Society-of-North-Central-Arkansas-100069110412583/",
+    "address": "2656 Highway 201 North, Mountain Home, AR 72653",
+    "intakePolicy": "Shelter visits are by appointment. Call for current intake information.",
+    "serviceArea": "North Central Arkansas",
+    "description": "Private humane society shelter serving North Central Arkansas.",
+    "verified": "2026-08-06",
+    "source": "https://humanesocietyofnca.org/"
+  },
+  {
+    "id": "humane-society-saline-county",
+    "name": "Humane Society of Saline County",
+    "type": "Humane Society / Private Shelter",
+    "city": "Bauxite",
+    "county": "Saline",
+    "zip": "72011",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Rehoming Assistance",
+      "Transport",
+      "Low-Cost Vaccinations",
+      "Spay/Neuter Assistance"
+    ],
+    "phone": "501-557-5518",
+    "email": "",
+    "website": "https://www.hssaline.org/",
+    "facebook": "",
+    "address": "7600 Highway 183, Bauxite, AR 72011",
+    "intakePolicy": "Animal intakes are by appointment only. The organization states that owners may need to foster while receiving rehoming assistance.",
+    "serviceArea": "Saline County",
+    "description": "Volunteer nonprofit humane society offering animal welfare assistance, clinics, rehoming support, and transport.",
+    "verified": "2026-08-06",
+    "source": "https://www.hssaline.org/"
+  },
+  {
+    "id": "good-shepherd-humane-society",
+    "name": "Good Shepherd Humane Society",
+    "type": "Humane Society / Private Shelter",
+    "city": "Eureka Springs",
+    "county": "Carroll",
+    "zip": "72632",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Adoption",
+      "Veterinary Clinic",
+      "Volunteer Opportunities"
+    ],
+    "phone": "479-253-9188",
+    "email": "adoptioncenter@goodshepherd-hs.org",
+    "website": "https://www.goodshepherd-hs.org/",
+    "facebook": "https://www.facebook.com/GoodShepherdHumaneSociety/",
+    "address": "6486 Highway 62 W, Eureka Springs, AR 72632",
+    "intakePolicy": "Contact the shelter before bringing an animal to confirm eligibility and available space.",
+    "serviceArea": "Carroll County and surrounding area",
+    "description": "Nonprofit shelter serving Carroll County and surrounding communities.",
+    "verified": "2026-08-06",
+    "source": "https://www.goodshepherd-hs.org/contact-us"
+  },
+  {
+    "id": "ozark-humane-society",
+    "name": "Ozark Humane Society",
+    "type": "Humane Society / Private Shelter",
+    "city": "Harrison",
+    "county": "Boone",
+    "zip": "72601",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Adoption",
+      "Volunteer Opportunities"
+    ],
+    "phone": "870-741-3050",
+    "email": "ohsshelter@gmail.com",
+    "website": "https://ozarkhumanesociety.org/",
+    "facebook": "",
+    "address": "5147 Rock Springs Road, Harrison, AR 72601",
+    "intakePolicy": "Contact the shelter before bringing an animal to ask about current intake availability.",
+    "serviceArea": "Boone County and surrounding area",
+    "description": "Nonprofit organization matching dogs and cats with adoptive homes.",
+    "verified": "2026-08-06",
+    "source": "https://ozarkhumanesociety.org/"
+  },
+  {
+    "id": "humane-society-ozarks",
+    "name": "Humane Society of the Ozarks",
+    "type": "Humane Society / Foster-Based Rescue",
+    "city": "Fayetteville",
+    "county": "Washington",
+    "zip": "72703",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Adoption",
+      "Foster Program",
+      "Emergency Veterinary Assistance",
+      "Spay/Neuter Assistance",
+      "Humane Education"
+    ],
+    "phone": "479-444-7387",
+    "email": "animalservices@hsozarks.com",
+    "website": "https://hsozarks.org/",
+    "facebook": "https://www.facebook.com/hsozarks/",
+    "address": "",
+    "intakePolicy": "Foster-based organization with no public shelter. Contact the organization regarding assistance or intake.",
+    "serviceArea": "Northwest Arkansas",
+    "description": "Foster-based humane society providing adoption, advocacy, education, and veterinary assistance programs.",
+    "verified": "2026-08-06",
+    "source": "https://hsozarks.org/"
+  },
+  {
+    "id": "humane-society-independence-county",
+    "name": "Humane Society of Independence County / Finding Furever Friends",
+    "type": "Humane Society / Private Shelter",
+    "city": "Batesville",
+    "county": "Independence",
+    "zip": "72501",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Adoption",
+      "Foster Program",
+      "Rescue",
+      "Volunteer Opportunities"
+    ],
+    "phone": "870-793-0090",
+    "email": "office@hsicshelter.org",
+    "website": "https://www.hsicshelter.org/",
+    "facebook": "https://www.facebook.com/HSICShelter/",
+    "address": "5 Environmental Drive, Batesville, AR 72501",
+    "intakePolicy": "Contact the shelter before bringing an animal. The organization has announced a transition to the name Finding Furever Friends.",
+    "serviceArea": "Independence County",
+    "description": "No-kill nonprofit shelter rescuing and placing abandoned, abused, and homeless dogs and cats.",
+    "verified": "2026-08-06",
+    "source": "https://www.hsicshelter.org/"
+  },
+  {
+    "id": "humane-society-ouachitas",
+    "name": "Humane Society of the Ouachitas",
+    "type": "Humane Society / Private Shelter",
+    "city": "Mena",
+    "county": "Polk",
+    "zip": "71953",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Adoption",
+      "Low-Cost Spay/Neuter",
+      "Vaccinations",
+      "Humane Education"
+    ],
+    "phone": "479-394-5682",
+    "email": "",
+    "website": "https://hsomena.org/",
+    "facebook": "",
+    "address": "368 Polk Road 50, Mena, AR 71953",
+    "intakePolicy": "Contact the shelter before bringing an animal to confirm intake availability.",
+    "serviceArea": "Polk County",
+    "description": "No-kill shelter serving homeless animals in Polk County and offering humane services.",
+    "verified": "2026-08-06",
+    "source": "https://hsomena.org/"
+  },
+  {
+    "id": "humane-society-marion-county",
+    "name": "Humane Society of Marion County Arkansas",
+    "type": "Humane Society / Volunteer Rescue",
+    "city": "Yellville",
+    "county": "Marion",
+    "zip": "72687",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Adoption",
+      "Volunteer Opportunities"
+    ],
+    "phone": "870-416-3428",
+    "email": "humanesocietyyellville@yahoo.com",
+    "website": "https://hsmcpets.org/",
+    "facebook": "",
+    "address": "",
+    "intakePolicy": "All-volunteer organization. Contact the rescue before bringing an animal or visiting.",
+    "serviceArea": "Marion County and North Central Arkansas",
+    "description": "All-volunteer, no-kill humane society and animal rescue not affiliated with local government or animal control.",
+    "verified": "2026-08-06",
+    "source": "https://hsmcpets.org/"
+  },
+  {
+    "id": "stone-county-humane-society",
+    "name": "Stone County Humane Society",
+    "type": "Humane Society / Private Shelter",
+    "city": "Mountain View",
+    "county": "Stone",
+    "zip": "72560",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Adoption",
+      "Foster Support",
+      "Spay/Neuter Assistance",
+      "Microchipping"
+    ],
+    "phone": "870-269-5200",
+    "email": "schs@yelcot.net",
+    "website": "https://www.schspets.org/",
+    "facebook": "https://www.facebook.com/Stonecountyhumanesociety/",
+    "address": "17379 Highway 9, Mountain View, AR 72560",
+    "intakePolicy": "Limited-space shelter using a wait list. Contact the shelter before bringing an animal; foster support may be available while waiting.",
+    "serviceArea": "Stone County",
+    "description": "Private no-kill shelter for dogs and cats with limited capacity.",
+    "verified": "2026-08-06",
+    "source": "https://www.schspets.org/"
+  },
+  {
+    "id": "humane-society-faulkner-county",
+    "name": "Humane Society of Faulkner County",
+    "type": "Humane Society / Animal Assistance Organization",
+    "city": "Conway",
+    "county": "Faulkner",
+    "zip": "72033",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Spay/Neuter Assistance",
+      "Vaccination Clinics",
+      "Pet Food Assistance",
+      "Veterinary Financial Assistance",
+      "Animal Advocacy"
+    ],
+    "phone": "",
+    "email": "fixingfaulknercounty@gmail.com",
+    "website": "https://www.fixingfaulknercounty.com/",
+    "facebook": "https://www.facebook.com/HumaneSocietyFaulknerCounty/",
+    "address": "",
+    "intakePolicy": "This organization does not operate a public animal shelter. Contact it regarding assistance programs.",
+    "serviceArea": "Faulkner County",
+    "description": "All-volunteer humane society focused on spay/neuter, vaccinations, pet food, medical aid, and animal advocacy.",
+    "verified": "2026-08-06",
+    "source": "https://www.fixingfaulknercounty.com/"
+  },
+  {
+    "id": "jackson-county-humane-society",
+    "name": "Jackson County Humane Society",
+    "type": "Humane Society / Private Shelter",
+    "city": "Newport",
+    "county": "Jackson",
+    "zip": "72122",
+    "animals": [
+      "Dogs"
+    ],
+    "services": [
+      "Adoption",
+      "Foster Program",
+      "Volunteer Opportunities"
+    ],
+    "phone": "870-512-9780",
+    "email": "",
+    "website": "https://www.jchumanesocietyofar.com/",
+    "facebook": "",
+    "address": "4027 Campbell Avenue, Newport, AR 72122",
+    "intakePolicy": "Contact the organization before bringing an animal. Adoption and foster forms are available through its website.",
+    "serviceArea": "Jackson County",
+    "description": "Humane society shelter offering dog adoption and foster opportunities.",
+    "verified": "2026-08-06",
+    "source": "https://www.jchumanesocietyofar.com/contact/"
+  },
+  {
+    "id": "searcy-county-humane-society",
+    "name": "Operation Kindness Searcy County Humane Society",
+    "type": "Humane Society / Private Shelter",
+    "city": "Leslie",
+    "county": "Searcy",
+    "zip": "72645",
+    "animals": [
+      "Dogs"
+    ],
+    "services": [
+      "Adoption",
+      "Spay/Neuter Assistance"
+    ],
+    "phone": "574-327-3171",
+    "email": "operationkindnessschs@gmail.com",
+    "website": "",
+    "facebook": "https://www.facebook.com/SearcyCountyHumaneSociety/",
+    "address": "6253 U.S. Highway 65, Leslie, AR 72645",
+    "intakePolicy": "Visits are by appointment. Contact the organization before bringing an animal.",
+    "serviceArea": "Searcy County",
+    "description": "Humane society caring for unwanted and abandoned dogs in Searcy County.",
+    "verified": "2026-08-06",
+    "source": "https://www.petfinder.com/member/us/ar/marshall/searcy-county-humane-society-ar328/"
+  },
+  {
+    "id": "randolph-county-humane-society",
+    "name": "Randolph County Humane Society / Friends of Pocahontas Animal Control",
+    "type": "Humane Society / Shelter Support Organization",
+    "city": "Pocahontas",
+    "county": "Randolph",
+    "zip": "72455",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Adoption Support",
+      "Foster Support",
+      "Animal Control Support",
+      "Fundraising"
+    ],
+    "phone": "",
+    "email": "rchumanesoc@gmail.com",
+    "website": "https://randolphhumane.rescuegroups.org/",
+    "facebook": "https://www.facebook.com/p/Randolph-County-Humane-Society-Arkansas-100068433183420/",
+    "address": "",
+    "intakePolicy": "Works with Pocahontas Animal Control. Contact animal control or the humane society before transporting an animal.",
+    "serviceArea": "Randolph County",
+    "description": "Charitable humane society supporting animals and adoption efforts associated with Pocahontas Animal Control.",
+    "verified": "2026-08-06",
+    "source": "https://randolphhumane.rescuegroups.org/"
+  },
+  {
+    "id": "humane-society-clark-county",
+    "name": "Humane Society of Clark County",
+    "type": "Humane Society / Private Shelter",
+    "city": "Arkadelphia",
+    "county": "Clark",
+    "zip": "71923",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Adoption",
+      "Shelter",
+      "Spay/Neuter Assistance"
+    ],
+    "phone": "",
+    "email": "",
+    "website": "https://humanesocietyclarkcounty.org/",
+    "facebook": "",
+    "address": "",
+    "intakePolicy": "Contact the shelter before bringing an animal. As of February 17, 2026, the organization announced it would not accept pit bull dogs or pit bull mixes.",
+    "serviceArea": "Clark County",
+    "description": "Nonprofit humane society providing shelter, animal care, adoption, and low-cost spay/neuter support.",
+    "verified": "2026-08-06",
+    "source": "https://humanesocietyclarkcounty.org/"
+  },
+  {
+    "id": "jefferson-county-humane-society",
+    "name": "Jefferson County Humane Society",
+    "type": "Humane Society / Animal Welfare Organization",
+    "city": "Pine Bluff",
+    "county": "Jefferson",
+    "zip": "",
+    "animals": [
+      "Dogs",
+      "Cats"
+    ],
+    "services": [
+      "Adoption Support",
+      "Animal Welfare",
+      "Shelter Support"
+    ],
+    "phone": "870-247-2677",
+    "email": "",
+    "website": "",
+    "facebook": "",
+    "address": "",
+    "intakePolicy": "Contact the organization before transporting an animal. Current intake arrangements and facility details should be confirmed.",
+    "serviceArea": "Jefferson County",
+    "description": "Nonprofit animal welfare organization supporting care and placement for abandoned or abused animals.",
+    "verified": "2026-08-06",
+    "source": "https://warmhearts.org/statewideresources/"
+  }
+]
