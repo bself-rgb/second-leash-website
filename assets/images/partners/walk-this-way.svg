@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">Walk This Way - K9 Training &amp; Services</title>
+<desc id="desc">Walk This Way K9 Training and Services, Jason Sidler, 501-356-2898</desc>
+<rect width="1200" height="520" rx="18" fill="#050505"/>
+<text x="600" y="150" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="92" font-weight="900" font-style="italic" fill="#f4f000">WALK THIS WAY</text>
+<path d="M105 185 H1095" stroke="#555" stroke-width="3"/>
+<text x="600" y="265" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="58" fill="#fff">K9 Training &amp; Services</text>
+<text x="600" y="345" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="50" fill="#fff">Jason Sidler</text>
+<text x="600" y="420" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" fill="#f4f000">501-356-2898</text>
+</svg>
