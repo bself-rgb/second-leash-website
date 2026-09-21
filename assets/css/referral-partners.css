@@ -1,0 +1,358 @@
+/* Second Leash Referral Partner Hub
+   Uses the existing Second Leash styles.css design tokens.
+*/
+
+.rp-hero {
+  position: relative;
+  overflow: hidden;
+  padding: clamp(3rem, 7vw, 6rem) 0;
+  background:
+    radial-gradient(circle at 88% 18%, rgba(242,177,52,.30), transparent 20rem),
+    radial-gradient(circle at 8% 90%, rgba(8,127,140,.12), transparent 22rem),
+    linear-gradient(135deg, var(--cream), #eef9fa 65%, #fff);
+}
+
+.rp-hero-grid {
+  display: grid;
+  grid-template-columns: 1.15fr .85fr;
+  align-items: center;
+  gap: clamp(2rem, 6vw, 5rem);
+  margin-top: 2rem;
+}
+
+.rp-hero h1 {
+  max-width: 48rem;
+}
+
+.rp-hero h1 span {
+  color: var(--teal-dark);
+}
+
+.rp-hero-card {
+  padding: clamp(1.5rem, 4vw, 2.4rem);
+  background: var(--navy);
+  color: var(--white);
+  border-radius: 1.5rem;
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(255,255,255,.12);
+}
+
+.rp-paw {
+  display: grid;
+  place-items: center;
+  width: 4rem;
+  height: 4rem;
+  margin-bottom: 1.2rem;
+  border-radius: 1rem;
+  background: rgba(242,177,52,.16);
+  font-size: 2rem;
+}
+
+.rp-hero-card h2 {
+  color: var(--white);
+  font-size: clamp(1.7rem, 3vw, 2.4rem);
+}
+
+.rp-hero-card p {
+  color: #d9eaf3;
+}
+
+.rp-card-label {
+  color: #8de3e6 !important;
+  font-size: .78rem;
+  font-weight: 850;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+}
+
+.rp-alert {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.rp-callout {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: clamp(1.4rem, 3vw, 2rem);
+  border: 1px solid var(--line);
+  border-left: .45rem solid var(--teal);
+  border-radius: var(--radius);
+  background: var(--white);
+  box-shadow: 0 8px 24px rgba(16,42,67,.06);
+}
+
+.rp-callout h2 {
+  margin-bottom: .4rem;
+  font-size: clamp(1.6rem, 3vw, 2.35rem);
+}
+
+.rp-callout p:last-child {
+  margin-bottom: 0;
+  color: var(--muted);
+  max-width: 50rem;
+}
+
+.section-heading {
+  max-width: 52rem;
+  margin-bottom: 2.2rem;
+}
+
+.section-heading .lead {
+  margin-top: .7rem;
+}
+
+.rp-cards .card {
+  height: 100%;
+}
+
+.rp-service-grid {
+  margin-top: 1rem;
+}
+
+.rp-service {
+  display: grid;
+  grid-template-columns: 3rem 1fr;
+  gap: 1rem;
+  padding: 1.4rem;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+.rp-service > span {
+  display: grid;
+  place-items: center;
+  width: 3rem;
+  height: 3rem;
+  border-radius: .8rem;
+  background: var(--teal);
+  color: var(--white);
+  font-weight: 900;
+}
+
+.rp-service h3 {
+  margin-top: .15rem;
+}
+
+.rp-service p {
+  color: var(--muted);
+  margin-bottom: 0;
+}
+
+.rp-process {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0,1fr));
+  gap: 1rem;
+  counter-reset: referral-step;
+}
+
+.rp-process-step {
+  position: relative;
+  padding: 1.35rem;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+.rp-process-step strong {
+  display: grid;
+  place-items: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  margin-bottom: 1rem;
+  border-radius: 50%;
+  background: var(--gold);
+  color: #2d2107;
+  font-size: 1.05rem;
+}
+
+.rp-process-step h3 {
+  font-size: 1.2rem;
+}
+
+.rp-process-step p {
+  color: var(--muted);
+  margin-bottom: 0;
+  font-size: .95rem;
+}
+
+.rp-notice {
+  margin-top: 1.5rem;
+}
+
+.rp-resource-grid {
+  margin-top: 1.5rem;
+}
+
+.rp-resource {
+  padding: 1.5rem;
+  border: 1px solid rgba(255,255,255,.18);
+  border-radius: var(--radius);
+  background: rgba(255,255,255,.07);
+}
+
+.rp-resource h3 {
+  color: var(--white);
+}
+
+.rp-resource p {
+  color: #d9eaf3;
+}
+
+.rp-resource-icon {
+  font-size: 1.8rem;
+  margin-bottom: .8rem;
+}
+
+.rp-resource-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .75rem;
+  align-items: center;
+  margin-top: 1.2rem;
+}
+
+.rp-text-button {
+  display: inline-block;
+  color: #8de3e6 !important;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.rp-text-button:hover {
+  text-decoration: underline;
+}
+
+.rp-status-layout {
+  align-items: start;
+}
+
+.rp-status-list {
+  display: grid;
+  gap: .8rem;
+}
+
+.rp-status-list > div {
+  display: grid;
+  grid-template-columns: 1rem 1fr;
+  gap: .8rem;
+  align-items: start;
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: .85rem;
+  background: var(--white);
+}
+
+.rp-status-list strong {
+  color: var(--navy);
+}
+
+.rp-status-list p {
+  margin: .15rem 0 0;
+  color: var(--muted);
+  font-size: .95rem;
+}
+
+.status-dot {
+  width: .85rem;
+  height: .85rem;
+  margin-top: .35rem;
+  border-radius: 50%;
+}
+
+.status-dot--referral { background: var(--teal); }
+.status-dot--community { background: #5a2a83; }
+.status-dot--resource { background: var(--gold); }
+.status-dot--funding { background: var(--navy); }
+
+.rp-partner-cta {
+  display: grid;
+  grid-template-columns: 1.15fr .85fr;
+  gap: 2rem;
+  align-items: center;
+}
+
+.rp-cta-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: .75rem;
+}
+
+.rp-cta-actions .btn {
+  text-align: center;
+}
+
+@media (max-width: 960px) {
+  .rp-hero-grid,
+  .rp-partner-cta {
+    grid-template-columns: 1fr;
+  }
+
+  .rp-process {
+    grid-template-columns: repeat(2, minmax(0,1fr));
+  }
+
+  .rp-cta-actions {
+    justify-content: flex-start;
+  }
+}
+
+@media (max-width: 760px) {
+  .rp-callout {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .rp-process {
+    grid-template-columns: 1fr;
+  }
+
+  .rp-service {
+    grid-template-columns: 2.6rem 1fr;
+  }
+
+  .rp-service > span {
+    width: 2.6rem;
+    height: 2.6rem;
+  }
+}
+
+@media (max-width: 700px) {
+  .site-nav {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    display: none;
+    background: var(--white);
+    border-bottom: 1px solid var(--line);
+    box-shadow: var(--shadow);
+  }
+
+  .site-nav[data-open="true"] {
+    display: block;
+  }
+
+  .site-nav ul {
+    flex-direction: column;
+    align-items: stretch;
+    padding: .75rem;
+  }
+
+  .site-nav a {
+    padding: .8rem 1rem;
+  }
+
+  .nav-toggle {
+    display: inline-block;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
