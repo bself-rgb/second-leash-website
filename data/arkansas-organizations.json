@@ -1760,8 +1760,8 @@
     },
     {
       "id": "friends-kitties-kanines",
-      "name": "Friends of Kitties & Kanines / Kitties & Kanines Veterinary Clinic",
-      "type": "Veterinary Clinic / Spay-Neuter",
+      "name": "Kitties & Kanines Pet Resource Center",
+      "type": "Pet Resource Center",
       "city": "Fort Smith",
       "county": "Sebastian",
       "zip": "72903",
@@ -1773,16 +1773,17 @@
         "Low-Cost Spay/Neuter",
         "Vaccinations",
         "Wellness Services",
-        "Pet Owner Education"
+        "Pet Owner Education",
+        "Pet Resource / Animal Welfare Assistance"
       ],
-      "phone": "479-434-4740",
+      "phone": "(479) 434-4740",
       "email": "",
-      "website": "https://www.kittiesandkanines.com/",
+      "website": "http://www.kittiesandkanines.com/",
       "facebook": "",
-      "address": "4300 Phoenix Avenue, Fort Smith, AR 72903",
+      "address": "4300 Phoenix Ave, Fort Smith, AR 72903",
       "intakePolicy": "Appointments and clinic availability vary; contact the clinic before traveling.",
       "serviceArea": "River Valley",
-      "description": "501(c)(3) animal welfare organization and veterinary clinic providing affordable preventive care, vaccines, and spay/neuter services.",
+      "description": "Pet resource center serving Fort Smith and the surrounding area. Contact directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07",
       "source": "https://www.kittiesandkanines.com/"
     },
