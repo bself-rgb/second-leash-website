@@ -6,7 +6,8 @@
     "Merged from the existing Arkansas organizations directory and the user-provided rescues and humane societies list.",
     "Human-service organizations such as food banks, community-action agencies, reentry programs, and housing organizations were intentionally excluded from this animal directory.",
     "Duplicate and alternate-name entries were consolidated where the source material clearly indicated the same organization.",
-    "New organizations taken only from the user-provided source list have minimal details and are marked for direct verification before reliance."
+    "New organizations taken only from the user-provided source list have minimal details and are marked for direct verification before reliance.",
+    "Generic source-list descriptions were replaced with directory summaries based only on each listing's existing type and service-area fields; current services and availability should still be confirmed directly."
   ],
   "organizationCount": 239,
   "organizations": [
@@ -56,7 +57,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -78,7 +79,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "River Valley",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving River Valley. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -100,7 +101,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Southwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving Southwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -149,7 +150,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Southwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving Southwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -171,7 +172,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -193,7 +194,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Statewide",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Statewide. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -241,7 +242,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Statewide",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Lost-and-found pet resource serving Statewide. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -263,7 +264,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Statewide",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal welfare organization serving Statewide. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -285,7 +286,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Statewide",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Statewide. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -385,7 +386,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal control resource serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -407,7 +408,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Northwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving Northwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -507,7 +508,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Northwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal welfare organization serving Northwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -529,7 +530,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Northwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Northwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -577,7 +578,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "East Arkansas / Delta",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Humane society serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -703,7 +704,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -751,7 +752,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "South Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving South Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -879,7 +880,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Northwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving Northwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -901,7 +902,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "River Valley",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving River Valley. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -949,7 +950,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "North Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -1179,7 +1180,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal welfare resource serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -1409,7 +1410,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "South Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving South Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -1431,7 +1432,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -1453,7 +1454,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "South Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving South Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -1527,7 +1528,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Northwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Northwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -1631,7 +1632,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "North Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -1653,7 +1654,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "East Arkansas / Delta",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Humane society serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -1753,7 +1754,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "North Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -1857,7 +1858,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "North Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -1879,7 +1880,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Southwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving Southwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -2006,7 +2007,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "East Arkansas / Delta",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -2080,7 +2081,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "North Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -2102,7 +2103,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "North Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -2124,7 +2125,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "North Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Humane society serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -2146,7 +2147,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "East Arkansas / Delta",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -2247,7 +2248,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Southwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving Southwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -2269,7 +2270,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "River Valley",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Humane society serving River Valley. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -2343,7 +2344,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Southwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Southwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -2446,7 +2447,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "East Arkansas / Delta",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Humane society serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -2497,7 +2498,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Southwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Humane society serving Southwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -2656,7 +2657,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Humane society serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -2762,7 +2763,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "North Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -3071,7 +3072,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -3278,7 +3279,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Northwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving Northwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -3326,7 +3327,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -3374,7 +3375,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "South Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving South Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -3396,7 +3397,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "East Arkansas / Delta",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -3496,7 +3497,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -3544,7 +3545,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Southwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Humane society serving Southwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -3566,7 +3567,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Northwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Northwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -3692,7 +3693,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "South Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving South Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -3740,7 +3741,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Southwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving Southwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -3762,7 +3763,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "North Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal welfare organization serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -3784,7 +3785,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "River Valley",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving River Valley. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4017,7 +4018,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "East Arkansas / Delta",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4065,7 +4066,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "South Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving South Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4113,7 +4114,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4135,7 +4136,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "River Valley",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving River Valley. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4235,7 +4236,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "River Valley",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving River Valley. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4283,7 +4284,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "South Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Humane society serving South Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4305,7 +4306,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4432,7 +4433,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Statewide",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal transport resource serving Statewide. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4480,7 +4481,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "South Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving South Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4528,7 +4529,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "East Arkansas / Delta",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4602,7 +4603,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "River Valley",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Humane society serving River Valley. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4676,7 +4677,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Northwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving Northwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4804,7 +4805,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4826,7 +4827,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "East Arkansas / Delta",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4848,7 +4849,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "River Valley",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving River Valley. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4870,7 +4871,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "River Valley",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Humane society serving River Valley. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4892,7 +4893,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4914,7 +4915,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Northwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal welfare resource serving Northwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -4962,7 +4963,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "River Valley",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving River Valley. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -5036,7 +5037,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -5110,7 +5111,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "River Valley",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Humane society serving River Valley. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -5314,7 +5315,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "South Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving South Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -5336,7 +5337,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -5387,7 +5388,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Northwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal welfare resource serving Northwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -5489,7 +5490,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "South Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving South Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -5511,7 +5512,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Southwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving Southwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -5561,7 +5562,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "North Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Humane society serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -5583,7 +5584,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "East Arkansas / Delta",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal control resource serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -5605,7 +5606,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "South Central Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving South Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -5731,7 +5732,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Southwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Humane society serving Southwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -5779,7 +5780,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Northwest Arkansas",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving Northwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -5827,7 +5828,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "East Arkansas / Delta",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal shelter serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
@@ -5901,7 +5902,7 @@
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "East Arkansas / Delta",
-      "description": "Organization identified in the user-provided Arkansas rescues and humane societies source list. Details should be confirmed before relying on this listing.",
+      "description": "Animal rescue organization serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
     },
