@@ -7,9 +7,10 @@
     "Human-service organizations such as food banks, community-action agencies, reentry programs, and housing organizations were intentionally excluded from this animal directory.",
     "Duplicate and alternate-name entries were consolidated where the source material clearly indicated the same organization.",
     "New organizations taken only from the user-provided source list have minimal details and are marked for direct verification before reliance.",
-    "Generic source-list descriptions were replaced with directory summaries based only on each listing's existing type and service-area fields; current services and availability should still be confirmed directly."
+    "Generic source-list descriptions were replaced with directory summaries based only on each listing's existing type and service-area fields; current services and availability should still be confirmed directly.",
+    "User-provided research from Pasted markdown(9).md was incorporated with source caveats preserved."
   ],
-  "organizationCount": 241,
+  "organizationCount": 242,
   "organizations": [
     {
       "id": "abbey-road-canine-rescue",
@@ -1603,38 +1604,38 @@
         "Low-Cost Spay/Neuter",
         "Microchipping"
       ],
-      "phone": "(479) 444-3456",
-      "email": "",
-      "website": "http://www.fayetteville-ar.gov/525/Animal-Services",
+      "phone": "479-444-3456",
+      "email": "animal_services@fayetteville-ar.gov",
+      "website": "https://www.fayetteville-ar.gov/525/Animal-Services",
       "facebook": "",
-      "address": "1640 S Armstrong Ave, Fayetteville, AR 72701",
+      "address": "1640 S. Armstrong Ave., Fayetteville, AR 72701",
       "intakePolicy": "Animal Services programs have specific eligibility and availability requirements; contact the shelter before bringing an animal.",
       "serviceArea": "Fayetteville",
       "description": "Municipal animal services offering sheltering and adoption plus a Pets in Crisis program, pet food assistance, microchipping, and low-cost spay/neuter services.",
-      "verified": "2026-10-07",
-      "source": "https://fayetteville-ar.gov/625/Shelter-Programs"
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     },
     {
       "id": "for-every-dog-rescue",
       "name": "For Every Dog Rescue",
       "type": "Dog Rescue",
-      "city": "Mountain Home",
-      "county": "Baxter",
+      "city": "Williford",
+      "county": "",
       "zip": "",
       "animals": [],
       "services": [
         "Animal Welfare / Rescue Resource"
       ],
-      "phone": "",
+      "phone": "870-955-0185",
       "email": "",
-      "website": "",
+      "website": "https://foreverydogrescueinc.org/",
       "facebook": "",
-      "address": "",
+      "address": "1921 US-63, Williford, AR 72482",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "North Central Arkansas",
-      "description": "Animal rescue organization serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: rescues and humane societies.rtf"
+      "description": "Dog rescue organization whose official website lists a Williford address. The supplied research notes that current operating and intake location should be confirmed before visiting.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     },
     {
       "id": "forrest-city-area-humane-society",
@@ -1647,16 +1648,16 @@
       "services": [
         "Animal Welfare / Rescue Resource"
       ],
-      "phone": "",
-      "email": "",
-      "website": "",
+      "phone": "870-633-7036",
+      "email": "ravfcahs@gmail.com",
+      "website": "https://www.fcahumane.org/contact",
       "facebook": "",
-      "address": "",
+      "address": "2890 Mallory Rd., Forrest City, AR 72335; Mailing: P.O. Box 2091, Forrest City, AR 72336",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "East Arkansas / Delta",
       "description": "Humane society serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: rescues and humane societies.rtf"
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     },
     {
       "id": "forrest-city-police-department",
@@ -1675,14 +1676,14 @@
       ],
       "phone": "870-633-3434",
       "email": "",
-      "website": "",
+      "website": "https://www.cityofforrestcityar.com/page/police-department/",
       "facebook": "",
-      "address": "",
+      "address": "224 N. Rosser, Forrest City, AR 72335 (confirm before visiting)",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "St. Francis County",
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     },
     {
       "id": "fort-smith-animal-control",
@@ -1699,22 +1700,22 @@
         "Animal Control Contact",
         "Animal Welfare / Rescue Resource"
       ],
-      "phone": "479-709-5100",
+      "phone": "479-709-5000",
       "email": "",
-      "website": "",
+      "website": "https://www.fortsmithar.gov/resident-services/animal-ordinance-information",
       "facebook": "",
       "address": "",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "Sebastian County",
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     },
     {
       "id": "franklin-county-sheriff-s-office",
       "name": "Franklin County Sheriff's Office",
       "type": "County Animal Control Contact / Sheriff's Office",
-      "city": "",
+      "city": "Ozark",
       "county": "Franklin",
       "zip": "",
       "animals": [
@@ -1726,37 +1727,37 @@
         "Animal Welfare / Rescue Resource"
       ],
       "phone": "479-667-4127",
-      "email": "",
-      "website": "",
+      "email": "jcrocker@franklincosoar.gov",
+      "website": "https://franklincountyar.gov/home/sheriff/",
       "facebook": "",
-      "address": "",
+      "address": "Physical: 248 Airport Rd., Ozark, AR 72949; Mailing: P.O. Box 233, Ozark, AR 72949",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "Franklin County",
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     },
     {
       "id": "friends-of-horseshoe-bend-animals",
       "name": "Friends of Horseshoe Bend Animals",
       "type": "Animal Welfare / Rescue",
-      "city": "Horseshoe Bend",
+      "city": "Franklin",
       "county": "Izard",
       "zip": "",
       "animals": [],
       "services": [
         "Animal Welfare / Rescue Resource"
       ],
-      "phone": "",
-      "email": "",
-      "website": "",
+      "phone": "870-373-2649",
+      "email": "sharon@friendsofhorseshoebendanimals.com; friendsofhba@yahoo.com",
+      "website": "https://friendsofhorseshoebendanimals.com/",
       "facebook": "",
-      "address": "",
+      "address": "Mailing: P.O. Box 31, Franklin, AR 72536. No separate public intake address confirmed",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "North Central Arkansas",
       "description": "Animal rescue organization serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: rescues and humane societies.rtf"
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     },
     {
       "id": "friends-kitties-kanines",
@@ -1804,22 +1805,22 @@
         "Rescue Assistance",
         "Volunteer Opportunities"
       ],
-      "phone": "",
-      "email": "",
-      "website": "https://www.friendsoftheanimalvillage.org/",
+      "phone": "501-725-0250",
+      "email": "FAVtreasurer@gmail.com",
+      "website": "https://www.friendsoftheanimalvillage.org/contact",
       "facebook": "",
-      "address": "",
+      "address": "Mailing: 7401 Colonel Glenn Rd., P.O. Box 4026, Little Rock, AR 72214",
       "intakePolicy": "Foster and rescue assistance depends on current capacity and partner requirements; contact the organization before making arrangements.",
       "serviceArea": "Central Arkansas",
-      "description": "Volunteer organization supporting Little Rock Animal Village through fostering, adoption assistance, and connections with local rescue groups.",
-      "verified": "2026-10-07",
-      "source": "https://www.friendsoftheanimalvillage.org/fostering"
+      "description": "Nonprofit supporting Little Rock Animal Village. The supplied research distinguishes its nonprofit contact from the shelter and animal-control contact.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     },
     {
       "id": "fulton-county-sheriff-s-office",
       "name": "Fulton County Sheriff's Office",
       "type": "County Animal Control Contact / Sheriff's Office",
-      "city": "",
+      "city": "Salem",
       "county": "Fulton",
       "zip": "",
       "animals": [
@@ -1831,37 +1832,37 @@
         "Animal Welfare / Rescue Resource"
       ],
       "phone": "870-895-2601",
-      "email": "",
-      "website": "",
+      "email": "j.smith@fultoncoso.org",
+      "website": "https://www.fultoncountyar.gov/sheriff",
       "facebook": "",
-      "address": "",
+      "address": "Physical: 451 N. Main St., Salem, AR 72576; Mailing: P.O. Box 436, Salem, AR 72576 — address should be confirmed",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "Fulton County",
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     },
     {
       "id": "gail-s-pets-second-chance",
       "name": "Gail's Pets Second Chance",
       "type": "Animal Rescue",
-      "city": "Mountain Home",
-      "county": "Baxter",
+      "city": "Oakland",
+      "county": "Marion",
       "zip": "",
       "animals": [],
       "services": [
         "Animal Welfare / Rescue Resource"
       ],
-      "phone": "",
-      "email": "",
-      "website": "",
+      "phone": "870-431-8229",
+      "email": "gailspets@hotmail.com",
+      "website": "https://gailspets.info/",
       "facebook": "",
-      "address": "",
+      "address": "310 County Road 119, Oakland, AR 72661",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "North Central Arkansas",
       "description": "Animal rescue organization serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: rescues and humane societies.rtf"
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     },
     {
       "id": "garland-county-animal-shelter",
@@ -1876,20 +1877,20 @@
       ],
       "phone": "",
       "email": "",
-      "website": "",
+      "website": "https://www.hotspringsar.gov/126/Animal-Services",
       "facebook": "",
       "address": "",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Southwest Arkansas",
-      "description": "Animal shelter serving Southwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: rescues and humane societies.rtf"
+      "description": "Exact organization name not confirmed. The supplied research indicates Hot Springs Animal Services is the municipal agency serving Hot Springs and Garland County; do not treat this entry as a confirmed county-operated shelter.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     },
     {
       "id": "garland-county-sheriff-s-office",
       "name": "Garland County Sheriff's Office",
       "type": "County Animal Control Contact / Sheriff's Office",
-      "city": "",
+      "city": "Hot Springs",
       "county": "Garland",
       "zip": "",
       "animals": [
@@ -1900,16 +1901,16 @@
         "Animal Control Contact",
         "Animal Welfare / Rescue Resource"
       ],
-      "phone": "501-622-3666",
-      "email": "",
-      "website": "",
+      "phone": "501-622-3660 reception; 501-622-3666 dispatch",
+      "email": "mmccormick@garlandcounty.org",
+      "website": "https://www.garlandcounty.org/626/Sheriff",
       "facebook": "",
-      "address": "",
+      "address": "525 Ouachita Ave., Hot Springs, AR 71901",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "Garland County",
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     },
     {
       "id": "gentry-animal-services",
@@ -1926,16 +1927,16 @@
         "Animal Control Contact",
         "Animal Welfare / Rescue Resource"
       ],
-      "phone": "479-736-2555 ext. 407",
-      "email": "",
-      "website": "",
+      "phone": "479-736-2555, ext. 407",
+      "email": "code@gentryarkansaspd.gov",
+      "website": "https://www.gentryar.gov/animal-services",
       "facebook": "",
-      "address": "",
+      "address": "Shelter: 628 E. 3rd St., Gentry, AR 72734. City Hall: 101 W. Main St., Gentry, AR 72734",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "Benton County",
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     },
     {
       "id": "good-shepherd-humane-society",
@@ -5984,6 +5985,32 @@
       "description": "Animal shelter and rescue organization serving Union County and the El Dorado area. The supplied research notes that a shelter appointment is required.",
       "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
       "source": "User-provided research: Pasted markdown(8).md"
+    },
+    {
+      "id": "hot-springs-animal-services",
+      "name": "Hot Springs Animal Services",
+      "type": "Municipal Animal Services",
+      "city": "Hot Springs",
+      "county": "Garland",
+      "zip": "71901",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Animal Control",
+        "Animal Shelter / Services"
+      ],
+      "phone": "501-262-2091",
+      "email": "fwetzler@cityhs.net",
+      "website": "https://www.hotspringsar.gov/126/Animal-Services",
+      "facebook": "",
+      "address": "319 Davidson Dr., Hot Springs, AR 71901",
+      "intakePolicy": "Contact the agency before transporting an animal. The supplied research notes that the agency handles stray/nuisance dogs in Garland County as well as animals within Hot Springs.",
+      "serviceArea": "Garland County",
+      "description": "Municipal animal-services agency for Hot Springs; the supplied research states that it also handles stray and nuisance dogs in Garland County.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     }
   ]
 }
