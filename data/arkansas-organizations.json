@@ -9,7 +9,7 @@
     "New organizations taken only from the user-provided source list have minimal details and are marked for direct verification before reliance.",
     "Generic source-list descriptions were replaced with directory summaries based only on each listing's existing type and service-area fields; current services and availability should still be confirmed directly."
   ],
-  "organizationCount": 239,
+  "organizationCount": 241,
   "organizations": [
     {
       "id": "abbey-road-canine-rescue",
@@ -5932,6 +5932,58 @@
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+    },
+    {
+      "id": "diamond-dogs-rescue-inc",
+      "name": "Diamond Dogs Rescue Inc.",
+      "type": "Animal Rescue",
+      "city": "Arkansas",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Animal Rescue",
+        "Foster-Based Rescue"
+      ],
+      "phone": "",
+      "email": "TKDiamond@aol.com",
+      "website": "https://diamonddogsrescueinc.com/",
+      "facebook": "",
+      "address": "",
+      "intakePolicy": "Foster-based rescue; contact the organization before arranging transport or intake.",
+      "serviceArea": "Arkansas",
+      "description": "Foster-based dog rescue organization. No public street address or phone was identified in the supplied research.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(8).md"
+    },
+    {
+      "id": "union-county-animal-protection-society-ucaps",
+      "name": "Union County Animal Protection Society (UCAPS)",
+      "type": "Animal Shelter / Rescue",
+      "city": "El Dorado",
+      "county": "Union",
+      "zip": "71730",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Animal Shelter",
+        "Animal Rescue",
+        "Adoption"
+      ],
+      "phone": "870-866-3223",
+      "email": "ucaps1@yahoo.com",
+      "website": "https://www.ucapsshelter.org/contact",
+      "facebook": "",
+      "address": "Shelter: 1000 Sunset Road, El Dorado, AR 71730; Adoption center: 727 E. Main St., El Dorado, AR 71730",
+      "intakePolicy": "Appointment required for the shelter; contact before visiting.",
+      "serviceArea": "Union County",
+      "description": "Animal shelter and rescue organization serving Union County and the El Dorado area. The supplied research notes that a shelter appointment is required.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(8).md"
     }
   ]
 }
