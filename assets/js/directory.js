@@ -57,12 +57,54 @@ async function loadOrganizations() {
 
 function buildFilterOptions() {
   const counties = getUniqueValues("county");
-  const types = getUniqueValues("type");
+  const types = getUniqueTypeCategories();
   const services = getUniqueArrayValues("services");
 
   addOptions(countyFilter, counties);
   addOptions(typeFilter, types);
   addOptions(serviceFilter, services);
+}
+
+function getUniqueTypeCategories() {
+  return [...new Set(
+    organizations
+      .map((organization) => getTypeCategory(organization.type))
+      .filter(Boolean)
+  )].sort();
+}
+
+function getTypeCategory(type) {
+  const value = String(type || "").toLowerCase();
+
+  if (
+    value.includes("animal control") ||
+    value.includes("municipal animal services") ||
+    value.includes("police / animal control") ||
+    value.includes("sheriff")
+  ) {
+    return "Animal Control & Animal Services";
+  }
+
+  if (value.includes("humane society")) {
+    return "Humane Societies";
+  }
+
+  if (
+    value.includes("shelter") ||
+    value.includes("adoption")
+  ) {
+    return "Shelters & Adoption";
+  }
+
+  if (
+    value.includes("rescue") ||
+    value.includes("foster") ||
+    value.includes("animal protection")
+  ) {
+    return "Rescues & Foster Organizations";
+  }
+
+  return "Pet & Animal Support Resources";
 }
 
 function getUniqueValues(property) {
@@ -123,7 +165,7 @@ function filterOrganizations() {
       !selectedCounty || organization.county === selectedCounty;
 
     const matchesType =
-      !selectedType || organization.type === selectedType;
+      !selectedType || getTypeCategory(organization.type) === selectedType;
 
     const matchesAnimal =
       !selectedAnimal ||
