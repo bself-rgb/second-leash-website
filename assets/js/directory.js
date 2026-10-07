@@ -22,7 +22,15 @@ async function loadOrganizations() {
       throw new Error(`Could not load directory data: ${response.status}`);
     }
 
-    organizations = await response.json();
+    const data = await response.json();
+
+    // Support the directory JSON wrapper used by the site, while remaining
+    // compatible with a plain array if the data file is ever simplified.
+    organizations = Array.isArray(data) ? data : (data.organizations || []);
+
+    if (!Array.isArray(organizations)) {
+      throw new Error("Directory data does not contain an organizations array.");
+    }
 
     organizations.sort((a, b) => {
       return a.name.localeCompare(b.name);
