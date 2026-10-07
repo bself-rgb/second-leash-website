@@ -8,9 +8,10 @@
     "Duplicate and alternate-name entries were consolidated where the source material clearly indicated the same organization.",
     "New organizations taken only from the user-provided source list have minimal details and are marked for direct verification before reliance.",
     "Generic source-list descriptions were replaced with directory summaries based only on each listing's existing type and service-area fields; current services and availability should still be confirmed directly.",
-    "User-provided research from Pasted markdown(9).md was incorporated with source caveats preserved."
+    "User-provided research from Pasted markdown(9).md was incorporated with source caveats preserved.",
+    "User-provided research from Pasted markdown(10).md was incorporated with conflicting-contact and jurisdiction caveats preserved."
   ],
-  "organizationCount": 242,
+  "organizationCount": 241,
   "organizations": [
     {
       "id": "abbey-road-canine-rescue",
@@ -5627,16 +5628,16 @@
         "Animal Control Contact",
         "Animal Welfare / Rescue Resource"
       ],
-      "phone": "870-864-1990",
-      "email": "",
-      "website": "",
+      "phone": "Office: 870-864-1970; dispatch: 870-864-1990",
+      "email": "cphillips@unioncountysheriff.net",
+      "website": "https://www.unioncountysheriff.net/",
       "facebook": "",
-      "address": "",
+      "address": "250 American Rd., El Dorado, AR 71730",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "Union County",
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(10).md"
     },
     {
       "id": "van-buren-county-sheriff-s-office",
@@ -5654,15 +5655,15 @@
         "Animal Welfare / Rescue Resource"
       ],
       "phone": "501-745-2112",
-      "email": "",
-      "website": "",
+      "email": "ekoonce@vbcso.com",
+      "website": "https://www.vbcso.com/",
       "facebook": "",
-      "address": "",
+      "address": "Physical: 184 Detention Dr., Clinton, AR 72031. Mailing: P.O. Box 451, Clinton, AR 72031",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "Van Buren County",
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(10).md"
     },
     {
       "id": "van-buren-police-animal-control",
@@ -5679,16 +5680,16 @@
         "Animal Control Contact",
         "Animal Welfare / Rescue Resource"
       ],
-      "phone": "479-474-1234",
+      "phone": "479-689-0075",
       "email": "",
-      "website": "",
+      "website": "https://www.cityofvanburenar.gov/253/Code-Enforcement-Animal-Control-Departme",
       "facebook": "",
-      "address": "",
+      "address": "Van Buren Municipal Complex, 1003 Broadway St., Van Buren, AR 72956",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "Crawford County",
-      "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+      "description": "City of Van Buren animal-control contact. The supplied research says to use the direct animal-control number rather than the general police number.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(10).md"
     },
     {
       "id": "waldron-police-animal-control",
@@ -5705,16 +5706,16 @@
         "Animal Control Contact",
         "Animal Welfare / Rescue Resource"
       ],
-      "phone": "479-637-3103",
+      "phone": "Police: 479-637-3103; shelter/animal control: 479-207-3117 (third-party listed)",
       "email": "",
       "website": "",
       "facebook": "",
-      "address": "",
+      "address": "Police: 323 Washington St., Waldron, AR 72958. Shelter: 310 Featherston St., Waldron, AR 72958 — third-party listed",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "Scott County",
-      "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+      "description": "Waldron police and animal-control contact. Shelter phone/address details are third-party listed and should be confirmed through police before relying on them.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(10).md"
     },
     {
       "id": "warm-hearts-humane-society",
@@ -5727,16 +5728,16 @@
       "services": [
         "Animal Welfare / Rescue Resource"
       ],
-      "phone": "",
-      "email": "",
+      "phone": "870-490-0883",
+      "email": "warmhearts@earthlink.net",
       "website": "",
       "facebook": "",
-      "address": "",
+      "address": "Mailing: P.O. Box 535, Mount Ida, AR 71957. No public intake address confirmed",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Southwest Arkansas",
-      "description": "Humane society serving Southwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: rescues and humane societies.rtf"
+      "description": "Humane society in Mount Ida. The supplied research says a website listed elsewhere has not been confirmed active and warns not to confuse this organization with Humane Society of Pulaski County.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(10).md"
     },
     {
       "id": "washington-county-animal-control",
@@ -5755,18 +5756,18 @@
       ],
       "phone": "479-444-5700",
       "email": "",
-      "website": "",
+      "website": "https://www.washingtoncountyar.gov/residents/community/animal-shelter",
       "facebook": "",
-      "address": "",
+      "address": "County animal-control contact; no separate animal-control office address confirmed",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "Washington County",
-      "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+      "description": "Washington County animal-control contact. Keep this separate from the county shelter/adoption contact at 479-695-3450.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(10).md"
     },
     {
       "id": "washington-county-animal-shelter",
-      "name": "Washington County Animal Shelter",
+      "name": "Washington County Animal Shelter / Lester C. Howick Animal Shelter",
       "type": "County Animal Shelter",
       "city": "Fayetteville",
       "county": "Washington",
@@ -5775,20 +5776,20 @@
       "services": [
         "Animal Welfare / Rescue Resource"
       ],
-      "phone": "",
-      "email": "",
-      "website": "",
+      "phone": "479-695-3450",
+      "email": "ashelter@washingtoncountyar.gov",
+      "website": "https://www.washingtoncountyar.gov/residents/community/animal-shelter",
       "facebook": "",
-      "address": "",
+      "address": "County facility directory: 801 W. Clydesdale Dr., Fayetteville, AR 72701. Petfinder lists 2859 S. Tim Helder Dr., Fayetteville, AR 72701; confirm preferred navigation address",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "Northwest Arkansas",
-      "description": "Animal shelter serving Northwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: rescues and humane societies.rtf"
+      "description": "Washington County shelter and adoption contact. The supplied research identifies conflicting facility addresses; confirm the preferred public entrance before traveling.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(10).md"
     },
     {
       "id": "west-memphis-animal-services",
-      "name": "West Memphis Animal Services",
+      "name": "West Memphis Animal Services / Animal Shelter",
       "type": "Municipal Animal Services",
       "city": "West Memphis",
       "county": "Crittenden",
@@ -5802,37 +5803,15 @@
         "Animal Welfare / Rescue Resource"
       ],
       "phone": "870-732-7599",
-      "email": "",
-      "website": "",
+      "email": "wmas@westmemphisar.gov",
+      "website": "https://westmemphisanimalshelter.com/contact-us/",
       "facebook": "",
-      "address": "",
+      "address": "500 South Loop Rd., West Memphis, AR 72301",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "Crittenden County",
-      "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
-    },
-    {
-      "id": "west-memphis-animal-shelter",
-      "name": "West Memphis Animal Shelter",
-      "type": "Municipal Animal Shelter",
-      "city": "West Memphis",
-      "county": "Crittenden",
-      "zip": "",
-      "animals": [],
-      "services": [
-        "Animal Welfare / Rescue Resource"
-      ],
-      "phone": "",
-      "email": "",
-      "website": "",
-      "facebook": "",
-      "address": "",
-      "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
-      "serviceArea": "East Arkansas / Delta",
-      "description": "Animal shelter serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: rescues and humane societies.rtf"
+      "description": "West Memphis municipal animal-services contact. The supplied research notes conflicting public addresses and recommends confirming the current entrance before traveling.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(10).md"
     },
     {
       "id": "white-county-sheriff-s-office",
@@ -5850,15 +5829,15 @@
         "Animal Welfare / Rescue Resource"
       ],
       "phone": "501-279-6279",
-      "email": "",
-      "website": "",
+      "email": "phillipmiller@wcso.cc",
+      "website": "https://wcso.cc/",
       "facebook": "",
-      "address": "",
+      "address": "1600 E. Booth Rd., Suite 100, Searcy, AR 72143",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "White County",
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(10).md"
     },
     {
       "id": "woodruff-county-sheriff-s-office",
@@ -5875,16 +5854,16 @@
         "Animal Control Contact",
         "Animal Welfare / Rescue Resource"
       ],
-      "phone": "870-347-5152",
-      "email": "",
-      "website": "",
+      "phone": "870-347-2583",
+      "email": "philreynolds65@yahoo.com",
+      "website": "https://www.woodruffcountyar.gov/sheriff",
       "facebook": "",
-      "address": "",
+      "address": "Physical: 500 N. 3rd St., Augusta, AR 72006. Mailing: P.O. Box 555, Augusta, AR 72006",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "Woodruff County",
-      "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+      "description": "County sheriff contact. The supplied research notes that this phone differs from 870-347-5152 previously in the directory; confirm the preferred current number before relying on it.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(10).md"
     },
     {
       "id": "wynne-friends-of-animals",
@@ -5898,15 +5877,15 @@
         "Animal Welfare / Rescue Resource"
       ],
       "phone": "",
-      "email": "",
-      "website": "",
+      "email": "wynnefoa@gmail.com",
+      "website": "https://wynnefoa.weebly.com/contact-us.html",
       "facebook": "",
-      "address": "",
+      "address": "Physical: 199 Big Dog Rd., Wynne, AR 72396. Mailing: 201 Big Dog Rd., Wynne, AR 72396",
       "intakePolicy": "Contact the organization before bringing or transporting an animal. Availability, eligibility, and services should be confirmed directly.",
       "serviceArea": "East Arkansas / Delta",
-      "description": "Animal rescue organization serving East Arkansas / Delta. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: rescues and humane societies.rtf"
+      "description": "Wynne Friends of Animals. The supplied research says the shelter itself has no phone; email is preferred. Do not publish 870-238-9663 as the shelter phone.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(10).md"
     },
     {
       "id": "yell-county-sheriff-s-office",
@@ -5924,15 +5903,15 @@
         "Animal Welfare / Rescue Resource"
       ],
       "phone": "479-495-4881",
-      "email": "",
-      "website": "",
+      "email": "ngault@yellcosheriffar.gov",
+      "website": "https://www.yellcountysheriff.org/",
       "facebook": "",
-      "address": "",
+      "address": "Physical: 201 E. 5th St., Danville, AR 72833. Mailing: P.O. Box 99, Danville, AR 72833",
       "intakePolicy": "Contact the agency before transporting an animal. Intake, enforcement, and service availability may vary by jurisdiction.",
       "serviceArea": "Yell County",
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
-      "verified": "2026-10-07 (source-list review)",
-      "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(10).md"
     },
     {
       "id": "diamond-dogs-rescue-inc",
