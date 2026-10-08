@@ -18,7 +18,8 @@
     "User-provided rescue contact research from Pasted markdown(20261008-012352).md was incorporated with mailing/intake address distinctions, third-party phone caveats, and direct-confirmation requirements preserved.",
     "User-provided rescue and shelter research from Pasted markdown(20261008-012654).md was incorporated with foster-network, mailing-address, conflicting-contact, and operating-status caveats preserved.",
     "User-provided follow-up research for Paws To Love Me, Adopt-A-Stray Animal Rescue, and Northwest Arkansas Animal Rescue was incorporated. The unresolved Northwest Arkansas Animal Rescue name remains a verification-queue entry and was not matched to another organization.",
-    "User-provided Arkansas dog-training research from Pasted markdown(20261008-013624).md was incorporated with location, training-service, and verification caveats preserved. Big Paws of the Ozarks and Inside Out Dog Daycare, Boarding & Training were already present and were not duplicated. Hounds Lounge and High Standards Grooming & Boarding were not added to Training because current training services were not confirmed."
+    "User-provided Arkansas dog-training research from Pasted markdown(20261008-013624).md was incorporated with location, training-service, and verification caveats preserved. Big Paws of the Ozarks and Inside Out Dog Daycare, Boarding & Training were already present and were not duplicated. Hounds Lounge and High Standards Grooming & Boarding were not added to Training because current training services were not confirmed.",
+    "User-provided Arkansas pet-food assistance research from Pasted markdown(20261008-013908).md was incorporated with eligibility, current-stock, pickup, historical-lead, and referral-tool caveats preserved."
   ],
   "organizationCount": 299,
   "organizations": [
@@ -1082,6 +1083,33 @@
       "source": "User-provided research: Pasted markdown(20261008-011624).md"
     },
     {
+      "id": "best-friends-pet-resource-center-community-pet-services-pantry",
+      "name": "Best Friends Pet Resource Center — Community Pet Services & Pantry",
+      "type": "Pet Food Assistance",
+      "city": "Bentonville",
+      "county": "Benton",
+      "zip": "72712",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Pet Food Pantry",
+        "Pet Supplies Assistance",
+        "Community Cat Support"
+      ],
+      "phone": "479-974-1363",
+      "email": "",
+      "website": "https://bestfriends.org/northwest-arkansas/help-activities/community-pet-care-food-pantry",
+      "facebook": "",
+      "address": "1312 Melissa Dr., Bentonville, AR 72712",
+      "intakePolicy": "Confirm service-area eligibility, current stock, and pickup arrangements before traveling. Assistance is donation-dependent.",
+      "serviceArea": "Northwest Arkansas",
+      "description": "Community pet-food and supplies pantry serving residents and community-cat caregivers as donations permit. Public hours are listed by the program; confirm current availability before traveling.",
+      "verified": "Online sources reviewed October 7, 2026; current stock, eligibility, and pickup arrangements require direct confirmation.",
+      "source": "User-provided research: Pasted markdown(20261008-013908).md"
+    },
+    {
       "id": "best-friends-pet-resource-center-in-nwa",
       "name": "Best Friends Pet Resource Center in NWA",
       "type": "Animal Welfare / Resource Center",
@@ -1312,7 +1340,8 @@
       ],
       "services": [
         "Animal Control Contact",
-        "Animal Welfare / Rescue Resource"
+        "Animal Welfare / Rescue Resource",
+        "Pet Food Pantry"
       ],
       "phone": "501-628-5900; field services: 501-843-2021",
       "email": "cass@cabotar.gov",
@@ -1402,6 +1431,36 @@
       "description": "Marketplace for independent pet sitters and caregivers, including dog walkers, overnight care, and caregivers who advertise medication or senior-pet experience.",
       "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
       "source": "User-provided research: Pasted markdown(20261008-011624).md"
+    },
+    {
+      "id": "carelink-bone-appetit",
+      "name": "CareLink — Bone Appétit",
+      "type": "Senior Pet Food Assistance",
+      "city": "North Little Rock",
+      "county": "Pulaski",
+      "zip": "72114",
+      "animals": [
+        "Dogs",
+        "Cats",
+        "Birds",
+        "Small Pets"
+      ],
+      "services": [
+        "Pet Food Assistance",
+        "Pet Supplies Assistance",
+        "Senior Assistance",
+        "Delivery"
+      ],
+      "phone": "501-372-5300",
+      "email": "",
+      "website": "https://www.carelink.org/carelink-bone-appetit-free-pet-food-for-seniors/",
+      "facebook": "",
+      "address": "Administrative office: 700 W. Riverfront Dr., North Little Rock, AR 72114; mailing P.O. Box 5988, North Little Rock, AR 72119; not a confirmed walk-in pickup site",
+      "intakePolicy": "Need-based program for qualifying older adults in specified counties. Call to confirm age cutoff, enrollment, eligibility, and delivery arrangements.",
+      "serviceArea": "Faulkner, Lonoke, Monroe, Prairie, Pulaski, and Saline counties",
+      "description": "Free, need-based pet food and supplies program for qualifying older adults in six Arkansas counties. Supports dogs, cats, birds, and small pets; excludes farm and exotic animals.",
+      "verified": "Online sources reviewed October 7, 2026; current stock, eligibility, and pickup arrangements require direct confirmation.",
+      "source": "User-provided research: Pasted markdown(20261008-013908).md"
     },
     {
       "id": "carroll-county-berryville-police-department",
@@ -2509,7 +2568,8 @@
         "Pets in Crisis",
         "Pet Food Assistance",
         "Low-Cost Spay/Neuter",
-        "Microchipping"
+        "Microchipping",
+        "Pet Food Pantry"
       ],
       "phone": "479-444-3456",
       "email": "animal_services@fayetteville-ar.gov",
@@ -2547,6 +2607,32 @@
       "description": "Little Rock-area feline rescue and rehome organization using a foster-home network and online rescue contact process.",
       "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
       "source": "User-provided research: Pasted markdown(20261008-012654).md"
+    },
+    {
+      "id": "pets-findhelp",
+      "name": "Find Pet Help — Pet Assistance Resource Finder",
+      "type": "Pet Assistance Resource Finder",
+      "city": "Online",
+      "county": "",
+      "animals": [
+        "Dogs",
+        "Cats",
+        "Other Pets"
+      ],
+      "services": [
+        "Pet Food Assistance Finder",
+        "Pet Assistance Referrals"
+      ],
+      "phone": "",
+      "email": "",
+      "website": "https://pets.findhelp.com/",
+      "facebook": "",
+      "address": "Online resource",
+      "intakePolicy": "Search by location and contact individual assistance providers. This is a referral/resource-finder tool, not a food distributor.",
+      "serviceArea": "United States",
+      "description": "Online resource finder for locating pet food and other assistance by location.",
+      "verified": "Online source reviewed October 7, 2026; individual provider availability requires direct confirmation.",
+      "source": "User-provided research: Pasted markdown(20261008-013908).md"
     },
     {
       "id": "for-every-dog-rescue",
@@ -5586,6 +5672,33 @@
       "source": "https://www.neahs.org/contact-us"
     },
     {
+      "id": "northeast-arkansas-humane-society-pet-food-assistance",
+      "name": "Northeast Arkansas Humane Society — Pet Food Assistance",
+      "type": "Pet Food Assistance",
+      "city": "Jonesboro",
+      "county": "Craighead",
+      "zip": "72401",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Pet Food Assistance",
+        "Humane Society",
+        "Animal Rescue"
+      ],
+      "phone": "870-932-5185",
+      "email": "Office@neahs.org; Administrator@neahs.org",
+      "website": "https://www.neahs.org/",
+      "facebook": "",
+      "address": "6111 E. Highland Dr., Jonesboro, AR 72401",
+      "intakePolicy": "Pet-food assistance is a call-to-confirm resource; current pantry hours, stock, and availability were not established in the supplied research.",
+      "serviceArea": "Northeast Arkansas",
+      "description": "Northeast Arkansas Humane Society with a documented pet-food pantry history. Current official contact information is confirmed, but current pantry hours and availability require confirmation.",
+      "verified": "Online sources reviewed October 7, 2026; current stock, eligibility, and pickup arrangements require direct confirmation.",
+      "source": "User-provided research: Pasted markdown(20261008-013908).md"
+    },
+    {
       "id": "northwest-arkansas-animal-rescue-verification-pending",
       "name": "Northwest Arkansas Animal Rescue",
       "type": "Animal Rescue — Verification Pending",
@@ -7535,6 +7648,30 @@
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+    },
+    {
+      "id": "sherwood-moose-lodge-pet-food-blessing-box",
+      "name": "Sherwood Moose Lodge — Pet Food Blessing Box",
+      "type": "Pet Food Assistance / Blessing Box",
+      "city": "Sherwood",
+      "county": "Pulaski",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Food Blessing Box",
+        "Community Distribution"
+      ],
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "address": "4000 E. Kiehl Ave., Sherwood, AR",
+      "intakePolicy": "Historical distribution lead. Food availability and continued operation require confirmation; do not treat as a stocked-on-demand pantry.",
+      "serviceArea": "Sherwood / Central Arkansas",
+      "description": "Blessing-box lead reported to offer dog food along with other donated necessities. Current inventory and continued operation were not confirmed.",
+      "verified": "Historical lead; current operation and stock require direct confirmation.",
+      "source": "User-provided research: Pasted markdown(20261008-013908).md"
     },
     {
       "id": "siloam-springs-animal-services",
