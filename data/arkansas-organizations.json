@@ -14,7 +14,8 @@
     "User-provided research from Pasted markdown(20261008-010103).md was incorporated, with transport-provider, coordination-platform, receiving-rescue, commercial, and emergency-care distinctions preserved.",
     "User-provided research from Pasted markdown(20261008-010542).md and Pasted markdown (2).md was incorporated with grooming-service, business-status, duplicate-name, and verification caveats preserved.",
     "User-provided mobile-groomer research was incorporated with route-coverage, new-client availability, and phone-verification caveats preserved.",
-    "User-provided pet-sitting and dog-walking research from Pasted markdown(20261008-011624).md was incorporated with service-area, marketplace, availability, and verification caveats preserved."
+    "User-provided pet-sitting and dog-walking research from Pasted markdown(20261008-011624).md was incorporated with service-area, marketplace, availability, and verification caveats preserved.",
+    "User-provided rescue contact research from Pasted markdown(20261008-012352).md was incorporated with mailing/intake address distinctions, third-party phone caveats, and direct-confirmation requirements preserved."
   ],
   "organizationCount": 299,
   "organizations": [
@@ -71,6 +72,33 @@
       "description": "English Setter rescue network based outside Arkansas. The supplied research recommends contacting intake to determine whether an Arkansas case can be assisted.",
       "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
       "source": "User-provided research: Pasted markdown(20261008-005256).md"
+    },
+    {
+      "id": "adopt-a-stray-animal-rescue",
+      "name": "Adopt-A-Stray Animal Rescue",
+      "type": "Animal Rescue",
+      "city": "Alexander",
+      "county": "Saline",
+      "zip": "72002",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Animal Rescue",
+        "Adoption",
+        "Foster-Based Rescue"
+      ],
+      "phone": "501-303-8185",
+      "email": "Kelley.aasr@gmail.com; apps.aasr@gmail.com",
+      "website": "https://www.adoptastrayrescue.org/",
+      "facebook": "",
+      "address": "14601 Ansata Dr., Alexander, AR 72002 (directory-listed; not confirmed as public intake)",
+      "intakePolicy": "Contact by email before arranging intake or transport; listed street address is not confirmed as a public intake location.",
+      "serviceArea": "Central Arkansas",
+      "description": "Arkansas animal rescue serving stray and unwanted animals. Official site indicates email is the preferred contact method.",
+      "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-012352).md"
     },
     {
       "id": "all-about-labs",
@@ -354,6 +382,32 @@
       "source": "User-provided research: Pasted markdown(20261008-011624).md"
     },
     {
+      "id": "angels-heart-puppy-rescue",
+      "name": "Angels Heart Puppy Rescue",
+      "type": "Animal Rescue",
+      "city": "Conway",
+      "county": "Faulkner",
+      "zip": "72032",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Puppy Rescue",
+        "Animal Rescue",
+        "Adoption"
+      ],
+      "phone": "501-764-6342",
+      "email": "angelsheartpuppyrescue@yahoo.com",
+      "website": "http://angelsheartpuppyrescue.com/",
+      "facebook": "",
+      "address": "Registered address: 9 Barham Loop, Conway, AR 72032-9705; not confirmed as a visitor or animal drop-off location",
+      "intakePolicy": "Contact before arranging intake or transport. Registered address is not confirmed as a public visitor or animal drop-off location.",
+      "serviceArea": "Arkansas",
+      "description": "Puppy rescue organization with Arkansas contact information; current website operation and public intake location were not independently confirmed.",
+      "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-012352).md"
+    },
+    {
       "id": "animal-care-adoption-center-texarkana",
       "name": "Animal Care & Adoption Center Texarkana",
       "type": "Animal Shelter / Adoption",
@@ -471,6 +525,34 @@
       "description": "Animal rescue organization serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
+    },
+    {
+      "id": "arkansans-assisting-homeless-animals-aaha",
+      "name": "Arkansans Assisting Homeless Animals — AAHA",
+      "type": "Foster-Based Animal Rescue",
+      "city": "Cabot",
+      "county": "Lonoke",
+      "zip": "72023",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Animal Rescue",
+        "Foster-Based Rescue",
+        "Adoption",
+        "Owner Surrender Assistance"
+      ],
+      "phone": "501-231-0373",
+      "email": "info@aaharescue.com",
+      "website": "https://www.aaharescue.com/",
+      "facebook": "",
+      "address": "Mailing: P.O. Box 5084, Cabot, AR 72023",
+      "intakePolicy": "Foster-based and capacity-dependent. Accepts some strays and owner surrenders, but space is limited; mailing address is not a shelter entrance.",
+      "serviceArea": "Central Arkansas",
+      "description": "Central Arkansas foster-based rescue assisting homeless animals, with intake limited by available foster capacity.",
+      "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-012352).md"
     },
     {
       "id": "arkansas-animal-rescue-foundation",
@@ -612,6 +694,32 @@
       "source": "User-provided: rescues and humane societies.rtf"
     },
     {
+      "id": "arkansas-rescuing-unwanted-furry-friends-arruff",
+      "name": "Arkansas Rescuing Unwanted Furry Friends — ARRUFF",
+      "type": "Animal Rescue",
+      "city": "Benton",
+      "county": "Saline",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Animal Rescue",
+        "Foster-Based Rescue",
+        "Adoption"
+      ],
+      "phone": "501-316-7247",
+      "email": "krun11@sbcglobal.net",
+      "website": "http://www.arruff.org/",
+      "facebook": "",
+      "address": "Benton, Arkansas; no reliable public street or mailing address confirmed",
+      "intakePolicy": "Contact the rescue before arranging intake or transport. Phone is a rescue-directory lead and should be confirmed as current.",
+      "serviceArea": "Arkansas",
+      "description": "Arkansas rescue organization listed as ARRUFF. The supplied research identifies conflicting phone listings; 501-316-7247 is the preferred first-call lead pending direct confirmation.",
+      "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-012352).md"
+    },
+    {
       "id": "ashley-county-sheriff-s-office",
       "name": "Ashley County Sheriff's Office",
       "type": "County Animal Control Contact / Sheriff's Office",
@@ -736,6 +844,33 @@
       "description": "Animal control resource serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
+    },
+    {
+      "id": "beebe-humane-society",
+      "name": "Beebe Humane Society",
+      "type": "Humane Society / Animal Rescue",
+      "city": "Beebe",
+      "county": "White",
+      "zip": "72012",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Animal Shelter",
+        "Animal Rescue",
+        "Adoption"
+      ],
+      "phone": "501-882-5281",
+      "email": "beebehumanesoc@aol.com",
+      "website": "https://beebehumanesociety.org/",
+      "facebook": "",
+      "address": "707 Highway 64 W., Beebe, AR 72012",
+      "intakePolicy": "Contact before bringing an animal to confirm current intake and hours.",
+      "serviceArea": "Beebe / White County",
+      "description": "Humane society serving Beebe and the surrounding area with sheltering, rescue, and adoption services.",
+      "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-012352).md"
     },
     {
       "id": "bella-vista-animal-shelter",
@@ -6111,6 +6246,32 @@
       "description": "Rat Terrier rescue network with an Arkansas listing in Arkadelphia. The supplied research says current phone numbers are not sufficiently confirmed.",
       "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
       "source": "User-provided research: Pasted markdown(20261008-005256).md"
+    },
+    {
+      "id": "redfield-friends-of-the-animals-rescue",
+      "name": "Redfield Friends of the Animals Rescue",
+      "type": "Animal Rescue",
+      "city": "Redfield",
+      "county": "Jefferson",
+      "zip": "72132",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Animal Rescue",
+        "Adoption",
+        "Placement Assistance"
+      ],
+      "phone": "501-200-0147",
+      "email": "redfieldanimalrescue@gmail.com",
+      "website": "https://www.facebook.com/RedfieldFriendsoftheAnimals",
+      "facebook": "https://www.facebook.com/RedfieldFriendsoftheAnimals",
+      "address": "Mailing: P.O. Box 327, Redfield, AR 72132; Shelter listed: 1315 Wolfe Rd., Redfield, AR 72132",
+      "intakePolicy": "Volunteer rescue supporting adoption and placement of dogs from the city impound. Contact before visiting or transporting an animal.",
+      "serviceArea": "Redfield / Jefferson County",
+      "description": "Volunteer nonprofit rescue supporting adoption and placement of dogs from the City of Redfield impound.",
+      "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-012352).md"
     },
     {
       "id": "rescue-road",
