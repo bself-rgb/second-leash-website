@@ -12,9 +12,10 @@
     "User-provided research from Pasted markdown(10).md was incorporated with conflicting-contact and jurisdiction caveats preserved.",
     "User-provided research from Pasted markdown(20261008-005256).md was incorporated with breed-specific and national-network coverage caveats preserved.",
     "User-provided research from Pasted markdown(20261008-010103).md was incorporated, with transport-provider, coordination-platform, receiving-rescue, commercial, and emergency-care distinctions preserved.",
-    "User-provided research from Pasted markdown(20261008-010542).md and Pasted markdown (2).md was incorporated with grooming-service, business-status, duplicate-name, and verification caveats preserved."
+    "User-provided research from Pasted markdown(20261008-010542).md and Pasted markdown (2).md was incorporated with grooming-service, business-status, duplicate-name, and verification caveats preserved.",
+    "User-provided mobile-groomer research was incorporated with route-coverage, new-client availability, and phone-verification caveats preserved."
   ],
-  "organizationCount": 296,
+  "organizationCount": 299,
   "organizations": [
     {
       "id": "abbey-road-canine-rescue",
@@ -6705,12 +6706,12 @@
       "email": "",
       "website": "https://www.wagstorichesnwa.com/",
       "facebook": "",
-      "address": "1003 SE 28th St., Bentonville, AR 72712; mobile grooming in Northwest Arkansas",
+      "address": "Salon: 1003 SE 28th St., Bentonville, AR 72712; mobile service in Northwest Arkansas",
       "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
-      "serviceArea": "Arkansas",
-      "description": "Dog and cat grooming, mobile and in-salon.",
-      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
-      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+      "serviceArea": "Northwest Arkansas",
+      "description": "Offers both mobile and in-salon grooming in Northwest Arkansas. Specify mobile or salon service when booking and confirm availability for your address.",
+      "verified": "Online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: mobile groomers list."
     },
     {
       "id": "shay-s-love-affur-grooming-maumelle-north-little-rock",
@@ -6826,15 +6827,15 @@
         "Mobile Dog Grooming"
       ],
       "phone": "870-324-3647",
-      "email": "",
+      "email": "info@datpooch.com",
       "website": "https://datpooch.com/",
       "facebook": "",
-      "address": "Mobile service based in Maumelle/Central Arkansas; Little Rock metro and selected surrounding communities",
+      "address": "Mobile service; no public walk-in salon address confirmed",
       "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
-      "serviceArea": "Central Arkansas",
-      "description": "Service area varies by route; no public salon address confirmed.",
-      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
-      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+      "serviceArea": "Maumelle-based; Little Rock metro and selected surrounding Central Arkansas communities",
+      "description": "Mobile dog grooming serving the Little Rock metro and selected surrounding Central Arkansas communities. Confirm whether your address falls within its current route.",
+      "verified": "Online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: mobile groomers list."
     },
     {
       "id": "arkansas-pet-resort",
@@ -7427,6 +7428,82 @@
       "description": "Official website describes grooming; keep actual name rather than renaming to Happy Tails Dog Grooming.",
       "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
       "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "zoomin-groomin-northwest-arkansas",
+      "name": "Zoomin Groomin — Northwest Arkansas",
+      "type": "Pet Grooming / Mobile Grooming",
+      "city": "Northwest Arkansas",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Grooming",
+        "Mobile Grooming"
+      ],
+      "phone": "479-408-5787",
+      "email": "nwa@zoomingroomin.com",
+      "website": "https://www.zoomingroomin.com/locations/arkansas/northwest-arkansas/",
+      "facebook": "",
+      "address": "Northwest Arkansas; Bella Vista, Bentonville, Centerton, Decatur, Gentry, Gravette, and Hiwasse",
+      "intakePolicy": "Mobile grooming is by appointment and subject to route availability. Contact the groomer to confirm coverage for your address, current pricing, pet eligibility, and whether new clients are being accepted.",
+      "serviceArea": "Northwest Arkansas; Bella Vista, Bentonville, Centerton, Decatur, Gentry, Gravette, and Hiwasse",
+      "description": "Official local page confirms phone, email, and service-area coverage.",
+      "verified": "Online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: mobile groomers list."
+    },
+    {
+      "id": "pawtastic-mobile-pet-spa",
+      "name": "Pawtastic Mobile Pet Spa",
+      "type": "Pet Grooming / Mobile Grooming",
+      "city": "Northwest Arkansas",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Grooming",
+        "Mobile Grooming"
+      ],
+      "phone": "479-349-3397",
+      "email": "",
+      "website": "https://www.nwamobilegroomer.com/",
+      "facebook": "",
+      "address": "Bentonville, Rogers, Springdale, and nearby Northwest Arkansas communities",
+      "intakePolicy": "Mobile grooming is by appointment and subject to route availability. Contact the groomer to confirm coverage for your address, current pricing, pet eligibility, and whether new clients are being accepted.",
+      "serviceArea": "Bentonville, Rogers, Springdale, and nearby Northwest Arkansas communities",
+      "description": "Current site says routes are full and new clients are not being accepted; call to check openings or waiting list.",
+      "verified": "Online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: mobile groomers list."
+    },
+    {
+      "id": "bark-mane-of-northwest-arkansas",
+      "name": "Bark & Mane of Northwest Arkansas",
+      "type": "Pet Grooming / Mobile Grooming",
+      "city": "Northwest Arkansas",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Pet Grooming",
+        "Mobile Grooming"
+      ],
+      "phone": "479-696-2600",
+      "email": "",
+      "website": "https://www.barkandmane.com/pet-groomers/northwest-ar/",
+      "facebook": "",
+      "address": "Northwest Arkansas; Rogers-area",
+      "intakePolicy": "Mobile grooming is by appointment and subject to route availability. Contact the groomer to confirm coverage for your address, current pricing, pet eligibility, and whether new clients are being accepted.",
+      "serviceArea": "Northwest Arkansas; Rogers-area",
+      "description": "Official page confirms mobile grooming. Local listings show inconsistent phone numbers; direct confirmation needed.",
+      "verified": "Online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: mobile groomers list."
     }
   ]
 }
