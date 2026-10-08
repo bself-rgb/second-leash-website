@@ -15,7 +15,8 @@
     "User-provided research from Pasted markdown(20261008-010542).md and Pasted markdown (2).md was incorporated with grooming-service, business-status, duplicate-name, and verification caveats preserved.",
     "User-provided mobile-groomer research was incorporated with route-coverage, new-client availability, and phone-verification caveats preserved.",
     "User-provided pet-sitting and dog-walking research from Pasted markdown(20261008-011624).md was incorporated with service-area, marketplace, availability, and verification caveats preserved.",
-    "User-provided rescue contact research from Pasted markdown(20261008-012352).md was incorporated with mailing/intake address distinctions, third-party phone caveats, and direct-confirmation requirements preserved."
+    "User-provided rescue contact research from Pasted markdown(20261008-012352).md was incorporated with mailing/intake address distinctions, third-party phone caveats, and direct-confirmation requirements preserved.",
+    "User-provided rescue and shelter research from Pasted markdown(20261008-012654).md was incorporated with foster-network, mailing-address, conflicting-contact, and operating-status caveats preserved."
   ],
   "organizationCount": 299,
   "organizations": [
@@ -1572,6 +1573,31 @@
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
     },
     {
+      "id": "claws-cats-lives-are-worth-saving",
+      "name": "CLAWS — Cats’ Lives Are Worth Saving",
+      "type": "Cat Rescue",
+      "city": "Little Rock",
+      "county": "Pulaski",
+      "animals": [
+        "Cats"
+      ],
+      "services": [
+        "Cat Rescue",
+        "Foster-Based Rescue",
+        "Adoption"
+      ],
+      "phone": "501-412-3548",
+      "email": "catslivesareworthsaving@gmail.com",
+      "website": "https://www.clawscatrescue.org/",
+      "facebook": "",
+      "address": "Little Rock / Central Arkansas; no public street or mailing address confirmed",
+      "intakePolicy": "Foster-home network; use the organization's cat-rescue intake process rather than treating it as unrestricted shelter intake.",
+      "serviceArea": "Little Rock / Central Arkansas",
+      "description": "Foster-home cat rescue serving Little Rock and Central Arkansas. The organization describes itself as a cooperative team of foster homes.",
+      "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-012654).md"
+    },
+    {
       "id": "clay-county-sheriff-s-office",
       "name": "Clay County Sheriff's Office",
       "type": "County Animal Control Contact / Sheriff's Office",
@@ -1674,6 +1700,32 @@
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
       "verified": "Online sources checked October 7, 2026; direct confirmation pending",
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+    },
+    {
+      "id": "community-cats-of-central-arkansas",
+      "name": "Community Cats of Central Arkansas",
+      "type": "Cat Rescue",
+      "city": "Jacksonville",
+      "county": "Pulaski",
+      "zip": "72078",
+      "animals": [
+        "Cats"
+      ],
+      "services": [
+        "Cat Rescue",
+        "Foster-Based Rescue",
+        "Adoption"
+      ],
+      "phone": "501-425-4284",
+      "email": "communitycatsglobal@gmail.com",
+      "website": "http://www.communitycatsglobal.org/",
+      "facebook": "",
+      "address": "Mailing: P.O. Box 8414, Jacksonville, AR 72078",
+      "intakePolicy": "Contact before arranging cat intake or transport; mailing address is not a confirmed public drop-off location.",
+      "serviceArea": "Central Arkansas",
+      "description": "Central Arkansas cat rescue organization serving Jacksonville and surrounding communities.",
+      "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-012654).md"
     },
     {
       "id": "conway-animal-services",
@@ -2054,6 +2106,33 @@
       "source": "User-provided research: Pasted markdown(8).md"
     },
     {
+      "id": "dirt-road-rescues",
+      "name": "Dirt Road Rescues — Perryville",
+      "type": "Animal Rescue",
+      "city": "Perryville",
+      "county": "Perry",
+      "zip": "72126",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Animal Rescue",
+        "Foster-Based Rescue",
+        "Adoption"
+      ],
+      "phone": "501-269-8566",
+      "email": "lisa@dirtroadrescues.org",
+      "website": "https://petcolove.org/lost/shelters/dirt-road-rescues/3426/",
+      "facebook": "",
+      "address": "Mailing: P.O. Box 165, Perryville, AR 72126; no public animal drop-off address confirmed",
+      "intakePolicy": "Contact before arranging intake or transport. Mailing address is not a confirmed public animal drop-off location.",
+      "serviceArea": "Perry County / Arkansas",
+      "description": "Arkansas rescue serving Perryville and surrounding areas. Current standalone website was not confirmed in the supplied research.",
+      "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-012654).md"
+    },
+    {
       "id": "dog-party-usa",
       "name": "Dog Party USA",
       "type": "Pet Grooming / Pet Care",
@@ -2288,6 +2367,32 @@
       "description": "Municipal animal services offering sheltering and adoption plus a Pets in Crisis program, pet food assistance, microchipping, and low-cost spay/neuter services.",
       "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
       "source": "User-provided research: Pasted markdown(9).md"
+    },
+    {
+      "id": "feline-rescue-and-rehome-furr",
+      "name": "Feline Rescue & Rehome — FuRR",
+      "type": "Cat Rescue",
+      "city": "Little Rock",
+      "county": "Pulaski",
+      "zip": "72225",
+      "animals": [
+        "Cats"
+      ],
+      "services": [
+        "Cat Rescue",
+        "Foster-Based Rescue",
+        "Adoption"
+      ],
+      "phone": "501-661-0956",
+      "email": "saveacat@teamfurr.org",
+      "website": "https://www.teamfurr.org/",
+      "facebook": "",
+      "address": "Mailing: P.O. Box 250567, Little Rock, AR 72225",
+      "intakePolicy": "Use the organization's online/contact process before arranging intake or transport; mailing address is not a confirmed public intake location.",
+      "serviceArea": "Little Rock / Central Arkansas",
+      "description": "Little Rock-area feline rescue and rehome organization using a foster-home network and online rescue contact process.",
+      "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-012654).md"
     },
     {
       "id": "for-every-dog-rescue",
@@ -3025,6 +3130,33 @@
       "description": "Animal shelter serving Southwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
+    },
+    {
+      "id": "hope-fur-paws-rescue",
+      "name": "Hope Fur Paws Rescue",
+      "type": "Animal Rescue",
+      "city": "Lonsdale",
+      "county": "Garland",
+      "zip": "72087",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Animal Rescue",
+        "Adoption",
+        "Foster-Based Rescue"
+      ],
+      "phone": "501-520-8072",
+      "email": "hfpr2019@yahoo.com",
+      "website": "http://hopefurpawsrescue.org/",
+      "facebook": "",
+      "address": "1355 Highway 128, Lonsdale, AR 72087; confirm whether visits or intake are available there",
+      "intakePolicy": "Contact before visiting or arranging intake; listed address is not confirmed as a public intake location.",
+      "serviceArea": "Lonsdale / Central Arkansas",
+      "description": "Animal rescue organization based in Lonsdale. Current website availability was not independently confirmed in the supplied research.",
+      "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-012654).md"
     },
     {
       "id": "hope-humane-society",
@@ -6566,6 +6698,32 @@
       "source": "User-provided: rescues and humane societies.rtf"
     },
     {
+      "id": "spots-special-pals-of-the-shelter",
+      "name": "S.P.O.T.S. — Special Pals of the Shelter",
+      "type": "Animal Rescue",
+      "city": "Caddo Gap",
+      "county": "Montgomery",
+      "zip": "71935",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Animal Rescue",
+        "Adoption",
+        "Foster-Based Rescue"
+      ],
+      "phone": "870-828-2427",
+      "email": "spotsdogs@windstream.net",
+      "website": "",
+      "facebook": "",
+      "address": "274 Stonegate, Caddo Gap, AR 71935; not confirmed as a public intake location",
+      "intakePolicy": "Contact directly before visiting or transporting an animal. Phone listings conflict; current operating status requires confirmation.",
+      "serviceArea": "Caddo Gap / Montgomery County",
+      "description": "Caddo Gap-area animal rescue listed under the name Special Pals of the Shelter. Supplied research identifies conflicting phone listings and no confirmed official website.",
+      "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-012654).md"
+    },
+    {
       "id": "saline-county-sheriff-s-office",
       "name": "Saline County Sheriff's Office",
       "type": "County Animal Control Contact / Sheriff's Office",
@@ -7796,6 +7954,33 @@
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
       "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
       "source": "User-provided research: Pasted markdown(10).md"
+    },
+    {
+      "id": "woodruff-county-animal-rescue-friends",
+      "name": "Woodruff County Animal Rescue Friends",
+      "type": "Animal Rescue",
+      "city": "McCrory",
+      "county": "Woodruff",
+      "zip": "72101",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Animal Rescue",
+        "Adoption",
+        "Foster-Based Rescue"
+      ],
+      "phone": "870-919-6518",
+      "email": "scotthorton@centurytel.net",
+      "website": "http://www.wcanimalrescuefriends.com/",
+      "facebook": "",
+      "address": "McCrory / Augusta, Arkansas; no reliable street or mailing address confirmed",
+      "intakePolicy": "Contact before visiting or arranging intake. Website availability and current contact status require confirmation.",
+      "serviceArea": "Woodruff County",
+      "description": "Animal rescue organization serving the McCrory/Augusta area of Woodruff County. Current website and contact status were not confirmed in the supplied research.",
+      "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-012654).md"
     },
     {
       "id": "woodruff-county-sheriff-s-office",
