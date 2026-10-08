@@ -17,7 +17,8 @@
     "User-provided pet-sitting and dog-walking research from Pasted markdown(20261008-011624).md was incorporated with service-area, marketplace, availability, and verification caveats preserved.",
     "User-provided rescue contact research from Pasted markdown(20261008-012352).md was incorporated with mailing/intake address distinctions, third-party phone caveats, and direct-confirmation requirements preserved.",
     "User-provided rescue and shelter research from Pasted markdown(20261008-012654).md was incorporated with foster-network, mailing-address, conflicting-contact, and operating-status caveats preserved.",
-    "User-provided follow-up research for Paws To Love Me, Adopt-A-Stray Animal Rescue, and Northwest Arkansas Animal Rescue was incorporated. The unresolved Northwest Arkansas Animal Rescue name remains a verification-queue entry and was not matched to another organization."
+    "User-provided follow-up research for Paws To Love Me, Adopt-A-Stray Animal Rescue, and Northwest Arkansas Animal Rescue was incorporated. The unresolved Northwest Arkansas Animal Rescue name remains a verification-queue entry and was not matched to another organization.",
+    "User-provided Arkansas dog-training research from Pasted markdown(20261008-013624).md was incorporated with location, training-service, and verification caveats preserved. Big Paws of the Ozarks and Inside Out Dog Daycare, Boarding & Training were already present and were not duplicated. Hounds Lounge and High Standards Grooming & Boarding were not added to Training because current training services were not confirmed."
   ],
   "organizationCount": 299,
   "organizations": [
@@ -151,6 +152,60 @@
       "source": "User-provided: rescues and humane societies.rtf"
     },
     {
+      "id": "all-dog-obedience",
+      "name": "All Dog Obedience",
+      "type": "Dog Training / Pet Training",
+      "city": "Jonesboro",
+      "county": "Craighead",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "Obedience"
+      ],
+      "phone": "",
+      "email": "",
+      "website": "https://www.alldogobedience.com/",
+      "facebook": "",
+      "address": "Jonesboro, Arkansas; street address not confirmed",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Northeast Arkansas",
+      "description": "Website identifies the Jonesboro trainer and location; use website inquiry options for current contact information.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
+    },
+    {
+      "id": "all-paws-training",
+      "name": "All Paws Training",
+      "type": "Dog Training / Pet Training",
+      "city": "Bentonville",
+      "county": "Benton",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "Group Classes",
+        "Private Lessons",
+        "In-Home Training",
+        "Puppy Training",
+        "Behavior Support",
+        "Board and Train",
+        "Daycare Training"
+      ],
+      "phone": "479-254-3647",
+      "email": "",
+      "website": "https://allpawstraining.com/",
+      "facebook": "",
+      "address": "210 Prairie Ln., Bentonville, AR 72712 — CoolWag campus",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Northwest Arkansas",
+      "description": "Group classes, private/in-home lessons, puppy training, behavior modification, board-and-train, and daycare training.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
+    },
+    {
       "id": "alma-husky-rescue-outreach",
       "name": "Alma Husky Rescue & Outreach, Inc.",
       "type": "Breed-Specific Rescue",
@@ -276,6 +331,29 @@
       "description": "National Bullmastiff rescue service with an Arkansas contact identified in the supplied research.",
       "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
       "source": "User-provided research: Pasted markdown(20261008-005256).md"
+    },
+    {
+      "id": "american-canine-training-harrison",
+      "name": "American Canine Training — Harrison",
+      "type": "Dog Training / Pet Training",
+      "city": "Harrison",
+      "county": "Boone",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training"
+      ],
+      "phone": "870-517-1512",
+      "email": "",
+      "website": "https://www.americancaninetraining.biz/",
+      "facebook": "",
+      "address": "2971 Fields Ln., Harrison, AR 72601 — business-directory listed",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Arkansas",
+      "description": "Contact details conflict with older listings; verify phone, location, and email before publishing as current.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
     },
     {
       "id": "american-fox-terrier-rescue",
@@ -1777,6 +1855,31 @@
       "source": "User-provided: rescues and humane societies.rtf"
     },
     {
+      "id": "conway-canine-companions",
+      "name": "Conway Canine Companions",
+      "type": "Dog Training / Pet Training",
+      "city": "Conway",
+      "county": "Faulkner",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "Puppy Training",
+        "Obedience"
+      ],
+      "phone": "501-733-9831",
+      "email": "",
+      "website": "https://www.yelp.com/biz/conway-canine-companions-conway",
+      "facebook": "",
+      "address": "8 Lancaster Ln., Conway, AR 72032 — confirm before visiting",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Central Arkansas",
+      "description": "Public business listing describes puppy, beginner, and competition obedience.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
+    },
+    {
       "id": "conway-county-sheriff-s-office",
       "name": "Conway County Sheriff's Office",
       "type": "County Animal Control Contact / Sheriff's Office",
@@ -2134,6 +2237,29 @@
       "source": "User-provided research: Pasted markdown(20261008-012654).md"
     },
     {
+      "id": "dog-empire-llc",
+      "name": "Dog Empire LLC",
+      "type": "Dog Training / Pet Training",
+      "city": "Jonesboro",
+      "county": "Craighead",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training"
+      ],
+      "phone": "870-217-3171",
+      "email": "",
+      "website": "https://www.facebook.com/dogempirellc/",
+      "facebook": "",
+      "address": "1267 County Road 730, Jonesboro, AR 72405 — map listing; confirm before visiting",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Northeast Arkansas",
+      "description": "Training business with third-party-supported phone and address; contact details should be confirmed.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
+    },
+    {
       "id": "dog-party-usa",
       "name": "Dog Party USA",
       "type": "Pet Grooming / Pet Care",
@@ -2162,6 +2288,33 @@
       "description": "Bathing, nail trims, shedding treatments, grooming; confirm haircut availability.",
       "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
       "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "dog-training-elite-little-rock",
+      "name": "Dog Training Elite Little Rock",
+      "type": "Dog Training / Pet Training",
+      "city": "Little Rock",
+      "county": "Pulaski",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "In-Home Training",
+        "Obedience",
+        "Group Classes",
+        "Behavior Support"
+      ],
+      "phone": "501-988-3647",
+      "email": "",
+      "website": "https://dogtrainingelite.com/little-rock",
+      "facebook": "",
+      "address": "Little Rock / Chenal Valley and surrounding areas; no public training-facility address confirmed",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Central Arkansas",
+      "description": "In-home training, obedience, group classes, and specialized programs.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
     },
     {
       "id": "doobert",
@@ -2594,6 +2747,33 @@
       "source": "User-provided research: Pasted markdown(9).md"
     },
     {
+      "id": "furry-feet-retreat-training-center",
+      "name": "Furry Feet Retreat & Training Center",
+      "type": "Dog Training / Pet Training",
+      "city": "Alexander",
+      "county": "Pulaski",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "Puppy Training",
+        "Private Lessons",
+        "Obedience",
+        "Board and Train"
+      ],
+      "phone": "501-847-5927; 501-647-5588",
+      "email": "",
+      "website": "https://furryfeetretreatandtrainingcenter.com/",
+      "facebook": "",
+      "address": "5423 Miller Rd., Alexander, AR 72002 — Bryant area",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Central Arkansas",
+      "description": "Puppy training, private lessons, obedience, and boarding/training programs.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
+    },
+    {
       "id": "gail-s-pets-second-chance",
       "name": "Gail's Pets Second Chance",
       "type": "Animal Rescue",
@@ -2910,6 +3090,32 @@
       "description": "Public business listing.",
       "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
       "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "happy-hound-pet-services",
+      "name": "Happy Hound Pet Services",
+      "type": "Dog Training / Pet Training",
+      "city": "Rudy",
+      "county": "Crawford",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "Puppy Training",
+        "Behavior Support",
+        "Online Training"
+      ],
+      "phone": "",
+      "email": "",
+      "website": "https://happyhoundpetservices.com/",
+      "facebook": "",
+      "address": "Rudy, Arkansas; serves Fort Smith, Van Buren, and surrounding areas",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Arkansas",
+      "description": "Puppy, adolescent, adult training, behavior consultations, and online training; no current phone confirmed.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
     },
     {
       "id": "happy-tails-travel",
@@ -3442,6 +3648,81 @@
       "description": "Official location page says grooming, boarding, daycare, self-service dog washing.",
       "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
       "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "hounds-hideaway-conway",
+      "name": "Hounds’ Hideaway — Conway",
+      "type": "Dog Training / Pet Training",
+      "city": "Conway",
+      "county": "Faulkner",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "Boarding",
+        "Daycare"
+      ],
+      "phone": "501-358-6598",
+      "email": "",
+      "website": "https://houndshideaway.com/",
+      "facebook": "",
+      "address": "1238 McNutt Rd., Conway, AR 72034 — directory-listed address",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Central Arkansas",
+      "description": "Confirm which Conway location currently offers training and where classes meet.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
+    },
+    {
+      "id": "hounds-hideaway-jonesboro",
+      "name": "Hounds’ Hideaway — Jonesboro",
+      "type": "Dog Training / Pet Training",
+      "city": "Jonesboro",
+      "county": "Craighead",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "Boarding",
+        "Daycare"
+      ],
+      "phone": "870-938-0138",
+      "email": "",
+      "website": "https://houndshideaway.com/training/",
+      "facebook": "",
+      "address": "900 Congress Circle, Jonesboro, AR 72401",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Northeast Arkansas",
+      "description": "Official training page directs inquiries to the Jonesboro location.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
+    },
+    {
+      "id": "hounds-hideaway-rogers",
+      "name": "Hounds’ Hideaway — Rogers",
+      "type": "Dog Training / Pet Training",
+      "city": "Rogers",
+      "county": "Benton",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "Boarding",
+        "Daycare"
+      ],
+      "phone": "479-278-2798",
+      "email": "",
+      "website": "https://houndshideaway.com/",
+      "facebook": "",
+      "address": "2720 N. Woods Ln., Rogers, AR 72756",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Northwest Arkansas",
+      "description": "Confirm current training availability at this location.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
     },
     {
       "id": "howard-county-sheriff-s-office",
@@ -4103,6 +4384,31 @@
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
     },
     {
+      "id": "joint-forces-k9-group",
+      "name": "Joint Forces K9 Group",
+      "type": "Dog Training / Pet Training",
+      "city": "Siloam Springs",
+      "county": "Benton",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "Working Dog Training",
+        "Boarding"
+      ],
+      "phone": "479-802-0775",
+      "email": "",
+      "website": "https://www.jointforcesk9.com/",
+      "facebook": "",
+      "address": "17606 Highway 16, Siloam Springs, AR 72761 — business-directory listed",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Northwest Arkansas",
+      "description": "Pet and working-dog training plus boarding.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
+    },
+    {
       "id": "jonesboro-animal-control",
       "name": "Jonesboro Animal Control",
       "type": "Municipal Animal Control",
@@ -4356,6 +4662,29 @@
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+    },
+    {
+      "id": "leashes-and-lashes",
+      "name": "Leashes and Lashes",
+      "type": "Dog Training / Pet Training",
+      "city": "Jacksonville",
+      "county": "Pulaski",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training"
+      ],
+      "phone": "501-241-0824",
+      "email": "",
+      "website": "https://leashesandlashes.co/",
+      "facebook": "",
+      "address": "1206 John Harden Dr., Jacksonville, AR 72076",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Central Arkansas",
+      "description": "Website confirms training; address supported by business listings.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
     },
     {
       "id": "lee-county-sheriff-s-office",
@@ -5798,6 +6127,32 @@
       "source": "User-provided research: Pasted markdown(20261008-011624).md"
     },
     {
+      "id": "petsmart-training-jonesboro",
+      "name": "PetSmart Training — Jonesboro",
+      "type": "Dog Training / Pet Training",
+      "city": "Jonesboro",
+      "county": "Craighead",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "Puppy Training",
+        "Group Classes",
+        "Private Lessons"
+      ],
+      "phone": "870-819-4541",
+      "email": "",
+      "website": "https://stores.petsmart.com/ar/jonesboro/jonesboro-ar/dog-training",
+      "facebook": "",
+      "address": "3009 E. Highland Dr., #A, Jonesboro, AR 72401",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Northeast Arkansas",
+      "description": "Confirmed PetSmart training location offering puppy/adult group classes and private classes.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
+    },
+    {
       "id": "petworks-pet-transport-arkansas",
       "name": "PetWorks — Arkansas Pet Transport Marketplace",
       "type": "Pet Transport Marketplace",
@@ -6350,6 +6705,33 @@
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
     },
     {
+      "id": "rr-kennels",
+      "name": "R & R Kennels",
+      "type": "Dog Training / Pet Training",
+      "city": "Pottsville",
+      "county": "Pope",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "Private Lessons",
+        "Group Training",
+        "Board and Train",
+        "Daycare"
+      ],
+      "phone": "479-777-0974",
+      "email": "",
+      "website": "https://www.randrkennels.com/",
+      "facebook": "",
+      "address": "606 Edwards Rd., Pottsville, AR 72858",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Central Arkansas",
+      "description": "Official site lists private/group training, board-and-train, and daycare training; confirm preferred phone.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
+    },
+    {
       "id": "randolph-county-humane-society",
       "name": "Randolph County Humane Society / Friends of Pocahontas Animal Control",
       "type": "Humane Society / Shelter Support Organization",
@@ -6797,6 +7179,62 @@
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+    },
+    {
+      "id": "school-for-dogs-nwa-bentonville",
+      "name": "School for Dogs NWA — Bentonville",
+      "type": "Dog Training / Pet Training",
+      "city": "Bentonville",
+      "county": "Benton",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "Puppy Training",
+        "Obedience",
+        "Private Lessons",
+        "Day School",
+        "Board and Train"
+      ],
+      "phone": "479-332-4237",
+      "email": "",
+      "website": "https://nwaschoolfordogs.com/",
+      "facebook": "",
+      "address": "1003 SE 28th St., Bentonville, AR 72712",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Northwest Arkansas",
+      "description": "Separate Bentonville location for local search; same training provider.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
+    },
+    {
+      "id": "school-for-dogs-nwa-fayetteville",
+      "name": "School for Dogs NWA — Fayetteville",
+      "type": "Dog Training / Pet Training",
+      "city": "Fayetteville",
+      "county": "Washington",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "Puppy Training",
+        "Obedience",
+        "Private Lessons",
+        "Day School",
+        "Board and Train"
+      ],
+      "phone": "479-332-4237",
+      "email": "",
+      "website": "https://nwaschoolfordogs.com/",
+      "facebook": "",
+      "address": "3826 N. Front St., Fayetteville, AR 72703",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Northwest Arkansas",
+      "description": "Puppy classes, obedience, private lessons, day school, and board-and-train.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
     },
     {
       "id": "scott-county-sheriff-s-office",
@@ -7428,6 +7866,33 @@
       "description": "Animal shelter serving South Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
+    },
+    {
+      "id": "telltail-dog-training",
+      "name": "Telltail Dog Training",
+      "type": "Dog Training / Pet Training",
+      "city": "Little Rock",
+      "county": "Pulaski",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Training",
+        "Group Classes",
+        "Private Lessons",
+        "In-Home Training",
+        "Training Walks"
+      ],
+      "phone": "501-500-4685",
+      "email": "",
+      "website": "https://telltaildogtraining.com/",
+      "facebook": "",
+      "address": "Little Rock, Arkansas; no public street address confirmed",
+      "intakePolicy": "Confirm current location, training availability, methods, pet eligibility, pricing, and any rescue/foster discounts before booking.",
+      "serviceArea": "Central Arkansas",
+      "description": "Group classes, private in-home lessons, and training walks.",
+      "verified": "Online sources reviewed October 7, 2026; direct provider confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013624).md"
     },
     {
       "id": "texarkana-animal-league",
