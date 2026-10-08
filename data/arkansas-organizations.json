@@ -10,9 +10,10 @@
     "Generic source-list descriptions were replaced with directory summaries based only on each listing's existing type and service-area fields; current services and availability should still be confirmed directly.",
     "User-provided research from Pasted markdown(9).md was incorporated with source caveats preserved.",
     "User-provided research from Pasted markdown(10).md was incorporated with conflicting-contact and jurisdiction caveats preserved.",
-    "User-provided research from Pasted markdown(20261008-005256).md was incorporated with breed-specific and national-network coverage caveats preserved."
+    "User-provided research from Pasted markdown(20261008-005256).md was incorporated with breed-specific and national-network coverage caveats preserved.",
+    "User-provided research from Pasted markdown(20261008-010103).md was incorporated, with transport-provider, coordination-platform, receiving-rescue, commercial, and emergency-care distinctions preserved."
   ],
-  "organizationCount": 256,
+  "organizationCount": 267,
   "organizations": [
     {
       "id": "abbey-road-canine-rescue",
@@ -165,6 +166,33 @@
       "source": "User-provided: rescues and humane societies.rtf"
     },
     {
+      "id": "american-airlines-petembark",
+      "name": "American Airlines Cargo / PetEmbark",
+      "type": "Airline Pet Transportation",
+      "city": "National",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Air Transport",
+        "Interstate Transport",
+        "Commercial Transport"
+      ],
+      "phone": "800-227-4622",
+      "email": "PetEmbark@aa.com",
+      "website": "https://www.aacargo.com/learn/animals-faqs.html",
+      "facebook": "",
+      "address": "Airport/facility varies by itinerary; no Arkansas pet-acceptance terminal confirmed.",
+      "intakePolicy": "Contact the provider before making transport arrangements. Confirm whether it accepts outside rescue requests, owner-owned pets, temporary foster moves, or only animals enrolled in its own program. Confirm fees, paperwork, pickup location, receiving party, and availability.",
+      "serviceArea": "National / Arkansas airport availability to confirm",
+      "description": "Airline transportation is not door-to-door. Confirm the Arkansas origin airport, aircraft, date, dog, crate, and eligibility before booking.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-010103).md"
+    },
+    {
       "id": "american-brittany-rescue",
       "name": "American Brittany Rescue",
       "type": "National Breed-Rescue Network",
@@ -314,6 +342,32 @@
       "description": "Animal shelter serving Southwest Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
+    },
+    {
+      "id": "animal-emergency-specialty-center-nwa",
+      "name": "Animal Emergency and Specialty Center of Northwest Arkansas",
+      "type": "Emergency Veterinary Hospital",
+      "city": "Springdale",
+      "county": "Washington",
+      "zip": "72762",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Emergency Veterinary Care",
+        "24/7 Veterinary Hospital"
+      ],
+      "phone": "479-927-0007",
+      "email": "aescnwa@gmail.com",
+      "website": "https://aescnwa.com/",
+      "facebook": "",
+      "address": "881 Metroplex Dr., Springdale, AR 72762",
+      "intakePolicy": "Contact the provider before making transport arrangements. Confirm whether it accepts outside rescue requests, owner-owned pets, temporary foster moves, or only animals enrolled in its own program. Confirm fees, paperwork, pickup location, receiving party, and availability.",
+      "serviceArea": "Northwest Arkansas",
+      "description": "24/7 emergency veterinary hospital. Transport pickup was not confirmed; do not represent this as an animal ambulance.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-010103).md"
     },
     {
       "id": "ark-fund",
@@ -1672,6 +1726,34 @@
       "source": "User-provided research: Pasted markdown(8).md"
     },
     {
+      "id": "doobert",
+      "name": "Doobert",
+      "type": "Rescue Transport Coordination Platform",
+      "city": "National",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Volunteer Transport Coordination",
+        "Foster Coordination",
+        "Rescue Transport",
+        "Interstate Transport"
+      ],
+      "phone": "",
+      "email": "help@doobert.com",
+      "website": "https://doobert.com/",
+      "facebook": "",
+      "address": "",
+      "intakePolicy": "Contact the provider before making transport arrangements. Confirm whether it accepts outside rescue requests, owner-owned pets, temporary foster moves, or only animals enrolled in its own program. Confirm fees, paperwork, pickup location, receiving party, and availability.",
+      "serviceArea": "National",
+      "description": "National rescue-coordination platform connecting organizations and volunteers. Not a guaranteed driver or scheduled carrier; confirm organization-account requirements and fees.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-010103).md"
+    },
+    {
       "id": "drew-county-animal-rescue",
       "name": "Drew County Animal Rescue",
       "type": "Animal Rescue",
@@ -2291,6 +2373,35 @@
       "description": "Animal shelter serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
+    },
+    {
+      "id": "happy-tails-travel",
+      "name": "Happy Tails Travel",
+      "type": "Commercial Pet Transport",
+      "city": "Tucson",
+      "county": "Pima",
+      "zip": "",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Commercial Transport",
+        "Ground Transport",
+        "Air Transport",
+        "Interstate Transport",
+        "Pet Relocation"
+      ],
+      "phone": "800-323-1718",
+      "email": "PetDesk@HappyTailsTravel.com",
+      "website": "https://www.happytailstravel.com/",
+      "facebook": "",
+      "address": "",
+      "intakePolicy": "Contact the provider before making transport arrangements. Confirm whether it accepts outside rescue requests, owner-owned pets, temporary foster moves, or only animals enrolled in its own program. Confirm fees, paperwork, pickup location, receiving party, and availability.",
+      "serviceArea": "National / Arkansas availability to confirm",
+      "description": "Commercial pet travel by ground and air. Request Arkansas route availability, dates, eligibility, and a quote.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-010103).md"
     },
     {
       "id": "have-a-heart-pet-shelter",
@@ -3337,6 +3448,33 @@
       "description": "Animal rescue organization serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
+    },
+    {
+      "id": "last-hope-k9-rescue",
+      "name": "Last Hope K9 Rescue",
+      "type": "Destination Rescue Partner",
+      "city": "National",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Receiving Rescue",
+        "Rescue Transport Partnership",
+        "Interstate Transport",
+        "Adoption Placement"
+      ],
+      "phone": "",
+      "email": "SouthernIntake@lasthopek9.org",
+      "website": "https://www.lasthopek9.org/",
+      "facebook": "",
+      "address": "71 Commercial St., #184, Boston, MA 02109",
+      "intakePolicy": "Contact the provider before making transport arrangements. Confirm whether it accepts outside rescue requests, owner-owned pets, temporary foster moves, or only animals enrolled in its own program. Confirm fees, paperwork, pickup location, receiving party, and availability.",
+      "serviceArea": "National; Arkansas intake",
+      "description": "Potential receiving-rescue partner that currently pulls dogs from Arkansas. Acceptance must come first; it is not a temporary foster transporter.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-010103).md"
     },
     {
       "id": "lawrence-county-sheriff-s-office",
@@ -4429,6 +4567,33 @@
       "source": "User-provided: rescues and humane societies.rtf"
     },
     {
+      "id": "ozark-freedom-drivers",
+      "name": "Ozark Freedom Drivers",
+      "type": "Animal Transport / Rescue Network",
+      "city": "Coal Hill",
+      "county": "Johnson",
+      "zip": "72832",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Animal Transport",
+        "Rescue Transport",
+        "Interstate Transport"
+      ],
+      "phone": "479-409-1262",
+      "email": "ofdadoptions@gmail.com",
+      "website": "https://bestfriends.org/partners/ozark-freedom-drivers",
+      "facebook": "",
+      "address": "Organization-listed address: 1300 E. Highway 64, Coal Hill, AR 72832; confirm mailing use.",
+      "intakePolicy": "Contact the provider before making transport arrangements. Confirm whether it accepts outside rescue requests, owner-owned pets, temporary foster moves, or only animals enrolled in its own program. Confirm fees, paperwork, pickup location, receiving party, and availability.",
+      "serviceArea": "Arkansas",
+      "description": "Arkansas-based animal transport organization serving receiving rescues and adopters outside Arkansas. Ask whether it accepts outside rescue transport requests and what costs apply.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-010103).md"
+    },
+    {
       "id": "ozark-humane-society",
       "name": "Ozark Humane Society",
       "type": "Humane Society / Private Shelter",
@@ -4678,6 +4843,35 @@
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
     },
     {
+      "id": "petworks-pet-transport-arkansas",
+      "name": "PetWorks — Arkansas Pet Transport Marketplace",
+      "type": "Pet Transport Marketplace",
+      "city": "Arkansas",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Commercial Transport",
+        "Ground Transport",
+        "Air Transport",
+        "Interstate Transport",
+        "Marketplace"
+      ],
+      "phone": "",
+      "email": "",
+      "website": "https://www.petworks.com/hire/pet-transport/ar",
+      "facebook": "",
+      "address": "",
+      "intakePolicy": "Contact the provider before making transport arrangements. Confirm whether it accepts outside rescue requests, owner-owned pets, temporary foster moves, or only animals enrolled in its own program. Confirm fees, paperwork, pickup location, receiving party, and availability.",
+      "serviceArea": "Arkansas",
+      "description": "Marketplace connecting users with transport professionals serving Arkansas. Individual providers should be checked before publishing their details.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-010103).md"
+    },
+    {
       "id": "phillips-county-sheriff-s-office",
       "name": "Phillips County Sheriff's Office",
       "type": "County Animal Control Contact / Sheriff's Office",
@@ -4728,6 +4922,34 @@
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+    },
+    {
+      "id": "pilots-n-paws",
+      "name": "Pilots N Paws",
+      "type": "Volunteer Animal Transport Network",
+      "city": "National",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Volunteer Flight",
+        "Rescue Transport",
+        "Interstate Transport",
+        "Air Transport"
+      ],
+      "phone": "",
+      "email": "info@pilotsnpaws.org",
+      "website": "https://www.pilotsnpaws.org/",
+      "facebook": "",
+      "address": "4651 Howe Rd., Landrum, SC 29356",
+      "intakePolicy": "Contact the provider before making transport arrangements. Confirm whether it accepts outside rescue requests, owner-owned pets, temporary foster moves, or only animals enrolled in its own program. Confirm fees, paperwork, pickup location, receiving party, and availability.",
+      "serviceArea": "National",
+      "description": "National volunteer-pilot network. Transport requests must be posted through its forum; availability depends on participating pilots and coordination.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-010103).md"
     },
     {
       "id": "pilots-n-paws-arkansas-connections",
@@ -5224,6 +5446,34 @@
       "description": "Animal rescue organization serving Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
+    },
+    {
+      "id": "rescue-road-trips",
+      "name": "Rescue Road Trips",
+      "type": "Commercial Rescue Transport",
+      "city": "Zanesville",
+      "county": "Muskingum",
+      "zip": "43701",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Rescue Transport",
+        "Interstate Transport",
+        "Ground Transport",
+        "Scheduled Route"
+      ],
+      "phone": "855-778-3647 ext. 3",
+      "email": "greg@rescueroadtrips.com",
+      "website": "https://rescueroadtrips.org/",
+      "facebook": "",
+      "address": "740 Convers Ave., Zanesville, OH 43701 — not an Arkansas pickup point.",
+      "intakePolicy": "Contact the provider before making transport arrangements. Confirm whether it accepts outside rescue requests, owner-owned pets, temporary foster moves, or only animals enrolled in its own program. Confirm fees, paperwork, pickup location, receiving party, and availability.",
+      "serviceArea": "Interstate / Arkansas route",
+      "description": "Scheduled rescue transport with a published Arkansas route including Prescott. Confirm current route, pricing, pickup location, and eligibility.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-010103).md"
     },
     {
       "id": "rescued-paws-of-paragould",
@@ -5861,6 +6111,35 @@
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
     },
     {
+      "id": "starwood-pet-travel",
+      "name": "Starwood Pet Travel",
+      "type": "Commercial Pet Transport",
+      "city": "Cape Coral",
+      "county": "Lee",
+      "zip": "33914",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Commercial Transport",
+        "Ground Transport",
+        "Air Transport",
+        "Interstate Transport",
+        "Pet Relocation"
+      ],
+      "phone": "239-344-8959",
+      "email": "info@starwoodpet.com",
+      "website": "https://www.starwoodpet.com/",
+      "facebook": "",
+      "address": "4706 Chiquita Blvd. S., Suite 200-320, Cape Coral, FL 33914",
+      "intakePolicy": "Contact the provider before making transport arrangements. Confirm whether it accepts outside rescue requests, owner-owned pets, temporary foster moves, or only animals enrolled in its own program. Confirm fees, paperwork, pickup location, receiving party, and availability.",
+      "serviceArea": "National / Arkansas availability to confirm",
+      "description": "Commercial domestic/international pet relocation. Ask specifically about Arkansas pickup and whether foster-to-foster trips are available and economical.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-010103).md"
+    },
+    {
       "id": "stone-county-humane-society",
       "name": "Stone County Humane Society",
       "type": "Humane Society / Private Shelter",
@@ -6104,6 +6383,34 @@
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
       "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
       "source": "User-provided research: Pasted markdown(10).md"
+    },
+    {
+      "id": "uship-pet-shipping-arkansas",
+      "name": "uShip — Arkansas Pet Shipping Marketplace",
+      "type": "Pet Transport Marketplace",
+      "city": "Arkansas",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Commercial Transport",
+        "Ground Transport",
+        "Interstate Transport",
+        "Marketplace"
+      ],
+      "phone": "",
+      "email": "",
+      "website": "https://www.uship.com/pet-shipping/arkansas/",
+      "facebook": "",
+      "address": "",
+      "intakePolicy": "Contact the provider before making transport arrangements. Confirm whether it accepts outside rescue requests, owner-owned pets, temporary foster moves, or only animals enrolled in its own program. Confirm fees, paperwork, pickup location, receiving party, and availability.",
+      "serviceArea": "Arkansas",
+      "description": "Marketplace connecting customers with transporters for trips to/from Arkansas. Compare each carrier's profile, reviews, history, insurance, and written terms.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-010103).md"
     },
     {
       "id": "van-buren-county-sheriff-s-office",
