@@ -1,6 +1,6 @@
 {
   "directoryName": "Arkansas Animal Rescue and Shelter Directory",
-  "description": "Animal shelters, humane societies, foster-based rescues, animal-control organizations, and other animal-welfare resources in Arkansas.",
+  "description": "Arkansas animal rescue, shelter, animal-control, transport, grooming, and pet-care resources.",
   "lastUpdated": "2026-10-07",
   "sourceNotes": [
     "Merged from the existing Arkansas organizations directory and the user-provided rescues and humane societies list.",
@@ -11,9 +11,10 @@
     "User-provided research from Pasted markdown(9).md was incorporated with source caveats preserved.",
     "User-provided research from Pasted markdown(10).md was incorporated with conflicting-contact and jurisdiction caveats preserved.",
     "User-provided research from Pasted markdown(20261008-005256).md was incorporated with breed-specific and national-network coverage caveats preserved.",
-    "User-provided research from Pasted markdown(20261008-010103).md was incorporated, with transport-provider, coordination-platform, receiving-rescue, commercial, and emergency-care distinctions preserved."
+    "User-provided research from Pasted markdown(20261008-010103).md was incorporated, with transport-provider, coordination-platform, receiving-rescue, commercial, and emergency-care distinctions preserved.",
+    "User-provided research from Pasted markdown(20261008-010542).md and Pasted markdown (2).md was incorporated with grooming-service, business-status, duplicate-name, and verification caveats preserved."
   ],
-  "organizationCount": 267,
+  "organizationCount": 296,
   "organizations": [
     {
       "id": "abbey-road-canine-rescue",
@@ -6685,6 +6686,747 @@
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
       "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
       "source": "User-provided research: Pasted markdown(10).md"
+    },
+    {
+      "id": "wags-to-riches-pet-grooming",
+      "name": "Wags to Riches Pet Grooming",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Bentonville",
+      "county": "Bentonville",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog/Cat Grooming",
+        "Mobile Grooming"
+      ],
+      "phone": "855-924-7692",
+      "email": "",
+      "website": "https://www.wagstorichesnwa.com/",
+      "facebook": "",
+      "address": "1003 SE 28th St., Bentonville, AR 72712; mobile grooming in Northwest Arkansas",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Dog and cat grooming, mobile and in-salon.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "shay-s-love-affur-grooming-maumelle-north-little-rock",
+      "name": "Shay’s Love Affur Grooming — Maumelle/North Little Rock",
+      "type": "Pet Grooming / Pet Care",
+      "city": "North Little Rock",
+      "county": "Pulaski",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Grooming"
+      ],
+      "phone": "501-585-1560",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "address": "7527 Counts Massie Rd., North Little Rock/Maumelle, AR 72113",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Business contact; city designation should be confirmed.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "shay-s-love-affur-grooming-conway",
+      "name": "Shay’s Love Affur Grooming — Conway",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Conway",
+      "county": "Faulkner",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Grooming"
+      ],
+      "phone": "501-205-6159",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "address": "2215 Dave Ward Dr., Conway, AR",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Confirm that this location remains open.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "pretty-paws-grooming",
+      "name": "Pretty Paws Grooming",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Little Rock",
+      "county": "Pulaski",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Grooming"
+      ],
+      "phone": "501-246-4147",
+      "email": "",
+      "website": "https://www.lrprettypaws.com/",
+      "facebook": "",
+      "address": "11517 Kanis Rd., Little Rock, AR 72211",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Official website contact details.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "rock-dog",
+      "name": "Rock Dog",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Little Rock",
+      "county": "Pulaski",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Grooming",
+        "Haircuts",
+        "Baths",
+        "Nail Trimming",
+        "Creative Grooming"
+      ],
+      "phone": "501-515-8151",
+      "email": "",
+      "website": "https://www.rockdogwlr.com/",
+      "facebook": "",
+      "address": "14810 Cantrell Rd., Suite 170, Little Rock, AR 72223",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Website supports grooming, haircuts, baths, nail trimming, and creative grooming.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "dat-pooch-mobile-dog-grooming",
+      "name": "Dat Pooch Mobile Dog Grooming",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Central Arkansas",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Mobile Dog Grooming"
+      ],
+      "phone": "870-324-3647",
+      "email": "",
+      "website": "https://datpooch.com/",
+      "facebook": "",
+      "address": "Mobile service based in Maumelle/Central Arkansas; Little Rock metro and selected surrounding communities",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Central Arkansas",
+      "description": "Service area varies by route; no public salon address confirmed.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "arkansas-pet-resort",
+      "name": "Arkansas Pet Resort",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Maumelle",
+      "county": "Pulaski",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Grooming",
+        "Boarding"
+      ],
+      "phone": "501-753-5855",
+      "email": "",
+      "website": "http://arkansaspetresort.com/",
+      "facebook": "",
+      "address": "8402 Counts Massie Rd., Maumelle/North Little Rock, AR",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Grooming scope should be confirmed before full-service grooming tag.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "k9-konnect-club",
+      "name": "K9 Konnect Club",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Mabelvale",
+      "county": "Pulaski",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Care",
+        "Grooming verification needed"
+      ],
+      "phone": "501-475-8481",
+      "email": "",
+      "website": "https://www.k9konnectclub.com/",
+      "facebook": "",
+      "address": "10925 Germania Rd., Mabelvale, AR 72103",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Full-service grooming not established; verification needed.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "wags-whiskers-little-rock",
+      "name": "Wags & Whiskers — Little Rock",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Little Rock",
+      "county": "Pulaski",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Daycare",
+        "Boarding",
+        "Grooming verification needed"
+      ],
+      "phone": "501-221-6913; alternate 501-486-5955",
+      "email": "",
+      "website": "https://wagsandwhiskerslittlerock.com/",
+      "facebook": "",
+      "address": "9301 Treasure Hill Rd., Little Rock, AR 72227",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Primarily daycare/boarding; confirm grooming availability.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "high-standards-grooming-boarding",
+      "name": "High Standards Grooming & Boarding",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Jonesboro",
+      "county": "Craighead",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Grooming",
+        "Boarding"
+      ],
+      "phone": "501-547-4613",
+      "email": "",
+      "website": "https://www.highstandardsgrooming.com/",
+      "facebook": "",
+      "address": "825 S. Gee St., Jonesboro, AR 72401",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Grooming and boarding policies on official site.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "stone-chapel-kennel-cattery",
+      "name": "Stone Chapel Kennel & Cattery",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Fayetteville",
+      "county": "Washington",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Grooming",
+        "Cat Grooming",
+        "Boarding",
+        "Daycare"
+      ],
+      "phone": "479-935-4020",
+      "email": "",
+      "website": "https://www.stonechapelkennel.com/",
+      "facebook": "",
+      "address": "2170 N. Sunshine Rd., Fayetteville, AR 72704",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Official grooming page identifies dog and cat groomers.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "dog-party-usa",
+      "name": "Dog Party USA",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Springdale",
+      "county": "Washington",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Bathing",
+        "Nail Trims",
+        "Shedding Treatments",
+        "Grooming",
+        "Boarding",
+        "Daycare",
+        "Training"
+      ],
+      "phone": "479-306-4660",
+      "email": "",
+      "website": "https://www.dogpartyusa.com/",
+      "facebook": "",
+      "address": "912 S. Maestri Rd., Springdale, AR 72762",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Bathing, nail trims, shedding treatments, grooming; confirm haircut availability.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "hounds-lounge-bryant",
+      "name": "Hounds Lounge — Bryant",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Bryant",
+      "county": "Saline",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Grooming",
+        "Self-Service Wash",
+        "Boarding",
+        "Daycare"
+      ],
+      "phone": "501-943-7207",
+      "email": "",
+      "website": "https://www.houndslounge.com/locations/",
+      "facebook": "",
+      "address": "519 W. Commerce St., Bryant, AR 72022",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Official location page says grooming, boarding, daycare, self-service dog washing.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "hounds-lounge-fayetteville",
+      "name": "Hounds Lounge — Fayetteville",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Fayetteville",
+      "county": "Washington",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Grooming",
+        "Self-Service Wash",
+        "Boarding",
+        "Daycare"
+      ],
+      "phone": "479-444-8286",
+      "email": "",
+      "website": "https://www.houndslounge.com/locations/",
+      "facebook": "",
+      "address": "2407 N. College Ave., Fayetteville, AR 72703",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Official location page says grooming, boarding, daycare, self-service dog washing.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "hounds-lounge-north-little-rock",
+      "name": "Hounds Lounge — North Little Rock",
+      "type": "Pet Grooming / Pet Care",
+      "city": "North Little Rock",
+      "county": "Pulaski",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Grooming",
+        "Self-Service Wash",
+        "Boarding",
+        "Daycare"
+      ],
+      "phone": "501-819-0811",
+      "email": "",
+      "website": "https://www.houndslounge.com/locations/north-little-rock/",
+      "facebook": "",
+      "address": "7422 North Hills Blvd., North Little Rock, AR 72116",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Official location page says grooming, boarding, daycare, self-service dog washing.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "hounds-lounge-riverdale-little-rock",
+      "name": "Hounds Lounge — Riverdale — Little Rock",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Little Rock",
+      "county": "Pulaski",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Grooming",
+        "Self-Service Wash",
+        "Boarding",
+        "Daycare"
+      ],
+      "phone": "501-904-2185",
+      "email": "",
+      "website": "https://www.houndslounge.com/locations/riverdale/",
+      "facebook": "",
+      "address": "1711 Rebsamen Park Rd., Little Rock, AR 72202",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Official location page says grooming, boarding, daycare, self-service dog washing.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "hounds-lounge-rogers",
+      "name": "Hounds Lounge — Rogers",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Rogers",
+      "county": "Benton",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Grooming",
+        "Self-Service Wash",
+        "Boarding",
+        "Daycare"
+      ],
+      "phone": "479-372-6047",
+      "email": "",
+      "website": "https://www.houndslounge.com/locations/rogers/",
+      "facebook": "",
+      "address": "1201 S. 43rd St., Rogers, AR 72758",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Official location page says grooming, boarding, daycare, self-service dog washing.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "hounds-lounge-west-little-rock",
+      "name": "Hounds Lounge — West Little Rock",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Little Rock",
+      "county": "Pulaski",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Grooming",
+        "Self-Service Wash",
+        "Boarding",
+        "Daycare"
+      ],
+      "phone": "501-747-2047",
+      "email": "",
+      "website": "https://www.houndslounge.com/locations/",
+      "facebook": "",
+      "address": "1308 S. Bowman Rd., Little Rock, AR 72211",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Official location page says grooming, boarding, daycare, self-service dog washing.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "inside-out-dog-daycare-boarding-training",
+      "name": "Inside Out Dog Daycare, Boarding & Training",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Fayetteville",
+      "county": "Washington",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Dog Grooming",
+        "Baths",
+        "Haircuts",
+        "Nail Care",
+        "Maintenance Grooms",
+        "Daycare",
+        "Boarding",
+        "Training"
+      ],
+      "phone": "479-310-5904",
+      "email": "",
+      "website": "https://insideoutdogs.com/",
+      "facebook": "",
+      "address": "6644 E. Mission Blvd., Fayetteville, AR 72703",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Official services page confirms grooming, baths, haircuts, nail care, maintenance grooms.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "the-natural-paw-pet-spaw",
+      "name": "The Natural Paw Pet Spaw",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Fayetteville",
+      "county": "Washington",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Grooming"
+      ],
+      "phone": "479-879-1216",
+      "email": "",
+      "website": "https://www.vagaro.com/thenaturalpawpetspaw",
+      "facebook": "",
+      "address": "Evelyn Hills Shopping Plaza, 1348 N. College Ave., Fayetteville, AR 72703",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Phone supported by booking page; listed website could not be retrieved.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "posh-pet-spa",
+      "name": "Posh Pet Spa",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Fayetteville",
+      "county": "Washington",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Grooming"
+      ],
+      "phone": "479-487-2992",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "address": "4018 N. Old Wire Rd., Fayetteville, AR 72703",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Public business listing; no standalone site confirmed.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "groom-n-tails-paw-spa",
+      "name": "Groom’n Tails Paw Spa",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Bentonville",
+      "county": "Benton",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Grooming"
+      ],
+      "phone": "479-621-5559",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "address": "3307 SW 14th St., Suite A, Bentonville, AR 72712",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Public business listing; no standalone site confirmed.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "the-fine-art-of-grooming",
+      "name": "The Fine Art of Grooming",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Mountain Home",
+      "county": "Baxter",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Grooming"
+      ],
+      "phone": "870-425-8369",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "address": "907 Highway 62 W., Mountain Home, AR 72653",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Address and phone agree across listings.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "the-groom-n-room",
+      "name": "The Groom-N-Room",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Clarksville",
+      "county": "Johnson",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Grooming"
+      ],
+      "phone": "479-754-3406",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "address": "2116 W. Main St., Clarksville, AR 72830",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "BBB/public listings; current website not confirmed.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "hairy-s-grooming",
+      "name": "Hairy’s Grooming",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Little Rock",
+      "county": "Pulaski",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Grooming"
+      ],
+      "phone": "501-888-3504",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "address": "20224 Arch St., Little Rock, AR 72206",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Public business listing.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "kathy-s-pet-grooming-service",
+      "name": "Kathy’s Pet Grooming Service",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Fayetteville",
+      "county": "Washington",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Grooming"
+      ],
+      "phone": "479-444-6283",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "address": "2340 E. Huntsville Rd., Fayetteville, AR 72701",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Public business listing.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "la-de-da-pet-grooming",
+      "name": "La De Da Pet Grooming",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Heber Springs",
+      "county": "Cleburne",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Grooming"
+      ],
+      "phone": "501-362-7140",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "address": "311 E. Main St., Heber Springs, AR 72543",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Public business listing.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "groomingdales-camden",
+      "name": "Groomingdales — Camden",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Camden",
+      "county": "Ouachita",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Grooming",
+        "Kennels"
+      ],
+      "phone": "870-836-2800",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "address": "2035 Abilene St., Camden, AR 71701",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Third-party directory; confirm current operation.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
+    },
+    {
+      "id": "woof-happy-tails",
+      "name": "Woof Happy Tails",
+      "type": "Pet Grooming / Pet Care",
+      "city": "Little Rock",
+      "county": "Pulaski",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Pet Grooming"
+      ],
+      "phone": "501-747-1354; alternate 501-647-0300",
+      "email": "",
+      "website": "https://www.woofhappytails.com/",
+      "facebook": "",
+      "address": "301 S. Bowman Rd., Suite 150, Little Rock, AR 72211",
+      "intakePolicy": "Contact the business before arranging grooming or pet-care services. Availability, pricing, eligibility, and special-handling needs should be confirmed directly.",
+      "serviceArea": "Arkansas",
+      "description": "Official website describes grooming; keep actual name rather than renaming to Happy Tails Dog Grooming.",
+      "verified": "Official and public online sources reviewed October 7, 2026; direct business confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-010542).md and Pasted markdown (2).md"
     }
   ]
 }
