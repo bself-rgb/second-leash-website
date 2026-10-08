@@ -9,9 +9,10 @@
     "New organizations taken only from the user-provided source list have minimal details and are marked for direct verification before reliance.",
     "Generic source-list descriptions were replaced with directory summaries based only on each listing's existing type and service-area fields; current services and availability should still be confirmed directly.",
     "User-provided research from Pasted markdown(9).md was incorporated with source caveats preserved.",
-    "User-provided research from Pasted markdown(10).md was incorporated with conflicting-contact and jurisdiction caveats preserved."
+    "User-provided research from Pasted markdown(10).md was incorporated with conflicting-contact and jurisdiction caveats preserved.",
+    "User-provided research from Pasted markdown(20261008-005256).md was incorporated with breed-specific and national-network coverage caveats preserved."
   ],
-  "organizationCount": 241,
+  "organizationCount": 256,
   "organizations": [
     {
       "id": "abbey-road-canine-rescue",
@@ -42,6 +43,58 @@
       "source": "https://abbeyroadrescue.org/about/"
     },
     {
+      "id": "above-beyond-english-setter-rescue",
+      "name": "Above & Beyond English Setter Rescue",
+      "type": "National Breed-Rescue Network",
+      "city": "Havertown",
+      "county": "",
+      "zip": "19083",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Adoption",
+        "Rescue Referral"
+      ],
+      "phone": "800-732-0999",
+      "email": "info@esrescue.org; intake@esrescue.org",
+      "website": "https://esrescue.org/",
+      "facebook": "",
+      "address": "2415 Wynnefield Dr., Havertown, PA 19083",
+      "intakePolicy": "National/regional English Setter rescue. Contact the intake team to ask whether it can assist with an Arkansas dog.",
+      "serviceArea": "National/regional; Arkansas assistance subject to confirmation",
+      "description": "English Setter rescue network based outside Arkansas. The supplied research recommends contacting intake to determine whether an Arkansas case can be assisted.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
+    },
+    {
+      "id": "all-about-labs",
+      "name": "All About Labs",
+      "type": "Breed-Specific Rescue",
+      "city": "Little Rock",
+      "county": "Pulaski",
+      "zip": "72204",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Foster-Based Rescue",
+        "Adoption"
+      ],
+      "phone": "501-615-3844",
+      "email": "gina@allaboutlabs.org; info@allaboutlabs.org",
+      "website": "https://www.allaboutlabs.org/",
+      "facebook": "",
+      "address": "Mailing: Gina Hartsell, 1623 Leander Dr., Little Rock, AR 72204",
+      "intakePolicy": "Contact the rescue before transporting or surrendering a dog; current intake and eligibility should be confirmed directly.",
+      "serviceArea": "Central Arkansas",
+      "description": "Breed-specific Labrador Retriever rescue serving Arkansas. Mailing address and current phone were identified from the supplied research.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
+    },
+    {
       "id": "all-about-labs-rescue",
       "name": "All About Labs Rescue",
       "type": "Dog Rescue",
@@ -64,6 +117,32 @@
       "source": "User-provided: rescues and humane societies.rtf"
     },
     {
+      "id": "alma-husky-rescue-outreach",
+      "name": "Alma Husky Rescue & Outreach, Inc.",
+      "type": "Breed-Specific Rescue",
+      "city": "Alma",
+      "county": "Crawford",
+      "zip": "72921",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Foster-Based Rescue",
+        "Adoption"
+      ],
+      "phone": "479-392-3565",
+      "email": "almahuskyrescue@gmail.com",
+      "website": "https://www.ahroadopt.org/",
+      "facebook": "",
+      "address": "Alma, AR 72921; no public visitor/intake address confirmed",
+      "intakePolicy": "Contact the rescue before arranging transport or intake; no public visitor/intake address was confirmed in the supplied research.",
+      "serviceArea": "Arkansas",
+      "description": "Husky-focused rescue and outreach organization based in Alma. No public visitor or intake address was confirmed in the supplied research.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
+    },
+    {
       "id": "almost-home-shelter",
       "name": "Almost Home Shelter",
       "type": "Animal Shelter",
@@ -84,6 +163,135 @@
       "description": "Animal shelter serving River Valley. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
+    },
+    {
+      "id": "american-brittany-rescue",
+      "name": "American Brittany Rescue",
+      "type": "National Breed-Rescue Network",
+      "city": "National",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Adoption",
+        "Rescue Referral"
+      ],
+      "phone": "National: 866-274-8911; Arkansas coordinators: 843-812-0831 and 501-472-8182",
+      "email": "Arkansas: abr.ar@americanbrittanyrescue.org; General: info@americanbrittanyrescue.org",
+      "website": "https://americanbrittanyrescue.org/",
+      "facebook": "",
+      "address": "National mailing: 822 Wild Ginger Rd., Sugar Grove, IL 60554; no Arkansas public facility confirmed",
+      "intakePolicy": "National breed-rescue network. Arkansas coordinator contacts are listed, but the supplied research does not confirm an Arkansas public intake facility.",
+      "serviceArea": "National; Arkansas coordinator listed",
+      "description": "National Brittany rescue network with Arkansas coordinator contacts. The supplied research does not assign the two Arkansas phone numbers to individual coordinators without direct confirmation.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
+    },
+    {
+      "id": "american-bullmastiff-association-rescue-service",
+      "name": "American Bullmastiff Association Rescue Service (ABARS)",
+      "type": "National Breed-Rescue Network",
+      "city": "National",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Adoption",
+        "Rescue Referral"
+      ],
+      "phone": "",
+      "email": "Arkansas contact Diane Carter: Jumpersbrat1@yahoo.com; National coordinator Virginia Rowland: blackslate@aol.com",
+      "website": "https://bullmastiff.us/rescue/",
+      "facebook": "",
+      "address": "",
+      "intakePolicy": "National breed-rescue service; contact the listed Arkansas representative before arranging transport or intake.",
+      "serviceArea": "National; Arkansas contact listed",
+      "description": "National Bullmastiff rescue service with an Arkansas contact identified in the supplied research.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
+    },
+    {
+      "id": "american-fox-terrier-rescue",
+      "name": "American Fox Terrier Rescue",
+      "type": "National Breed-Rescue Network",
+      "city": "National",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Emergency Rescue Assistance",
+        "Rescue Referral"
+      ],
+      "phone": "703-407-9557",
+      "email": "",
+      "website": "https://www.americanfoxterrierrescue.org/",
+      "facebook": "",
+      "address": "",
+      "intakePolicy": "National rescue network; Arkansas is included in its Middle States region. Use the official rescue-assistance route before arranging transport or intake.",
+      "serviceArea": "National; Arkansas included in Middle States region",
+      "description": "National Fox Terrier rescue network that explicitly includes Arkansas in its Middle States region. No Arkansas public facility was confirmed.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
+    },
+    {
+      "id": "american-miniature-schnauzer-club-rescue-referral",
+      "name": "American Miniature Schnauzer Club Rescue Program",
+      "type": "National Breed-Rescue Network",
+      "city": "National",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Rescue Referral"
+      ],
+      "phone": "",
+      "email": "information@amsc.us",
+      "website": "https://amsc.us/referral/rescue/",
+      "facebook": "",
+      "address": "",
+      "intakePolicy": "Breed-club referral route rather than a separately confirmed Arkansas rescue. Contact the club to request referral to its rescue chair or an appropriate rescue.",
+      "serviceArea": "National; Arkansas referral subject to confirmation",
+      "description": "Verified breed-club rescue referral route for Miniature Schnauzers. The supplied research did not confirm a separate Arkansas organization under the name “American Miniature Schnauzer Rescue.”",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
+    },
+    {
+      "id": "american-pointer-rescue",
+      "name": "American Pointer Rescue",
+      "type": "National Breed-Rescue Network",
+      "city": "Ellsworth",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Adoption",
+        "Rescue Referral"
+      ],
+      "phone": "",
+      "email": "americanpointerrescue@gmail.com; theteam@americanpointer.org",
+      "website": "http://www.americanpointer.org/",
+      "facebook": "",
+      "address": "Petfinder identifies Ellsworth, Maine; no Arkansas facility confirmed",
+      "intakePolicy": "National Pointer rescue with no Arkansas coverage confirmed in the supplied research. Contact the organization before assuming it can assist an Arkansas case.",
+      "serviceArea": "National; Arkansas coverage not confirmed",
+      "description": "Pointer rescue organization listed outside Arkansas. The supplied research did not confirm Arkansas service coverage.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
     },
     {
       "id": "animal-care-adoption-center-texarkana",
@@ -1439,6 +1647,31 @@
       "source": "User-provided: rescues and humane societies.rtf"
     },
     {
+      "id": "diamond-dogs-rescue-inc",
+      "name": "Diamond Dogs Rescue Inc.",
+      "type": "Animal Rescue",
+      "city": "Arkansas",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Animal Rescue",
+        "Foster-Based Rescue"
+      ],
+      "phone": "",
+      "email": "TKDiamond@aol.com",
+      "website": "https://diamonddogsrescueinc.com/",
+      "facebook": "",
+      "address": "",
+      "intakePolicy": "Foster-based rescue; contact the organization before arranging transport or intake.",
+      "serviceArea": "Arkansas",
+      "description": "Foster-based dog rescue organization. No public street address or phone was identified in the supplied research.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(8).md"
+    },
+    {
       "id": "drew-county-animal-rescue",
       "name": "Drew County Animal Rescue",
       "type": "Animal Rescue",
@@ -1759,35 +1992,6 @@
       "description": "Animal rescue organization serving North Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
       "source": "User-provided research: Pasted markdown(9).md"
-    },
-    {
-      "id": "friends-kitties-kanines",
-      "name": "Kitties & Kanines Pet Resource Center",
-      "type": "Pet Resource Center",
-      "city": "Fort Smith",
-      "county": "Sebastian",
-      "zip": "72903",
-      "animals": [
-        "Dogs",
-        "Cats"
-      ],
-      "services": [
-        "Low-Cost Spay/Neuter",
-        "Vaccinations",
-        "Wellness Services",
-        "Pet Owner Education",
-        "Pet Resource / Animal Welfare Assistance"
-      ],
-      "phone": "(479) 434-4740",
-      "email": "",
-      "website": "http://www.kittiesandkanines.com/",
-      "facebook": "",
-      "address": "4300 Phoenix Ave, Fort Smith, AR 72903",
-      "intakePolicy": "Appointments and clinic availability vary; contact the clinic before traveling.",
-      "serviceArea": "River Valley",
-      "description": "Pet resource center serving Fort Smith and the surrounding area. Contact directly to confirm current services, availability, and eligibility.",
-      "verified": "2026-10-07",
-      "source": "https://www.kittiesandkanines.com/"
     },
     {
       "id": "friends-animal-village",
@@ -2328,6 +2532,32 @@
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+    },
+    {
+      "id": "hot-springs-animal-services",
+      "name": "Hot Springs Animal Services",
+      "type": "Municipal Animal Services",
+      "city": "Hot Springs",
+      "county": "Garland",
+      "zip": "71901",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Animal Control",
+        "Animal Shelter / Services"
+      ],
+      "phone": "501-262-2091",
+      "email": "fwetzler@cityhs.net",
+      "website": "https://www.hotspringsar.gov/126/Animal-Services",
+      "facebook": "",
+      "address": "319 Davidson Dr., Hot Springs, AR 71901",
+      "intakePolicy": "Contact the agency before transporting an animal. The supplied research notes that the agency handles stray/nuisance dogs in Garland County as well as animals within Hot Springs.",
+      "serviceArea": "Garland County",
+      "description": "Municipal animal-services agency for Hot Springs; the supplied research states that it also handles stray and nuisance dogs in Garland County.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(9).md"
     },
     {
       "id": "hot-springs-village-animal-welfare-league",
@@ -3032,6 +3262,35 @@
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
     },
     {
+      "id": "friends-kitties-kanines",
+      "name": "Kitties & Kanines Pet Resource Center",
+      "type": "Pet Resource Center",
+      "city": "Fort Smith",
+      "county": "Sebastian",
+      "zip": "72903",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Low-Cost Spay/Neuter",
+        "Vaccinations",
+        "Wellness Services",
+        "Pet Owner Education",
+        "Pet Resource / Animal Welfare Assistance"
+      ],
+      "phone": "(479) 434-4740",
+      "email": "",
+      "website": "http://www.kittiesandkanines.com/",
+      "facebook": "",
+      "address": "4300 Phoenix Ave, Fort Smith, AR 72903",
+      "intakePolicy": "Appointments and clinic availability vary; contact the clinic before traveling.",
+      "serviceArea": "River Valley",
+      "description": "Pet resource center serving Fort Smith and the surrounding area. Contact directly to confirm current services, availability, and eligibility.",
+      "verified": "2026-10-07",
+      "source": "https://www.kittiesandkanines.com/"
+    },
+    {
       "id": "lafayette-county-sheriff-s-office",
       "name": "Lafayette County Sheriff's Office",
       "type": "County Animal Control Contact / Sheriff's Office",
@@ -3237,6 +3496,32 @@
       "description": "City animal services providing shelter, adoption, animal control, and volunteer opportunities for dogs and cats.",
       "verified": "2026-10-07",
       "source": "https://littlerock.gov/residents/animal-services/"
+    },
+    {
+      "id": "liz-es-pekingese-rescue-sanctuary",
+      "name": "Liz E.’s Pekingese Rescue & Sanctuary",
+      "type": "Breed-Specific Rescue",
+      "city": "Bull Shoals",
+      "county": "Marion",
+      "zip": "72619",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Sanctuary",
+        "Adoption"
+      ],
+      "phone": "479-466-3837",
+      "email": "lizethedog@yahoo.com",
+      "website": "https://pekingesepatrol.com/",
+      "facebook": "",
+      "address": "Mailing: P.O. Box 687, Bull Shoals, AR 72619",
+      "intakePolicy": "Contact the rescue before transporting or surrendering a dog. Phone is nonprofit-directory listed and was not confirmed on the official site.",
+      "serviceArea": "Arkansas",
+      "description": "Pekingese rescue and sanctuary with a Bull Shoals mailing address. The supplied research notes that the phone is directory-listed rather than confirmed on the official site.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
     },
     {
       "id": "logan-county-sheriff-s-office",
@@ -4170,6 +4455,32 @@
       "source": "https://ozarkhumanesociety.org/"
     },
     {
+      "id": "papillon-haven-rescue",
+      "name": "Papillon Haven Rescue / PapHaven",
+      "type": "National Breed-Rescue Network",
+      "city": "National",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Adoption",
+        "Rescue Referral"
+      ],
+      "phone": "",
+      "email": "info@paphaven.org; jorolan@catc.net",
+      "website": "https://www.paphaven.org/",
+      "facebook": "",
+      "address": "",
+      "intakePolicy": "National rescue network; no current Arkansas mailing address was confirmed. Contact the network to ask about Arkansas assistance.",
+      "serviceArea": "National; Arkansas assistance subject to confirmation",
+      "description": "National Papillon rescue network. The supplied research did not confirm a current Arkansas shelter or mailing location.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
+    },
+    {
       "id": "paragould-animal-control",
       "name": "Paragould Animal Control",
       "type": "Municipal Animal Control",
@@ -4489,6 +4800,32 @@
       "source": "User-provided: rescues and humane societies.rtf"
     },
     {
+      "id": "pit-ridge-rescue",
+      "name": "Pit Ridge Rescue",
+      "type": "Breed-Specific Rescue",
+      "city": "Rogers",
+      "county": "Benton",
+      "zip": "72756",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Foster-Based Rescue",
+        "Adoption"
+      ],
+      "phone": "479-388-0506",
+      "email": "pitridgerescue@gmail.com",
+      "website": "https://pitridge.org/",
+      "facebook": "",
+      "address": "Rogers, AR 72756; no public street address confirmed",
+      "intakePolicy": "Visits are by appointment; contact the rescue before arranging transport or intake.",
+      "serviceArea": "Northwest Arkansas",
+      "description": "Breed-focused dog rescue serving Northwest Arkansas. The supplied research notes that visits are by appointment and no public street address was confirmed.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
+    },
+    {
       "id": "pocahontas-animal-control",
       "name": "Pocahontas Animal Control",
       "type": "Municipal Animal Control",
@@ -4561,6 +4898,32 @@
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+    },
+    {
+      "id": "pointer-rescue-organization",
+      "name": "Pointer Rescue Organization / PointerRescue.Org",
+      "type": "National Breed-Rescue Network",
+      "city": "National",
+      "county": "",
+      "zip": "",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Adoption",
+        "Rescue Referral"
+      ],
+      "phone": "",
+      "email": "",
+      "website": "https://pointerrescue.org/contact/",
+      "facebook": "",
+      "address": "",
+      "intakePolicy": "National Pointer rescue network; no Arkansas-specific representative was confirmed in the supplied research. Use the official contact routes for dogs needing rescue.",
+      "serviceArea": "National; Arkansas representative not confirmed",
+      "description": "National volunteer network rescuing purebred Pointers. The supplied research identifies separate routes for adoption, general inquiries, and dogs needing rescue, but no Arkansas representative was confirmed.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
     },
     {
       "id": "polk-county-sheriff-s-office",
@@ -4711,6 +5074,31 @@
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
     },
     {
+      "id": "pug-rescue-northwest-arkansas",
+      "name": "Pug Rescue of Northwest Arkansas",
+      "type": "Breed-Specific Rescue",
+      "city": "Bentonville",
+      "county": "Benton",
+      "zip": "72712",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Adoption"
+      ],
+      "phone": "",
+      "email": "info@pugrescuenwa.org",
+      "website": "http://pugrescuenwa.org/",
+      "facebook": "",
+      "address": "Mailing: P.O. Box 175, Bentonville, AR 72712",
+      "intakePolicy": "Current activity and intake/contact availability require confirmation; the supplied listings establish historical contact information.",
+      "serviceArea": "Northwest Arkansas",
+      "description": "Pug-focused rescue listing in Northwest Arkansas. Current operation, website availability, and intake activity remain unconfirmed.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
+    },
+    {
       "id": "pulaski-county-sheriff-s-office",
       "name": "Pulaski County Sheriff's Office",
       "type": "County Animal Control Contact / Sheriff's Office",
@@ -4789,6 +5177,31 @@
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: Arkansas Animal Control & Animal Services Directory"
+    },
+    {
+      "id": "rat-terrier-resq-arkansas",
+      "name": "Rat Terrier ResQ — Arkansas Listing",
+      "type": "Breed-Specific Rescue",
+      "city": "Arkadelphia",
+      "county": "Clark",
+      "zip": "71923",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Adoption"
+      ],
+      "phone": "",
+      "email": "ratterrierresq@yahoo.com",
+      "website": "http://www.ratterrierresq.com/",
+      "facebook": "",
+      "address": "Mailing: P.O. Box 293, Arkadelphia, AR 71923",
+      "intakePolicy": "National volunteer rescue with an Arkansas listing. Email is the better-supported contact; do not rely on unconfirmed directory phone numbers.",
+      "serviceArea": "Arkansas listing / National",
+      "description": "Rat Terrier rescue network with an Arkansas listing in Arkadelphia. The supplied research says current phone numbers are not sufficiently confirmed.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
     },
     {
       "id": "rescue-road",
@@ -5345,6 +5758,32 @@
       "source": "User-provided: rescues and humane societies.rtf"
     },
     {
+      "id": "southwest-english-setter-rescue",
+      "name": "Southwest English Setter Rescue (SWESR)",
+      "type": "National Breed-Rescue Network",
+      "city": "Boerne",
+      "county": "",
+      "zip": "78015",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Breed-Specific Rescue",
+        "Adoption",
+        "Rescue Referral"
+      ],
+      "phone": "214-997-3885",
+      "email": "info@swesr.org; rescue@swesr.org",
+      "website": "https://swesr.org/",
+      "facebook": "",
+      "address": "29560 Red Bud Hill, Boerne, TX 78015",
+      "intakePolicy": "Regional English Setter rescue. Arkansas is not among the states listed for rescue intake in the supplied research; treat this as a regional referral only.",
+      "serviceArea": "Southwest U.S.; Arkansas coverage not confirmed",
+      "description": "Southwest English Setter rescue network based in Texas. The supplied research says Arkansas is not among the listed intake states.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(20261008-005256).md"
+    },
+    {
       "id": "spay-arkansas",
       "name": "Spay Arkansas",
       "type": "Spay-Neuter / Pet Wellness / Pet Food Assistance",
@@ -5612,6 +6051,33 @@
       "description": "Animal rescue organization serving South Central Arkansas. The organization is included in Second Leash's Arkansas community directory; contact it directly to confirm current services, availability, and eligibility.",
       "verified": "2026-10-07 (source-list review)",
       "source": "User-provided: rescues and humane societies.rtf"
+    },
+    {
+      "id": "union-county-animal-protection-society-ucaps",
+      "name": "Union County Animal Protection Society (UCAPS)",
+      "type": "Animal Shelter / Rescue",
+      "city": "El Dorado",
+      "county": "Union",
+      "zip": "71730",
+      "animals": [
+        "Dogs",
+        "Cats"
+      ],
+      "services": [
+        "Animal Shelter",
+        "Animal Rescue",
+        "Adoption"
+      ],
+      "phone": "870-866-3223",
+      "email": "ucaps1@yahoo.com",
+      "website": "https://www.ucapsshelter.org/contact",
+      "facebook": "",
+      "address": "Shelter: 1000 Sunset Road, El Dorado, AR 71730; Adoption center: 727 E. Main St., El Dorado, AR 71730",
+      "intakePolicy": "Appointment required for the shelter; contact before visiting.",
+      "serviceArea": "Union County",
+      "description": "Animal shelter and rescue organization serving Union County and the El Dorado area. The supplied research notes that a shelter appointment is required.",
+      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
+      "source": "User-provided research: Pasted markdown(8).md"
     },
     {
       "id": "union-county-sheriff-s-office",
@@ -5912,84 +6378,6 @@
       "description": "Animal-control or animal-services contact identified in the user-provided Arkansas Animal Control & Animal Services directory. Details should be confirmed directly before relying on this listing.",
       "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
       "source": "User-provided research: Pasted markdown(10).md"
-    },
-    {
-      "id": "diamond-dogs-rescue-inc",
-      "name": "Diamond Dogs Rescue Inc.",
-      "type": "Animal Rescue",
-      "city": "Arkansas",
-      "county": "",
-      "zip": "",
-      "animals": [
-        "Dogs"
-      ],
-      "services": [
-        "Animal Rescue",
-        "Foster-Based Rescue"
-      ],
-      "phone": "",
-      "email": "TKDiamond@aol.com",
-      "website": "https://diamonddogsrescueinc.com/",
-      "facebook": "",
-      "address": "",
-      "intakePolicy": "Foster-based rescue; contact the organization before arranging transport or intake.",
-      "serviceArea": "Arkansas",
-      "description": "Foster-based dog rescue organization. No public street address or phone was identified in the supplied research.",
-      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
-      "source": "User-provided research: Pasted markdown(8).md"
-    },
-    {
-      "id": "union-county-animal-protection-society-ucaps",
-      "name": "Union County Animal Protection Society (UCAPS)",
-      "type": "Animal Shelter / Rescue",
-      "city": "El Dorado",
-      "county": "Union",
-      "zip": "71730",
-      "animals": [
-        "Dogs",
-        "Cats"
-      ],
-      "services": [
-        "Animal Shelter",
-        "Animal Rescue",
-        "Adoption"
-      ],
-      "phone": "870-866-3223",
-      "email": "ucaps1@yahoo.com",
-      "website": "https://www.ucapsshelter.org/contact",
-      "facebook": "",
-      "address": "Shelter: 1000 Sunset Road, El Dorado, AR 71730; Adoption center: 727 E. Main St., El Dorado, AR 71730",
-      "intakePolicy": "Appointment required for the shelter; contact before visiting.",
-      "serviceArea": "Union County",
-      "description": "Animal shelter and rescue organization serving Union County and the El Dorado area. The supplied research notes that a shelter appointment is required.",
-      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
-      "source": "User-provided research: Pasted markdown(8).md"
-    },
-    {
-      "id": "hot-springs-animal-services",
-      "name": "Hot Springs Animal Services",
-      "type": "Municipal Animal Services",
-      "city": "Hot Springs",
-      "county": "Garland",
-      "zip": "71901",
-      "animals": [
-        "Dogs",
-        "Cats"
-      ],
-      "services": [
-        "Animal Control",
-        "Animal Shelter / Services"
-      ],
-      "phone": "501-262-2091",
-      "email": "fwetzler@cityhs.net",
-      "website": "https://www.hotspringsar.gov/126/Animal-Services",
-      "facebook": "",
-      "address": "319 Davidson Dr., Hot Springs, AR 71901",
-      "intakePolicy": "Contact the agency before transporting an animal. The supplied research notes that the agency handles stray/nuisance dogs in Garland County as well as animals within Hot Springs.",
-      "serviceArea": "Garland County",
-      "description": "Municipal animal-services agency for Hot Springs; the supplied research states that it also handles stray and nuisance dogs in Garland County.",
-      "verified": "Online sources reviewed October 7, 2026; direct agency confirmation pending",
-      "source": "User-provided research: Pasted markdown(9).md"
     }
   ]
 }
