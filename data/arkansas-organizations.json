@@ -16,7 +16,8 @@
     "User-provided mobile-groomer research was incorporated with route-coverage, new-client availability, and phone-verification caveats preserved.",
     "User-provided pet-sitting and dog-walking research from Pasted markdown(20261008-011624).md was incorporated with service-area, marketplace, availability, and verification caveats preserved.",
     "User-provided rescue contact research from Pasted markdown(20261008-012352).md was incorporated with mailing/intake address distinctions, third-party phone caveats, and direct-confirmation requirements preserved.",
-    "User-provided rescue and shelter research from Pasted markdown(20261008-012654).md was incorporated with foster-network, mailing-address, conflicting-contact, and operating-status caveats preserved."
+    "User-provided rescue and shelter research from Pasted markdown(20261008-012654).md was incorporated with foster-network, mailing-address, conflicting-contact, and operating-status caveats preserved.",
+    "User-provided follow-up research for Paws To Love Me, Adopt-A-Stray Animal Rescue, and Northwest Arkansas Animal Rescue was incorporated. The unresolved Northwest Arkansas Animal Rescue name remains a verification-queue entry and was not matched to another organization."
   ],
   "organizationCount": 299,
   "organizations": [
@@ -91,15 +92,15 @@
         "Foster-Based Rescue"
       ],
       "phone": "501-303-8185",
-      "email": "Kelley.aasr@gmail.com; apps.aasr@gmail.com",
+      "email": "apps.aasr@gmail.com",
       "website": "https://www.adoptastrayrescue.org/",
       "facebook": "",
       "address": "14601 Ansata Dr., Alexander, AR 72002 (directory-listed; not confirmed as public intake)",
-      "intakePolicy": "Contact by email before arranging intake or transport; listed street address is not confirmed as a public intake location.",
+      "intakePolicy": "Foster-based placement; email is the preferred contact method. Contact before arranging intake or transport. The directory-listed street address is not confirmed as a public intake location.",
       "serviceArea": "Central Arkansas",
-      "description": "Arkansas animal rescue serving stray and unwanted animals. Official site indicates email is the preferred contact method.",
+      "description": "Foster-based Arkansas animal rescue. The supplied research says most adoptable dogs remain in Arkansas until adoption and emphasizes email as the preferred contact method.",
       "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
-      "source": "User-provided research: Pasted markdown(20261008-012352).md"
+      "source": "User-provided research: Pasted markdown(20261008-013000).md; earlier research preserved"
     },
     {
       "id": "all-about-labs",
@@ -5256,6 +5257,27 @@
       "source": "https://www.neahs.org/contact-us"
     },
     {
+      "id": "northwest-arkansas-animal-rescue-verification-pending",
+      "name": "Northwest Arkansas Animal Rescue",
+      "type": "Animal Rescue — Verification Pending",
+      "city": "Northwest Arkansas",
+      "county": "",
+      "animals": [],
+      "services": [
+        "Animal Rescue — Verification Pending"
+      ],
+      "phone": "",
+      "email": "",
+      "website": "",
+      "facebook": "",
+      "address": "Northwest Arkansas; no confirmed organization address",
+      "intakePolicy": "Exact organization identity not resolved. Do not substitute another Northwest Arkansas rescue without direct evidence.",
+      "serviceArea": "Northwest Arkansas",
+      "description": "Exact organization identity could not be confidently established under this name. Kept in the verification queue rather than attaching another rescue's contacts.",
+      "verified": "Verification pending; exact organization identity not confirmed.",
+      "source": "User-provided research: Pasted markdown(20261008-013000).md"
+    },
+    {
       "id": "searcy-county-humane-society",
       "name": "Operation Kindness Searcy County Humane Society",
       "type": "Humane Society / Private Shelter",
@@ -5669,6 +5691,33 @@
       "description": "501(c)(3) nonprofit providing veterinary care assistance to low-income White County families, with a focus on affordable sterilization.",
       "verified": "2026-10-07",
       "source": "https://www.pawsinnhaven.org/"
+    },
+    {
+      "id": "paws-to-love-me",
+      "name": "Paws To Love Me",
+      "type": "Animal Rescue",
+      "city": "Bella Vista",
+      "county": "Benton",
+      "zip": "72714",
+      "animals": [
+        "Dogs"
+      ],
+      "services": [
+        "Animal Rescue",
+        "Foster-Based Rescue",
+        "Adoption",
+        "Spay/Neuter Advocacy"
+      ],
+      "phone": "",
+      "email": "chris@pawstoloveme.org",
+      "website": "https://www.pawstoloveme.org/",
+      "facebook": "",
+      "address": "Mailing: P.O. Box 5241, Bella Vista, AR 72714",
+      "intakePolicy": "Contact through the rescue before arranging intake or transport. Do not use the Springdale veterinary-clinic phone or address as the rescue's contact information.",
+      "serviceArea": "Northwest Arkansas",
+      "description": "Bella Vista rescue partner focused on saving shelter dogs, adoption, fostering, and promoting spay/neuter. No direct rescue phone was confirmed in the supplied research.",
+      "verified": "Online sources reviewed October 7, 2026; direct organization confirmation pending.",
+      "source": "User-provided research: Pasted markdown(20261008-013000).md"
     },
     {
       "id": "pawtastic-mobile-pet-spa",
