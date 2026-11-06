@@ -22,12 +22,12 @@ create index if not exists rb_memorials_owner_idx on public.rb_memorials(owner_i
 create index if not exists rb_memorials_public_idx on public.rb_memorials(created_at desc) where status='approved' and visibility='public';
 alter table public.rb_memorials enable row level security;
 -- Owner may see their own submissions; visitors see approved public memorials only.
-create policy "rb_read_own_or_public" on public.rb_memorials for select to authenticated using (owner_id=(select auth.uid()) or (status='approved' and visibility='public'));
-create policy "rb_read_public" on public.rb_memorials for select to anon using (status='approved' and visibility='public');
+create policy "rb_read_own_or_public" on public.rb_memorials for select to authenticated using (owner_id=(select auth.uid()));
+-- Public listings must use a safe, explicitly scoped server endpoint; no anonymous access to the owner-bearing table.
 create policy "rb_insert_own_pending" on public.rb_memorials for insert to authenticated with check (owner_id=(select auth.uid()) and status='pending' and reviewed_at is null);
 -- No client UPDATE/DELETE policy: review, corrections and removal require trusted server endpoints.
 revoke all on public.rb_memorials from anon, authenticated;
-grant select on public.rb_memorials to anon, authenticated;
+grant select on public.rb_memorials to authenticated;
 grant insert (owner_id,pet_name,species,nickname,birth_year,passing_year,tribute,favorite_memory,visibility,allow_messages) on public.rb_memorials to authenticated;
 -- Photos: private until approved; uploads must be associated with authenticated owners.
 insert into storage.buckets (id,name,public,file_size_limit,allowed_mime_types)
