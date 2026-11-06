@@ -14,8 +14,8 @@
 <p class="eyebrow">A forever place in our hearts</p>
 <h1>Create a Memorial</h1>
 <p class="intro">Every beloved companion deserves to be remembered. Share their story and create a little corner of the garden filled with love.</p>
-<div class="notice" role="status"><strong>Development preview:</strong> This page is not connected to submission storage yet. No memorials or photographs are sent or saved. Please do not enter sensitive information.</div>
-<div class="panel">
+<div class="notice" role="status"><strong>Development preview:</strong> Development environment: submissions are stored privately for review, but this page is not live. Do not submit real memorials until testing is complete.</div>
+<div class="panel"><section id="account"><h2>Sign in to save your memorial</h2><p class="hint">Enter your email and we will send a secure sign-in link. Your email is never shown on the memorial.</p><label for="email">Your email address</label><input id="email" type="email" autocomplete="email" placeholder="you@example.com"><div class="actions"><button type="button" id="sendLink">Email me a sign-in link</button><button type="button" class="secondary" id="signOut" hidden>Sign out</button></div><p id="authStatus" role="status" aria-live="polite"></p></section><hr style="border:0;border-top:1px solid #e6d9c7;margin:25px 0">
 <div class="progress" aria-label="Form progress"><span class="active"></span><span></span><span></span><span></span><span></span></div>
 <form id="memorial" novalidate>
 <section data-step="0"><h2>1. Meet your companion</h2>
@@ -40,7 +40,7 @@
 </section>
 <section data-step="4" hidden><h2>5. Review your memorial</h2><div class="preview" id="preview"></div>
 <label class="choice"><input type="checkbox" id="permission"> I confirm I have permission to share this tribute and any photographs I selected.</label>
-<p class="hint">All memorials will require Second Leash approval before publication. This prototype cannot submit a memorial.</p>
+<p class="hint">All memorials require Second Leash approval before publication. Only signed-in visitors can submit.</p>
 </section>
 <p id="feedback" class="error" role="alert" aria-live="polite"></p>
 <div class="actions"><button type="button" id="back" class="secondary" hidden>← Back</button><button type="button" id="next">Continue →</button></div>
@@ -53,14 +53,15 @@
 const sections=[...document.querySelectorAll('[data-step]')],bars=[...document.querySelectorAll('.progress span')],form=document.querySelector('#memorial'),next=document.querySelector('#next'),back=document.querySelector('#back'),feedback=document.querySelector('#feedback'),files=document.querySelector('#photos'),summary=document.querySelector('#photoSummary');
 let step=0,previewUrl=null;
 const val=id=>document.getElementById(id).value.trim();
-function show(){sections.forEach((s,i)=>{s.hidden=i!==step;s.classList.toggle('hidden',i!==step)});bars.forEach((b,i)=>b.classList.toggle('active',i<=step));back.hidden=step===0;next.textContent=step===4?'Preview complete ✓':'Continue →';feedback.textContent='';}
+function show(){sections.forEach((s,i)=>{s.hidden=i!==step;s.classList.toggle('hidden',i!==step)});bars.forEach((b,i)=>b.classList.toggle('active',i<=step));back.hidden=step===0;next.textContent=step===4?'Submit for review':'Continue →';feedback.textContent='';}
 function validate(){if(step===0){if(!val('petName'))return 'Please enter your companion’s name.';const a=Number(val('birthYear')),b=Number(val('passingYear'));if(a&&b&&a>b)return 'The birth year cannot be after the passing year.';}if(step===1&&!val('tribute'))return 'Please add a tribute.';if(step===2){if(files.files.length>5)return 'Please select no more than 5 photos.';for(const f of files.files){if(!['image/jpeg','image/png','image/webp'].includes(f.type)||f.size>5*1024*1024)return 'Photos must be JPG, PNG, or WebP and under 5 MB each.';}}return '';}
 function renderPreview(){const p=document.querySelector('#preview');p.replaceChildren();if(previewUrl){URL.revokeObjectURL(previewUrl);previewUrl=null;}const heading=document.createElement('h3');heading.textContent='In Loving Memory of '+val('petName');p.append(heading);const dates=document.createElement('p');dates.textContent=[val('birthYear'),val('passingYear')].filter(Boolean).join(' – ')||'Forever loved';p.append(dates);if(files.files[0]){previewUrl=URL.createObjectURL(files.files[0]);const img=document.createElement('img');img.src=previewUrl;img.alt='Selected memorial photo';p.append(img);}for(const value of [val('tribute'),val('memory')])if(value){const el=document.createElement('p');el.textContent=value;p.append(el);}const v=document.createElement('small');v.textContent='Visibility: '+form.elements.visibility.value;p.append(v);}
-next.addEventListener('click',()=>{feedback.textContent='';const error=validate();if(error){feedback.textContent=error;return;}if(step===4){if(!document.querySelector('#permission').checked){feedback.textContent='Please confirm you have permission to share this memorial.';return;}feedback.className='success';feedback.textContent='Preview completed. No information was submitted or saved.';return;}step++;if(step===4)renderPreview();show();sections[step].querySelector('h2')?.focus();});
+next.addEventListener('click',()=>{feedback.textContent='';const error=validate();if(error){feedback.textContent=error;return;}if(step===4){if(!document.querySelector('#permission').checked){feedback.textContent='Please confirm you have permission to share this memorial.';return;}feedback.className='success';feedback.textContent='Submitting securely…';window.dispatchEvent(new CustomEvent('rb-submit'));return;}step++;if(step===4)renderPreview();show();sections[step].querySelector('h2')?.focus();});
 back.addEventListener('click',()=>{if(step>0){step--;show();}});
 files.addEventListener('change',()=>{summary.textContent=files.files.length?files.files.length+' photo(s) selected for local preview.':'No photos selected.';});
 window.addEventListener('pagehide',()=>{if(previewUrl)URL.revokeObjectURL(previewUrl);});
 show();
 })();
 </script>
+<script type="module" src="./submit.js"></script>
 </body></html>
