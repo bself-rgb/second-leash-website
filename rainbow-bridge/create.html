@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Create a Memorial | Second Leash Rainbow Bridge</title>
+<meta name="description" content="Honor a beloved companion in the Second Leash Rainbow Bridge Memorial Garden.">
+<style>
+:root{font-family:system-ui,-apple-system,Segoe UI,sans-serif;color:#24344a;background:#f6efe5}*{box-sizing:border-box}body{margin:0;line-height:1.55}a{color:inherit}header{background:#192b45;color:#fff;padding:18px 5%;display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap}header a{font-weight:700;text-decoration:none}main{max-width:800px;margin:0 auto;padding:36px 18px 80px}.eyebrow{color:#386f69;letter-spacing:.12em;text-transform:uppercase;font-size:.8rem;font-weight:800}h1,h2{font-family:Georgia,serif}h1{font-size:clamp(2rem,6vw,3.3rem);line-height:1.15;margin:12px 0}.intro{font-size:1.1rem}.panel{background:#fffdf9;border:1px solid #e6d9c7;border-radius:22px;padding:clamp(20px,5vw,38px);box-shadow:0 10px 30px #192b4510;margin-top:28px}.progress{display:flex;gap:6px;margin:20px 0 30px}.progress span{height:7px;flex:1;background:#e9e0d4;border-radius:12px}.progress span.active{background:#c58e43}label{display:block;font-weight:700;margin:18px 0 6px}input,select,textarea{width:100%;padding:12px 14px;border:1px solid #9d9c99;border-radius:10px;font:inherit;background:white;color:#24344a}input:focus,select:focus,textarea:focus,button:focus-visible{outline:3px solid #d7a44c;outline-offset:2px}textarea{min-height:130px;resize:vertical}.row{display:grid;grid-template-columns:1fr 1fr;gap:16px}.choice{display:flex;align-items:flex-start;gap:10px;margin:12px 0;font-weight:400}.choice input{width:auto;margin-top:6px}.hint{font-size:.88rem;color:#5e6872}.actions{display:flex;justify-content:space-between;gap:12px;margin-top:30px}button{background:#1e5c57;color:white;border:0;border-radius:999px;padding:12px 24px;font:inherit;font-weight:700;cursor:pointer}button.secondary{background:#e7e0d5;color:#24344a}button:disabled{opacity:.5;cursor:not-allowed}.hidden{display:none!important}.preview{background:linear-gradient(#fdf8ed,#f1e4d8);border-radius:16px;padding:25px;text-align:center;overflow-wrap:anywhere}.preview h3{font-family:Georgia,serif;font-size:1.8rem}.preview img{max-width:100%;max-height:300px;border-radius:14px;object-fit:contain}.notice{padding:14px;border-radius:12px;background:#eaf1ed;border-left:4px solid #386f69}.error{color:#a52c36;font-weight:700}.success{color:#216b4c;font-weight:700}footer{text-align:center;color:#526071;padding:20px}@media(max-width:560px){.row{grid-template-columns:1fr}.actions button{padding:12px 16px}}
+</style>
+</head>
+<body>
+<header><a href="../index.html">🐾 Second Leash</a><span>🌈 Rainbow Bridge Memorial Garden</span></header>
+<main>
+<p class="eyebrow">A forever place in our hearts</p>
+<h1>Create a Memorial</h1>
+<p class="intro">Every beloved companion deserves to be remembered. Share their story and create a little corner of the garden filled with love.</p>
+<div class="notice" role="status"><strong>Development preview:</strong> This page is not connected to submission storage yet. No memorials or photographs are sent or saved. Please do not enter sensitive information.</div>
+<div class="panel">
+<div class="progress" aria-label="Form progress"><span class="active"></span><span></span><span></span><span></span><span></span></div>
+<form id="memorial" novalidate>
+<section data-step="0"><h2>1. Meet your companion</h2>
+<label for="petName">Pet's name *</label><input id="petName" name="petName" required maxlength="100" value="Bailey" autocomplete="off">
+<label for="species">Companion type *</label><select id="species" name="species" required><option>Dog</option><option>Cat</option><option>Bird</option><option>Rabbit</option><option>Other companion animal</option></select>
+<label for="nickname">Nickname (optional)</label><input id="nickname" name="nickname" maxlength="100" value="My sunshine">
+<div class="row"><div><label for="birthYear">Birth year (optional)</label><input id="birthYear" name="birthYear" type="number" min="1850" max="2100" value="2009"></div><div><label for="passingYear">Passing year (optional)</label><input id="passingYear" name="passingYear" type="number" min="1850" max="2100" value="2025"></div></div>
+</section>
+<section data-step="1" hidden><h2>2. Their story</h2>
+<label for="tribute">Your tribute *</label><textarea id="tribute" name="tribute" required maxlength="4000">You filled our days with laughter and our hearts with love. Until we meet again at the Rainbow Bridge.</textarea>
+<label for="memory">A favorite memory (optional)</label><textarea id="memory" name="memory" maxlength="3000">The way you greeted everyone like they were your favorite person in the world.</textarea>
+</section>
+<section data-step="2" hidden><h2>3. A cherished photograph</h2>
+<label for="photos">Choose up to 5 photos (optional)</label><input id="photos" type="file" accept="image/jpeg,image/png,image/webp" multiple aria-describedby="photoHint"><p id="photoHint" class="hint">JPG, PNG, or WebP. Maximum 5 MB per photo. Photos stay on your device in this preview.</p><div id="photoSummary" aria-live="polite"></div>
+</section>
+<section data-step="3" hidden><h2>4. Privacy and sharing</h2>
+<fieldset><legend>Who should be able to visit the memorial?</legend>
+<label class="choice"><input type="radio" name="visibility" value="public" checked> Public — visible in the garden and search</label>
+<label class="choice"><input type="radio" name="visibility" value="unlisted"> Unlisted — accessible to anyone with its direct link</label></fieldset>
+<label class="choice"><input type="checkbox" id="allowMessages" checked> Allow visitors to leave remembrance messages (subject to review)</label>
+<p class="hint">The live version will ask for a private contact email to send review updates and manage your memorial. It will not appear publicly.</p>
+</section>
+<section data-step="4" hidden><h2>5. Review your memorial</h2><div class="preview" id="preview"></div>
+<label class="choice"><input type="checkbox" id="permission"> I confirm I have permission to share this tribute and any photographs I selected.</label>
+<p class="hint">All memorials will require Second Leash approval before publication. This prototype cannot submit a memorial.</p>
+</section>
+<p id="feedback" class="error" role="alert" aria-live="polite"></p>
+<div class="actions"><button type="button" id="back" class="secondary" hidden>← Back</button><button type="button" id="next">Continue →</button></div>
+</form>
+</div>
+</main>
+<footer>Second Leash · Honoring the love that stays with us.</footer>
+<script>
+(()=>{'use strict';
+const sections=[...document.querySelectorAll('[data-step]')],bars=[...document.querySelectorAll('.progress span')],form=document.querySelector('#memorial'),next=document.querySelector('#next'),back=document.querySelector('#back'),feedback=document.querySelector('#feedback'),files=document.querySelector('#photos'),summary=document.querySelector('#photoSummary');
+let step=0,previewUrl=null;
+const val=id=>document.getElementById(id).value.trim();
+function show(){sections.forEach((s,i)=>{s.hidden=i!==step;s.classList.toggle('hidden',i!==step)});bars.forEach((b,i)=>b.classList.toggle('active',i<=step));back.hidden=step===0;next.textContent=step===4?'Preview complete ✓':'Continue →';feedback.textContent='';}
+function validate(){if(step===0){if(!val('petName'))return 'Please enter your companion’s name.';const a=Number(val('birthYear')),b=Number(val('passingYear'));if(a&&b&&a>b)return 'The birth year cannot be after the passing year.';}if(step===1&&!val('tribute'))return 'Please add a tribute.';if(step===2){if(files.files.length>5)return 'Please select no more than 5 photos.';for(const f of files.files){if(!['image/jpeg','image/png','image/webp'].includes(f.type)||f.size>5*1024*1024)return 'Photos must be JPG, PNG, or WebP and under 5 MB each.';}}return '';}
+function renderPreview(){const p=document.querySelector('#preview');p.replaceChildren();if(previewUrl){URL.revokeObjectURL(previewUrl);previewUrl=null;}const heading=document.createElement('h3');heading.textContent='In Loving Memory of '+val('petName');p.append(heading);const dates=document.createElement('p');dates.textContent=[val('birthYear'),val('passingYear')].filter(Boolean).join(' – ')||'Forever loved';p.append(dates);if(files.files[0]){previewUrl=URL.createObjectURL(files.files[0]);const img=document.createElement('img');img.src=previewUrl;img.alt='Selected memorial photo';p.append(img);}for(const value of [val('tribute'),val('memory')])if(value){const el=document.createElement('p');el.textContent=value;p.append(el);}const v=document.createElement('small');v.textContent='Visibility: '+form.elements.visibility.value;p.append(v);}
+next.addEventListener('click',()=>{feedback.textContent='';const error=validate();if(error){feedback.textContent=error;return;}if(step===4){if(!document.querySelector('#permission').checked){feedback.textContent='Please confirm you have permission to share this memorial.';return;}feedback.className='success';feedback.textContent='Preview completed. No information was submitted or saved.';return;}step++;if(step===4)renderPreview();show();sections[step].querySelector('h2')?.focus();});
+back.addEventListener('click',()=>{if(step>0){step--;show();}});
+files.addEventListener('change',()=>{summary.textContent=files.files.length?files.files.length+' photo(s) selected for local preview.':'No photos selected.';});
+window.addEventListener('pagehide',()=>{if(previewUrl)URL.revokeObjectURL(previewUrl);});
+show();
+})();
+</script>
+</body></html>
