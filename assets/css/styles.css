@@ -471,3 +471,18 @@ h1,h2,h3{font-family:Georgia,"Times New Roman",serif}
 .btn--gold{color:#282017}
 .nav-toggle{background:#681b2a}
 @media(max-width:58rem){.site-nav{background:#faf6ee}}
+
+/* Holiday finishing details, consistent on every page using the shared stylesheet */
+.site-header .brand img{object-fit:contain;box-shadow:0 0 0 2px #d6b77b;width:48px;height:48px}
+.site-nav a:focus-visible,.btn:focus-visible{outline:3px solid #b58b47;outline-offset:3px}
+.page-hero{position:relative;overflow:hidden}
+.page-hero:after{content:"✦  ❧  ✦";position:absolute;right:3%;bottom:0;color:#d6b77b;opacity:.55;font-size:2.3rem;pointer-events:none}
+.section--navy .eyebrow{color:#f1d49e}
+.site-footer h2,.site-footer h3{color:#f9eedb}
+.site-footer{color:#f9eedb}
+.site-footer a:hover{text-decoration:underline}
+.holiday-service-card{transition:transform .2s ease,box-shadow .2s ease}
+.holiday-service-card:hover{transform:translateY(-3px);box-shadow:0 12px 26px rgba(56,39,26,.13)}
+@media(max-width:58rem){.site-nav[data-open="true"]{max-height:calc(100vh - 5rem);overflow:auto}.site-nav a{min-height:44px}}
+@media(max-width:550px){.holiday-hero:before,.holiday-final:before{letter-spacing:.5rem;font-size:.7rem}.holiday-story img{box-shadow:8px 8px 0 #e9d5b4}}
+@media(prefers-reduced-motion:reduce){.holiday-service-card{transition:none}.holiday-service-card:hover{transform:none}}
