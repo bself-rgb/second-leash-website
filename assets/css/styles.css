@@ -430,3 +430,32 @@ textarea { min-height: 9rem; resize: vertical; }
   body { color: #000; background: #fff; }
   a { color: #000; text-decoration: underline; }
 }
+
+/* Holiday 2026 redesign: human-services-centered visual layer */
+:root{--navy:#183d2d;--navy-2:#28513a;--teal:#681b2a;--teal-dark:#551522;--gold:#d6b77b;--gold-dark:#9d7a40;--cream:#f7eddb;--ink:#302b26;--muted:#5b5149;--line:#dfd2bc;--soft:#f4eadc;--shadow:0 14px 40px rgba(49,31,24,.14)}
+body{background:#faf6ee}
+h1,h2,h3{font-family:Georgia,"Times New Roman",serif}
+.site-header{background:#faf6ee;border-bottom:2px solid #d6b77b}
+.brand{color:#183d2d}.brand img{border-radius:50%;background:#f7eddb}
+.site-nav .nav-donate{background:#681b2a;color:#fff}.site-nav .nav-donate:hover{background:#551522}
+.site-nav a:hover,.site-nav a[aria-current="page"]{background:#efe1ce}
+.holiday-hero{position:relative;background:radial-gradient(circle at 20% 20%,rgba(214,183,123,.18),transparent 40%),linear-gradient(120deg,#173b2c,#214a35);color:#fff;padding:clamp(3rem,7vw,6rem) 0;overflow:hidden}
+.holiday-hero:before,.holiday-final:before{content:"✦  ✧  ✦  ✧  ✦";position:absolute;top:1.2rem;right:4%;color:#d6b77b;letter-spacing:1.5rem;opacity:.55}
+.holiday-hero__grid{display:grid;grid-template-columns:1.08fr .92fr;gap:clamp(2rem,5vw,5rem);align-items:center}
+.holiday-hero h1{color:#fff;font-size:clamp(2.65rem,5.3vw,5.4rem);line-height:1.08;max-width:12ch}
+.holiday-hero h1 em{color:#e7c88e;font-style:italic}
+.holiday-kicker{color:#e7c88e;text-transform:uppercase;letter-spacing:.15em;font-weight:800;font-size:.82rem}
+.holiday-intro{font-size:clamp(1.05rem,1.7vw,1.3rem);max-width:39rem;color:#f3ecdf}
+.holiday-small{font-size:.85rem;color:#e6dccc;margin-top:1.4rem}
+.holiday-hero .btn--outline,.holiday-final .btn--outline{border-color:#f7eddb;color:#fff}
+.holiday-hero .btn--outline:hover,.holiday-final .btn--outline:hover{background:#f7eddb;color:#183d2d}
+.holiday-hero__image{position:relative;border:9px solid #f6eddd;border-radius:48% 48% 10px 10px;overflow:hidden;box-shadow:0 20px 50px #0b231b}
+.holiday-hero__image img{width:100%;height:clamp(320px,43vw,550px);object-fit:cover;display:block}
+.holiday-image-caption{position:absolute;bottom:0;left:0;right:0;padding:1.4rem 1rem;background:linear-gradient(transparent,rgba(18,37,28,.9));color:#fff;text-align:center;font-family:Georgia,serif;font-size:1.15rem}
+.holiday-ribbon{background:#681b2a;color:#f8e8c6;text-align:center;padding:.9rem}.holiday-ribbon p{margin:0;font-family:Georgia,serif;font-size:clamp(1.05rem,2.5vw,1.5rem)}
+.holiday-impact{text-align:center;background:#faf6ee}.holiday-impact h2{max-width:780px;margin:0 auto 2rem}.holiday-stat-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin:2rem 0}.holiday-stat-grid>div{padding:1.6rem 1rem;border-top:2px solid #d6b77b;border-bottom:2px solid #d6b77b}.holiday-stat-grid strong{display:block;font:700 clamp(3rem,6vw,5rem) Georgia,serif;color:#681b2a}.holiday-stat-grid span{display:block;color:#183d2d;font-weight:700}.holiday-center{max-width:650px;margin:0 auto}
+.holiday-services{background:#f3eadb}.holiday-services .lead{max-width:820px}.holiday-card-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.2rem;margin-top:2rem}.holiday-service-card{background:#fffaf1;border:1px solid #ddc9aa;border-radius:14px;padding:1.7rem;box-shadow:0 8px 22px rgba(56,39,26,.06)}.holiday-service-card>span{display:block;color:#9a7a47;font-size:2rem}.holiday-service-card h3{font-size:1.5rem}.holiday-service-card p{margin-bottom:.5rem}.holiday-service-card a{color:#681b2a;font-weight:800}.holiday-disclaimer{font-size:.87rem;margin-top:2rem;color:#594e43}
+.holiday-story{background:#fffaf2}.holiday-story__grid{display:grid;grid-template-columns:.85fr 1.15fr;align-items:center;gap:clamp(2rem,6vw,5rem)}.holiday-story img{width:100%;max-height:410px;object-fit:cover;border-radius:12px;box-shadow:16px 16px 0 #e9d5b4}
+.holiday-paths{background:#eee2ce}.holiday-final{position:relative;text-align:center;background:linear-gradient(125deg,#541c28,#711f30);color:#fff;padding:5rem 1rem}.holiday-final h2{color:#fff;font-size:clamp(2rem,4vw,3.6rem)}.holiday-final p{color:#f5e9db}.holiday-final .actions{justify-content:center}
+@media(max-width:800px){.holiday-hero__grid,.holiday-story__grid{grid-template-columns:1fr}.holiday-hero__image{max-width:570px}.holiday-card-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:550px){.holiday-card-grid,.holiday-stat-grid{grid-template-columns:1fr}.holiday-hero{padding:3rem 0}.holiday-hero h1{font-size:2.8rem}.holiday-stat-grid>div{padding:.8rem}.holiday-hero__image img{height:300px}}
