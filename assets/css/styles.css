@@ -459,3 +459,15 @@ h1,h2,h3{font-family:Georgia,"Times New Roman",serif}
 .holiday-paths{background:#eee2ce}.holiday-final{position:relative;text-align:center;background:linear-gradient(125deg,#541c28,#711f30);color:#fff;padding:5rem 1rem}.holiday-final h2{color:#fff;font-size:clamp(2rem,4vw,3.6rem)}.holiday-final p{color:#f5e9db}.holiday-final .actions{justify-content:center}
 @media(max-width:800px){.holiday-hero__grid,.holiday-story__grid{grid-template-columns:1fr}.holiday-hero__image{max-width:570px}.holiday-card-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:550px){.holiday-card-grid,.holiday-stat-grid{grid-template-columns:1fr}.holiday-hero{padding:3rem 0}.holiday-hero h1{font-size:2.8rem}.holiday-stat-grid>div{padding:.8rem}.holiday-hero__image img{height:300px}}
+
+/* Consistent interior pages and accessible holiday accents */
+.page-hero{background:radial-gradient(circle at 90% 15%,rgba(214,183,123,.24),transparent 24rem),linear-gradient(115deg,#183d2d,#31563d);border-bottom:5px solid #d6b77b}
+.page-hero h1,.page-hero .lead,.page-hero .breadcrumb,.page-hero .breadcrumb a{color:#fff}
+.page-hero h1{max-width:900px}.page-hero .lead{max-width:760px;color:#f4e9d8}
+.site-footer{background:#183d2d;border-top:5px solid #d6b77b}
+.site-footer a{color:#f8e7c4}
+.card,.step,.notice{border-color:#dfd2bc}
+.btn--primary{background:#681b2a;color:#fff}.btn--primary:hover{background:#501522}
+.btn--gold{color:#282017}
+.nav-toggle{background:#681b2a}
+@media(max-width:58rem){.site-nav{background:#faf6ee}}
