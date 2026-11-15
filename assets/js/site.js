@@ -10,6 +10,20 @@
       toggle.setAttribute('aria-expanded', String(!open));
     });
 
+    nav.addEventListener('click', (event) => {
+      if (event.target.closest('a')) {
+        nav.setAttribute('data-open', 'false');
+        toggle.setAttribute('aria-expanded', 'false');
+      }
+    });
+
+    document.addEventListener('click', (event) => {
+      if (!nav.contains(event.target) && !toggle.contains(event.target)) {
+        nav.setAttribute('data-open', 'false');
+        toggle.setAttribute('aria-expanded', 'false');
+      }
+    });
+
     document.addEventListener('keydown', (event) => {
       if (event.key === 'Escape') {
         nav.setAttribute('data-open', 'false');
