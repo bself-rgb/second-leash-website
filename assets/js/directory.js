@@ -16,13 +16,26 @@ const emptyMessage = document.getElementById("emptyMessage");
 
 async function loadOrganizations() {
   try {
-    const response = await fetch(DATA_FILE);
-
-    if (!response.ok) {
-      throw new Error(`Could not load directory data: ${response.status}`);
+    // Prefer the copy hosted on Second Leash; fall back to the published
+    // repository data if the website host does not serve the JSON asset.
+    const sources = [
+      new URL(DATA_FILE, document.baseURI).href,
+      "https://raw.githubusercontent.com/bself-rgb/second-leash-website/main/data/arkansas-organizations.json"
+    ];
+    let data;
+    let lastError;
+    for (const source of sources) {
+      try {
+        const response = await fetch(source, { cache: "no-cache" });
+        if (!response.ok) throw new Error(`HTTP ${response.status} from ${source}`);
+        data = await response.json();
+        break;
+      } catch (error) {
+        lastError = error;
+        console.warn("Directory source unavailable:", source, error);
+      }
     }
-
-    const data = await response.json();
+    if (!data) throw lastError || new Error("Directory data unavailable");
 
     // Support the directory JSON wrapper used by the site, while remaining
     // compatible with a plain array if the data file is ever simplified.
