@@ -581,3 +581,6 @@ h1,h2,h3{font-family:Georgia,"Times New Roman",serif}
 
 /* Keep Precious and Bubby fully visible in their dog profile cards. */
 .pup-card:has(img[src$="/p.jpg"]) img,.pup-card:has(img[src$="/bub.png"]) img{object-fit:contain;background:#f4eadb}
+
+/* Explicitly disable all previously used decorative holly overlays. */
+.vintage-header .vintage-masthead::before,.vintage-header .vintage-masthead::after,.vintage-hero::before,.vintage-hero::after,.vintage-gift::before,.vintage-gift::after{content:none!important;background-image:none!important;display:none!important}
