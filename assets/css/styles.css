@@ -486,3 +486,15 @@ h1,h2,h3{font-family:Georgia,"Times New Roman",serif}
 @media(max-width:58rem){.site-nav[data-open="true"]{max-height:calc(100vh - 5rem);overflow:auto}.site-nav a{min-height:44px}}
 @media(max-width:550px){.holiday-hero:before,.holiday-final:before{letter-spacing:.5rem;font-size:.7rem}.holiday-story img{box-shadow:8px 8px 0 #e9d5b4}}
 @media(prefers-reduced-motion:reduce){.holiday-service-card{transition:none}.holiday-service-card:hover{transform:none}}
+
+/* Meet Our Pups */
+.pup-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.4rem;margin-top:2rem}
+.pup-card{overflow:hidden;padding:0 0 1.6rem;background:#fffaf1;border:1px solid #dfd2bc;box-shadow:0 10px 24px rgba(56,39,26,.08)}
+.pup-card img,.pup-placeholder{display:block;width:100%;height:235px;object-fit:cover;background:#e9dcc4}
+.pup-placeholder{display:grid;place-items:center;color:#681b2a;font-size:3.5rem}
+.pup-card h3,.pup-card p{margin-left:1.4rem;margin-right:1.4rem}
+.pup-card h3{margin-top:.2rem;color:#183d2d}
+.pup-status{font-size:.78rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#7c2435;margin-top:1.3rem;margin-bottom:.4rem}
+.pup-note{padding:.9rem 1.1rem;background:#f1e5d2;border-left:4px solid #9d7a40;font-size:.94rem}
+@media(max-width:850px){.pup-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){.pup-grid{grid-template-columns:1fr}.pup-card img,.pup-placeholder{height:260px}}
