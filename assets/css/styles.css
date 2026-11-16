@@ -557,3 +557,6 @@ h1,h2,h3{font-family:Georgia,"Times New Roman",serif}
 
 /* User-selected Christmas family hero photo; upload this image to assets/images/christmas-family-hero.jpg */
 .vintage-hero{background-image:linear-gradient(90deg,rgba(9,11,12,.95) 0%,rgba(10,12,13,.8) 34%,rgba(10,12,13,.18) 72%),url('../images/christmas-family-hero.jpg');background-position:center center}
+
+/* Uploaded holiday logo in masthead */
+.vintage-brand img{content:url('../images/second-leash-christmas-logo.png');object-fit:contain}
